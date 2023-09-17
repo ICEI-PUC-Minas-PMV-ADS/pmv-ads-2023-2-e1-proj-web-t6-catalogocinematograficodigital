@@ -2,7 +2,6 @@
 
 ## Perfis de Usuários
 
-[Enumere e faça o detalhamento dos perfis de usuários. Utilize o modelo de tabela abaixo para sintetizá-los.]
 
 <table>
 <tbody>
@@ -15,7 +14,8 @@
 </tr>
 <tr>
 <td><b>Necessidades</b></td>
-<td>-  Ranquear as obras audiovisuais assistidas, listar e ter do que já foi ou não assistido.
+<td>
+- Ranquear as obras audiovisuais assistidas, listar e ter do que já foi ou não assistido.
   
 - Buscar um recurso para acompanhar os lançamentos mais populares do cinema, como também para aqueles que não estão no radar dos principais veículos de notícia.
   
@@ -33,6 +33,37 @@
 </tr>
 </tbody>
 </table>
+
+
+<table>
+<tbody>
+<tr align=center>
+<th colspan="2">Perfil: Engajadora social </th>
+</tr>
+<tr>
+<td width="150px"><b>Descrição</b></td>
+<td width="600px">Trabalha com o uso de plataformas de redes sociais com foco em cinema e séries.</td>
+</tr>
+<tr>
+<td><b>Necessidades</b></td>
+<td>
+- Criar listas temáticas para diversos públicos.
+  
+- Aumentar sua interação com seus seguidores.
+  
+- Incorporar às suas resenhas públicas links para suas plataformas so-ciais, aumentando a visibilidade de seus conteúdos.
+  
+- Acessar conteúdos cinematográficos a qualquer hora, sem perda de tempo e de forma simples.
+  
+- Acompanhar as críticas e recepções do público a filmes e séries.
+  
+- Pesquisar tendências e similaridades de gostos de novas obras.
+  
+</td>
+</tr>
+</tbody>
+</table>
+
 
 
 ## Histórias de Usuários
