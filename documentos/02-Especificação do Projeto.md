@@ -7,15 +7,29 @@
 <table>
 <tbody>
 <tr align=center>
-<th colspan="2">Perfil Nome </th>
+<th colspan="2">Perfil: Cinéfilo </th>
 </tr>
 <tr>
 <td width="150px"><b>Descrição</b></td>
-<td width="600px">...</td>
+<td width="600px">Possui interesse pelo cinema e conhecimento sobre o assunto.</td>
 </tr>
 <tr>
 <td><b>Necessidades</b></td>
-<td>...</td>
+<td>-  Ranquear as obras audiovisuais assistidas, listar e ter do que já foi ou não assistido.
+  
+- Buscar um recurso para acompanhar os lançamentos mais populares do cinema, como também para aqueles que não estão no radar dos principais veículos de notícia.
+  
+- Encontrar uma fonte confiável de avaliações e opiniões sobre os filmes e séries, para tomar decisões informadas sobre o que assistir.
+  
+- Criar lista de filmes e séries favoritos, classificações e divisões temáti-cas que ele mesmo possa controlar os critérios, além de listas referen-tes ao que já consumiu ou falta consumir.
+  
+- Compartilhar suas recomendações e opiniões com seus amigos e outras pessoas de gosto semelhante no ambiente online.
+  
+- Centralizar informações relevantes sobre cada filme ou série, incluindo sinopses, elenco, trailers e avaliações.
+  
+- Acessar às informações relativos aos conteúdos de filmes e séries a qualquer momento.
+  
+</td>
 </tr>
 </tbody>
 </table>
@@ -23,16 +37,12 @@
 
 ## Histórias de Usuários
 
-[Apresente aqui as histórias de usuários que são relevantes para o projeto da solução.]
-
-> **Link Útil**:
-> - [Como escrever boas histórias de usuário](https://medium.com/vertice/como-escrever-boas-users-stories-hist%C3%B3rias-de-usu%C3%A1rios-b29c75043fac)
 
 [Utilize o modelo de tabela abaixo para apresentar as histórias de usuários.]
 
 |EU COMO... `QUEM`   | QUERO/PRECISO ... `O QUE` |PARA ... `PORQUE`                 |
 |--------------------|---------------------------|----------------------------------|
-| ...                | ...                       | ...                              |
+| Cinéfilo           | ...                       | ...                              |
 | ...                | ...                       | ...                              |
 
 ## Requisitos do Projeto
