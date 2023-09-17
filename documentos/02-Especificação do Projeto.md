@@ -109,13 +109,9 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID    | Descrição                | Prioridade |
 |-------|---------------------------------|----|
-| RF-01 | Cadastro de Usuário:
-•	Permitir que os usuários criem e mantenham contas individuais
-•	Coletar dados de usuário, como nome, senha, endereço de e-mail, etc.
-| Al    | 
-|  ...  |  ...                    | ...   |
-| RF-01 |  ...                    | ...   | 
-|  ...  |  ...                    | ...   |
+| RF-01 |  Cadastro de Usuário:   | Alta  | 
+|       |  •	Permitir que os usuários criem e mantenham contas individuais|     |
+|       |  •	Coletar dados de usuário, como nome, senha, endereço de e-mail, etc.| ...   |
 | RF-01 |  ...                    | ...   | 
 |  ...  |  ...                    | ...   |
 
