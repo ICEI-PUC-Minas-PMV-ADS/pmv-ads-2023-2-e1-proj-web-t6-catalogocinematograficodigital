@@ -145,8 +145,8 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 | RNF-04 |  Usabilidade: | Média | 
 |        |  •	O site deve permitir que os usuários o utilizem sem necessidade de treinamento.|       | 
 | RNF-05 |  Tempo de resposta para informações aparecerem na tela deve ser menor que 03 segundos em 90% dos casos. | Baixa | 
-| RNF-06 |  Integração com Plataformas Externas:|       | 
-|        |  •	•	Utilizar APIs para integrar serviços, como IMDB, para obter informações adicionais e avaliações.|       | 
+| RNF-06 |  Integração com Plataformas Externas:|Baixa | 
+|        |  •	Utilizar APIs para integrar serviços, como IMDB, para obter informações adicionais e avaliações.|       | 
 
 **Prioridade: Alta / Média / Baixa. 
 
