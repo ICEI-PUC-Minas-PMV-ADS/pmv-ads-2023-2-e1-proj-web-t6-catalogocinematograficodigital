@@ -69,19 +69,19 @@ Visto que, o mercado de usuários em potencial e a comunidade de cinéfilos é a
 
 Existem várias aplicações que ajudam a otimizar o tempo dos usuários, no que diz respeito a receber recomendações personalizadas de obras audiovisuais e inclusive oferecer um espaço onde as pessoas podem interagir e trocar informações sobre suas análises e avaliações, destacam-se:
 
-	Letterboxd(1)  - Consiste em uma aplicação que funciona como uma rede social de filmes e séries. O usuário pode classificar longas, criar listas, curtir e avaliar através de notas, além de obter informações e conhecer novos filmes e apresenta em quais plataformas você tem acesso para assisti-las. Está disponível para sistemas IOS, Android e web. É uma solução bem robusta no que tange a este segmento.
+-	Letterboxd(1)  - Consiste em uma aplicação que funciona como uma rede social de filmes e séries. O usuário pode classificar longas, criar listas, curtir e avaliar através de notas, além de obter informações e conhecer novos filmes e apresenta em quais plataformas você tem acesso para assisti-las. Está disponível para sistemas IOS, Android e web. É uma solução bem robusta no que tange a este segmento.
 
 
-	Cinemaniac (2)  - É uma aplicação que você pode pesquisar, salvar filmes e séries para assistir posteriormente, encontrar informações de elenco, gênero e avaliações. Os usuários têm acesso a estatísticas que informam a duração de todos os filmes já vistos, e o tempo total gasto assistindo. No entanto, para novos usuários que gostariam de interagir e compartilhar suas opiniões das obras, este ainda é um ponto a ser melhorado. 
+-	Cinemaniac (2)  - É uma aplicação que você pode pesquisar, salvar filmes e séries para assistir posteriormente, encontrar informações de elenco, gênero e avaliações. Os usuários têm acesso a estatísticas que informam a duração de todos os filmes já vistos, e o tempo total gasto assistindo. No entanto, para novos usuários que gostariam de interagir e compartilhar suas opiniões das obras, este ainda é um ponto a ser melhorado. 
 
 
-	TV Time (3)  - É uma aplicação que fornece notificações de lançamentos de filmes e séries e a possibilidade de criação de uma biblioteca com produções já assistidas. É uma alternativa mais limitada, em termos de opções de funcionalidades, comparada aos outros aplicativos.
+-	TV Time (3)  - É uma aplicação que fornece notificações de lançamentos de filmes e séries e a possibilidade de criação de uma biblioteca com produções já assistidas. É uma alternativa mais limitada, em termos de opções de funcionalidades, comparada aos outros aplicativos.
 
 
-	Filmow (4)  - Com essa aplicação, você pode marcar e mostrar aos seus amigos todos os filmes e séries que você assistiu. O aplicativo também disponibiliza alguns filmes gratuitos que você pode conferir sua sinopse, nota dada pelos usuários e análises do que acharam da obra.
+-	Filmow (4)  - Com essa aplicação, você pode marcar e mostrar aos seus amigos todos os filmes e séries que você assistiu. O aplicativo também disponibiliza alguns filmes gratuitos que você pode conferir sua sinopse, nota dada pelos usuários e análises do que acharam da obra.
 
 
-	IMDb (5)  - É um site de informações sobre produções cinematográficas, em geral, que permite ao usuário realizar pesquisas e obter informações sobre filmes e séries, com suas sinopses, classificação, rankings e avaliações dos usuários. No entanto, pode ter informações menos confiáveis, em comparação com serviços mais especializados. Dependendo das necessidades dos usuários, pode ser interessante complementar seu uso com outras fontes de análises e informações mais especializadas.
+-	IMDb (5)  - É um site de informações sobre produções cinematográficas, em geral, que permite ao usuário realizar pesquisas e obter informações sobre filmes e séries, com suas sinopses, classificação, rankings e avaliações dos usuários. No entanto, pode ter informações menos confiáveis, em comparação com serviços mais especializados. Dependendo das necessidades dos usuários, pode ser interessante complementar seu uso com outras fontes de análises e informações mais especializadas.
 
 
 (1) https://letterboxd.com
