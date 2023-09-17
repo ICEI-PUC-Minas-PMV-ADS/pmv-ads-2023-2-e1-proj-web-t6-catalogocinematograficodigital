@@ -19,7 +19,7 @@
 - Ranquear as obras audiovisuais assistidas, listar e ter do que já foi ou não assistido.
 - Buscar um recurso para acompanhar os lançamentos mais populares do cinema, como também para aqueles que não estão no radar dos principais veículos de notícia.
 - Encontrar uma fonte confiável de avaliações e opiniões sobre os filmes e séries, para tomar decisões informadas sobre o que assistir.
-- Criar lista de filmes e séries favoritos, classificações e divisões temáti-cas que ele mesmo possa controlar os critérios, além de listas referen-tes ao que já consumiu ou falta consumir.
+- Criar lista de filmes e séries favoritos, classificações e divisões temáticas que ele mesmo possa controlar os critérios, além de listas referentes ao que já consumiu ou falta consumir.
 - Compartilhar suas recomendações e opiniões com seus amigos e outras pessoas de gosto semelhante no ambiente online.
 - Centralizar informações relevantes sobre cada filme ou série, incluindo sinopses, elenco, trailers e avaliações.
 - Acessar às informações relativos aos conteúdos de filmes e séries a qualquer momento.
@@ -139,7 +139,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 | RNF-01 |  Segurança:| Alta   | 
 |       |  •	Implementar medidas de segurança, garantindo a segurança dos dados os quais o usuário não quer compartilhar.|       | 
 | RNF-02 |  Aplicação Responsiva: | Alta   | 
-|        |  •	Garantir que a página Web seja responsiva para diferentes dispositivos, como desktops, tablets e smartphones. | ...   | 
+|        |  •	Garantir que a página Web seja responsiva para diferentes dispositivos, como desktops, tablets e smartphones. |      | 
 | RNF-03 |  Legal: | Alta  | 
 |        |  •	Garantir a privacidade dos dados dos usuários em relação à Lei Geral de Proteção de Dados Pessoais - LGPD.|       | 
 | RNF-04 |  Usabilidade: | Média | 
