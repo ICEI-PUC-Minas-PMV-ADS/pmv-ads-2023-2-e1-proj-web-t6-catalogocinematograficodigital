@@ -24,10 +24,9 @@ Podemos destacar, também, nesse universo de usuários, pessoas que necessitam d
 
 ## Problema
 
+
 O problema a ser tratado neste projeto enfoca os usuários – cinéfilos, pessoas que apreciam, em suas horas de lazer, filmes e séries – que tenham necessidades de acompanhar, registrar e compartilhar filmes e séries assistidos ou a serem assistidos, possibilitando dividir suas opiniões, preferências e gostos com amigos e interessados.
 
-
-Este link pode ajudar a equipe a entender mais sobre definição do problema: [Objetivos, Problema de pesquisa e Justificativa.](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
 
 
 ## Objetivos
@@ -48,24 +47,51 @@ Objetivos Específicos:
 	Listar e classificar filmes já assistidos com base na avaliação dos usuários, atribuindo notas como: Favoritos (5 estrelas), Bom (3-4 estrelas), Ruim (1-2 estrelas) e Não assistirei novamente (nenhuma estrela).
 
  
-Este link pode ajudar a equipe a entender mais sobre definição dos objetivos: [Objetivos, Problema de pesquisa e Justificativa.](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
 
 ## Justificativa
 
-[Aqui a equipe deve descrever a importância ou a motivação para trabalhar com o problema definido. Indique as razões pelas quais a equipe escolheu o problema e definiu os objetivos.
+Atualmente, existe um universo muito grande de usuários apaixonados por filmes e séries, que têm buscado, cada vez mais, acesso e compartilhamento de informações que tratam desse interesse. Tem-se observado uma quantidade cada vez maior de pessoas que procuram diferentes plataformas para acessar e assistir filmes/séries como forma de lazer e aquisição de conhecimento sobre a cinematografia.
 
-Devem ser apresentados dados de fontes relevantes e confiáveis sobre o problema, inserindo-o como alvo de estudo. Sugere-se que a equipe utilize questionários, entrevistas e dados estatísticos, que devem ser apresentados, com o objetivo de esclarecer detalhes do problema que será abordado pela equipe.]
 
-Este link pode ajudar a equipe a formular a justificativa: [Como montar a justificativa.](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
+De acordo com a Agência Nacional do Cinema - ANCINE (2023), no ano de 2022 houve no Brasil um público total de 95.287.334 milhões de pessoas que foram assistir a filmes, em salas de cinema brasileiras, com um número de 385 lançamentos cinematográficos feitos no ano, tanto internacionais quanto nacionais. 
+
+
+Para se ter uma ideia do panorama pré-pandêmico, a média de 2015 a 2019 de espectadores em salas foi de 175.437.617 milhões de pessoas, com uma média de 457 filmes lançados por ano (ANCINE, 2023). Estes dados são relevantes, pois ainda não consideram os serviços de streaming, que se popularizaram e já são uma realidade concreta, os quais o consumidor pode contratar para assistir a quantos filmes e séries quiser, no conforto de sua casa, por meio da televisão, do computador ou do celular. 
+
+
+Esses serviços já estão bem consolidados e consumidos mundialmente, como Netflix, que, no segundo trimestre de 2023, detinha 238.390 milhões de assinantes no mundo todo, com 42,4 milhões apenas na América Latina (NETFLIX, 2023). A Amazon Prime Vídeo, de acordo com Bezos (2021), alcançou no ano de 2020 o total de 200 milhões de assinantes Prime. O streaming da Disney+ alcançou, no 3º trimestre de 2023, 105,7 milhões de subscrições pagas (DISNEY, 2023).
+
+
+Visto que, o mercado de usuários em potencial e a comunidade de cinéfilos é abrangente, a criação de uma página Web, caracterizada como canal de acesso para registros e consultas de filmes e séries de interesse dessas comunidades, torna-se um canal viável para discussões, consultas, registros, avaliações e compartilhamento de informações nessa área. Esse projeto destina-se a ser uma alternativa viável, intuitiva e de fácil aprendizado para preencher este espaço não aproveitado pelos demais serviços online de compartilhamento e catalogação de preferências de obras audiovisuais e pelos streamings de vídeo, muitos criadores de tais obras.
+
+
+## Aplicações Relacionadas
+
+Existem várias aplicações que ajudam a otimizar o tempo dos usuários, no que diz respeito a receber recomendações personalizadas de obras audiovisuais e inclusive oferecer um espaço onde as pessoas podem interagir e trocar informações sobre suas análises e avaliações, destacam-se:
+
+	Letterboxd(1)  - Consiste em uma aplicação que funciona como uma rede social de filmes e séries. O usuário pode classificar longas, criar listas, curtir e avaliar através de notas, além de obter informações e conhecer novos filmes e apresenta em quais plataformas você tem acesso para assisti-las. Está disponível para sistemas IOS, Android e web. É uma solução bem robusta no que tange a este segmento.
+	Cinemaniac  - É uma aplicação que você pode pesquisar, salvar filmes e séries para assistir posteriormente, encontrar informações de elenco, gênero e avaliações. Os usuários têm acesso a estatísticas que informam a duração de todos os filmes já vistos, e o tempo total gasto assistindo. No entanto, para novos usuários que gostariam de interagir e compartilhar suas opiniões das obras, este ainda é um ponto a ser melhorado. 
+	TV Time(2)  - É uma aplicação que fornece notificações de lançamentos de filmes e séries e a possibilidade de criação de uma biblioteca com produções já assistidas. É uma alternativa mais limitada, em termos de opções de funcionalidades, comparada aos outros aplicativos.
+	Filmow(3)  - Com essa aplicação, você pode marcar e mostrar aos seus amigos todos os filmes e séries que você assistiu. O aplicativo também disponibiliza alguns filmes gratuitos que você pode conferir sua sinopse, nota dada pelos usuários e análises do que acharam da obra.
+	IMDb(4)  - É um site de informações sobre produções cinematográficas, em geral, que permite ao usuário realizar pesquisas e obter informações sobre filmes e séries, com suas sinopses, classificação, rankings e avaliações dos usuários. No entanto, pode ter informações menos confiáveis, em comparação com serviços mais especializados. Dependendo das necessidades dos usuários, pode ser interessante complementar seu uso com outras fontes de análises e informações mais especializadas.
+
+
+(1) https://letterboxd.com
+(2) https://cinemaniac.app
+(3) https://www.tvtime.com
+(4) https://filmow.com
+5 https://www.imdb.com
+
+
 
 ## Público-Alvo
 
-[Aqui é necessário descrever os atores envolvidos no problema, destacando os diferentes perfis de usuários. O propósito é apresentar as características, necessidades, conhecimentos prévios e experiência com a tecnologia do público-alvo.
 
-Sugere-se que a equipe utilize questionários e/ou entrevistas a fim de conhecer os atores que compõem o público alvo.]
+O perfil de usuário, que a página focará, será pessoas que possuem filmes e seriados como seus principais hobbies ou interesses de lazer: homens e mulheres, jovens, adultos ou idosos, que utilizam, regularmente, o seu tempo livre para consumir estes produtos audiovisuais, de forma a desenvolver gostos e preferências midiáticas, que poderão ser auxiliados pelas funcionalidades da página.
 
-Os links abaixo podem ajudar a equipe a conhecer um pouco mais sobre o público-alvo. 
 
-> - [Público-alvo](https://blog.hotmart.com/pt-br/publico-alvo/)
-> - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
+Dessa forma, há destaque maior em atender pessoas que usam regularmente serviços de streaming, como Netflix ou Amazon Prime Video, ou apresentam compras regulares de filmes ou seriados, seja em forma física ou digital, bem como visita pontos de encontro, digitais ou não, onde se promovem discussões a respeito desses produtos.
+
+
+
 
