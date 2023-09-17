@@ -107,23 +107,23 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 [Utilize o modelo de tabela abaixo para apresentar os requisitos funcionais]
 
-|  ID    | Descrição                | Prioridade |
+|  ID   | Descrição                | Prioridade |
 |-------|---------------------------------|----|
-| RF-01   |  Cadastro de Usuário:   | Alta  | 
+| RF-01 |  Cadastro de Usuário:   | Alta  | 
 |       |  •	Permitir que os usuários criem e mantenham contas individuais.|     |
 |       |  •	Coletar dados de usuário, como nome, senha, endereço de e-mail, etc.|       |
-| RF-02   |  Cadastro de Filmes e Séries:   | Alta  | 
+| RF-02 |  Cadastro de Filmes e Séries:   | Alta  | 
 |       |  •	Permitir que os usuários cadastrem filmes e séries de suas preferências, que já assistiram, etc.|     |
 |       |  •	Coletar informações como título, ano de lançamento, gênero, diretor, elenco, sinopse e capa.|       |
-| RF-03   |  Manutenção, Edição e Exclusão de Conteúdo:| Alta   | 
+| RF-03 |  Manutenção, Edição e Exclusão de Conteúdo:| Alta   | 
 |       |  •	Permitir que os usuários que cadastraram filmes e séries possam editar ou excluir suas próprias entradas.|       |
-| RF-04   | Pesquisa e Filtragem:| Média | 
+| RF-04 | Pesquisa e Filtragem:| Média | 
 |       |  •	Oferecer uma função para encontrar filmes e séries por título, gênero, diretor, etc.|       |
 |       |  •	Permitir que os usuários filtrem o conteúdo com base em critérios como gênero, ano, etc.|       |
-| RF-05   |  Listas de Favoritos e Assistidos:| Média  | 
+| RF-05 |  Listas de Favoritos e Assistidos:| Média  | 
 |       |  •	Permitir que os usuários adicionem filmes e séries a listas de favoritos e assistidos.|       |
 |       |  •	Possibilitar a visualização e gerenciamento dessas listas.|       |
-| RF-06   |  Avaliações e Comentários:| Média  | 
+| RF-06 |  Avaliações e Comentários:| Média  | 
 |       |  •	Permitir que os usuários avaliem filmes e séries através de uma escala (por exemplo, de 1 a 5 estrelas).|       |
 |       |  •	Possibilitar que os usuários escrevam comentários e resenhas.|       |
 
@@ -136,6 +136,10 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID      | Descrição               |Prioridade |
 |--------|-------------------------|----|
+| RNF-01 |  Segurança:                    | Alta   | 
+|       |  •	Implementar medidas de segurança, garantindo a segurança dos dados os quais o usuário não quer compartilhar.                    |       | 
+| RNF-01 |  ...                    | ...   | 
+| ...    |  ...                    | ...   | 
 | RNF-01 |  ...                    | ...   | 
 | ...    |  ...                    | ...   | 
 
