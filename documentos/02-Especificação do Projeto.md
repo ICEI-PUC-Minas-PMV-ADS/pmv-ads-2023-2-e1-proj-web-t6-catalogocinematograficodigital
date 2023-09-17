@@ -96,7 +96,7 @@
 |Engajadora social   | Compartilhar com seus seguido-res seus gostos pessoais em relação a filmes e séries.| Interagir com seu público, facili-tando o engajamento social.|
 |                    | Fazer sua projeção profissional a respeito dos temas de produ-ções audiovisuais em destaque.| Expandir sua influência nos di-versos círculos sociais.|
 | Crítico de Cinema  | Expor suas análises aprofunda-das sobre variadas obras cine-matográficas.| Consolidar seu branding.|
-| ...                | Acompanhar informações sobre a produção de filmes, bem co-mo acesso e produção de críti-cas profissionais.| Maior contato com elementos técnicos da área cinematográfi-ca.|
+|                    | Acompanhar informações sobre a produção de filmes, bem co-mo acesso e produção de críti-cas profissionais.| Maior contato com elementos técnicos da área cinematográfi-ca.|
 
 ## Requisitos do Projeto
 
@@ -109,8 +109,16 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID    | Descrição                | Prioridade |
 |-------|---------------------------------|----|
+| RF-01 | Cadastro de Usuário:
+•	Permitir que os usuários criem e mantenham contas individuais
+•	Coletar dados de usuário, como nome, senha, endereço de e-mail, etc.
+| Al    | 
+|  ...  |  ...                    | ...   |
 | RF-01 |  ...                    | ...   | 
 |  ...  |  ...                    | ...   |
+| RF-01 |  ...                    | ...   | 
+|  ...  |  ...                    | ...   |
+
 
 **Prioridade: Alta / Média / Baixa. 
 
