@@ -89,14 +89,14 @@
 
 |EU COMO... `QUEM`   | QUERO/PRECISO ... `O QUE` |PARA ... `PORQUE`                 |
 |--------------------|---------------------------|----------------------------------|
-| Cinéfilo           | Compartilhar em um espaço online filmes e séries, com in-formações, e listas.| Fortalecimento do laço social entre pessoas próximas e facili-tador de aproximação para pes-soas ainda não tão próximas.|
-|                    | Listar filmes e séries que já fo-ram assistidos ou os quais queira assistir.| Ter reunido em apenas um lugar várias informações que são en-contradas dispersas em outras aplicações.|
+| Cinéfilo           | Compartilhar em um espaço online filmes e séries, com informações, e listas.| Fortalecimento do laço social entre pessoas próximas e facilitador de aproximação para pes-soas ainda não tão próximas.|
+|                    | Listar filmes e séries que já fo-ram assistidos ou os quais queira assistir.| Ter reunido em apenas um lugar várias informações que são encontradas dispersas em outras aplicações.|
 |                    | Ranquear as obras audiovisuais de acordo com a própria experi-ência, com resenhas e notas.| Ter uma experiência completa, ao discorrer sobre o que já foi assistido.|
 |                    | Acompanhar os lançamentos populares do cinema e dos streamings.| Estar integrado com as estreias do mundo audiovisual.|
-|Engajadora social   | Compartilhar com seus seguido-res seus gostos pessoais em relação a filmes e séries.| Interagir com seu público, facili-tando o engajamento social.|
+|Engajadora social   | Compartilhar com seus seguidores seus gostos pessoais em relação a filmes e séries.| Interagir com seu público, facilitando o engajamento social.|
 |                    | Fazer sua projeção profissional a respeito dos temas de produ-ções audiovisuais em destaque.| Expandir sua influência nos di-versos círculos sociais.|
-| Crítico de Cinema  | Expor suas análises aprofunda-das sobre variadas obras cine-matográficas.| Consolidar seu branding.|
-|                    | Acompanhar informações sobre a produção de filmes, bem co-mo acesso e produção de críti-cas profissionais.| Maior contato com elementos técnicos da área cinematográfi-ca.|
+| Crítico de Cinema  | Expor suas análises aprofunda-das sobre variadas obras cinematográficas.| Consolidar seu branding.|
+|                    | Acompanhar informações sobre a produção de filmes, bem como acesso e produção de críticas profissionais.| Maior contato com elementos técnicos da área cinematográfica.|
 
 ## Requisitos do Projeto
 
