@@ -95,8 +95,8 @@
 |                    | Acompanhar os lançamentos populares do cinema e dos streamings.| Estar integrado com as estreias do mundo audiovisual.|
 |Engajadora social   | Compartilhar com seus seguido-res seus gostos pessoais em relação a filmes e séries.| Interagir com seu público, facili-tando o engajamento social.|
 |                    | Fazer sua projeção profissional a respeito dos temas de produ-ções audiovisuais em destaque.| Expandir sua influência nos di-versos círculos sociais.|
-| Crítico de Cinema  | ...                       | ...                              |
-| ...                | ...                       | ...                              |
+| Crítico de Cinema  | Expor suas análises aprofunda-das sobre variadas obras cine-matográficas.| Consolidar seu branding.|
+| ...                | Acompanhar informações sobre a produção de filmes, bem co-mo acesso e produção de críti-cas profissionais.| Maior contato com elementos técnicos da área cinematográfi-ca.|
 
 ## Requisitos do Projeto
 
