@@ -81,12 +81,9 @@
 <td>
 
   
-- Expor sua construção crítica de obras cinematográficas de modo que ela se torne acessível a um nicho social.
-  
+- Expor sua construção crítica de obras cinematográficas de modo que ela se torne acessível a um nicho social.  
 - Encontrar análises críticas, sobre filmes e séries, elaboradas por pes-soas que possuem um embasamento acadêmico respeitável.
-  
 - Formular listas temáticas específicas sobre variados temas, inclusive para fins acadêmicos.
-  
 - Buscar detalhes da produção dos filmes de forma direta e rápida.
   
 </td>
@@ -106,6 +103,11 @@
 |--------------------|---------------------------|----------------------------------|
 | Cinéfilo           | Compartilhar em um espaço online filmes e séries, com in-formações, e listas.| Fortalecimento do laço social entre pessoas próximas e facili-tador de aproximação para pes-soas ainda não tão próximas.|
 |                    | Listar filmes e séries que já fo-ram assistidos ou os quais queira assistir.| Ter reunido em apenas um lugar várias informações que são en-contradas dispersas em outras aplicações.|
+|                    | Ranquear as obras audiovisuais de acordo com a própria experi-ência, com resenhas e notas.| Ter uma experiência completa, ao discorrer sobre o que já foi assistido.|
+|                    | Acompanhar os lançamentos populares do cinema e dos streamings.| Estar integrado com as estreias do mundo audiovisual.|
+|Engajadora social   | Compartilhar com seus seguido-res seus gostos pessoais em relação a filmes e séries.| Interagir com seu público, facili-tando o engajamento social.|
+|                    | Fazer sua projeção profissional a respeito dos temas de produ-ções audiovisuais em destaque.| Expandir sua influência nos di-versos círculos sociais.|
+| Crítico de Cinema  | ...                       | ...                              |
 | ...                | ...                       | ...                              |
 
 ## Requisitos do Projeto
