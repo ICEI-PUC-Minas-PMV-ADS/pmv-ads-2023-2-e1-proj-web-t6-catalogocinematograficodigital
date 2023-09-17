@@ -107,7 +107,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 [Utilize o modelo de tabela abaixo para apresentar os requisitos funcionais]
 
-|ID    | Descrição                | Prioridade |
+|  ID    | Descrição                | Prioridade |
 |-------|---------------------------------|----|
 | RF-01   |  Cadastro de Usuário:   | Alta  | 
 |       |  •	Permitir que os usuários criem e mantenham contas individuais.|     |
