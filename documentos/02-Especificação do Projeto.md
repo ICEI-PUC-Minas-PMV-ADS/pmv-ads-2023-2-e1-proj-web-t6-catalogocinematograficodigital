@@ -17,17 +17,11 @@
 <td>
 
 - Ranquear as obras audiovisuais assistidas, listar e ter do que já foi ou não assistido.
-  
 - Buscar um recurso para acompanhar os lançamentos mais populares do cinema, como também para aqueles que não estão no radar dos principais veículos de notícia.
-  
 - Encontrar uma fonte confiável de avaliações e opiniões sobre os filmes e séries, para tomar decisões informadas sobre o que assistir.
-  
 - Criar lista de filmes e séries favoritos, classificações e divisões temáti-cas que ele mesmo possa controlar os critérios, além de listas referen-tes ao que já consumiu ou falta consumir.
-  
 - Compartilhar suas recomendações e opiniões com seus amigos e outras pessoas de gosto semelhante no ambiente online.
-  
 - Centralizar informações relevantes sobre cada filme ou série, incluindo sinopses, elenco, trailers e avaliações.
-  
 - Acessar às informações relativos aos conteúdos de filmes e séries a qualquer momento.
   
 </td>
@@ -50,15 +44,10 @@
 <td>
   
 - Criar listas temáticas para diversos públicos.
-  
 - Aumentar sua interação com seus seguidores.
-  
 - Incorporar às suas resenhas públicas links para suas plataformas so-ciais, aumentando a visibilidade de seus conteúdos.
-  
 - Acessar conteúdos cinematográficos a qualquer hora, sem perda de tempo e de forma simples.
-  
 - Acompanhar as críticas e recepções do público a filmes e séries.
-  
 - Pesquisar tendências e similaridades de gostos de novas obras.
   
 </td>
@@ -80,7 +69,6 @@
 <td><b>Necessidades</b></td>
 <td>
 
-  
 - Expor sua construção crítica de obras cinematográficas de modo que ela se torne acessível a um nicho social.  
 - Encontrar análises críticas, sobre filmes e séries, elaboradas por pes-soas que possuem um embasamento acadêmico respeitável.
 - Formular listas temáticas específicas sobre variados temas, inclusive para fins acadêmicos.
