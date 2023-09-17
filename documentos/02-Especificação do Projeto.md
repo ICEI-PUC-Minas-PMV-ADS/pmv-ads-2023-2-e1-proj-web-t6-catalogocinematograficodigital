@@ -15,6 +15,7 @@
 <tr>
 <td><b>Necessidades</b></td>
 <td>
+
 - Ranquear as obras audiovisuais assistidas, listar e ter do que já foi ou não assistido.
   
 - Buscar um recurso para acompanhar os lançamentos mais populares do cinema, como também para aqueles que não estão no radar dos principais veículos de notícia.
@@ -65,6 +66,35 @@
 </table>
 
 
+<table>
+<tbody>
+<tr align=center>
+<th colspan="2">Perfil: Crítico de cinema </th>
+</tr>
+<tr>
+<td width="150px"><b>Descrição</b></td>
+<td width="600px">Trabalha com editoriais de revistas e jornais, publicando sua análise a respeito de obras audiovisuais.</td>
+</tr>
+<tr>
+<td><b>Necessidades</b></td>
+<td>
+
+  
+- Expor sua construção crítica de obras cinematográficas de modo que ela se torne acessível a um nicho social.
+- 
+- Encontrar análises críticas, sobre filmes e séries, elaboradas por pes-soas que possuem um embasamento acadêmico respeitável.
+- 
+- Formular listas temáticas específicas sobre variados temas, inclusive para fins acadêmicos.
+- 
+- Buscar detalhes da produção dos filmes de forma direta e rápida.
+  
+</td>
+</tr>
+</tbody>
+</table>
+
+
+
 
 ## Histórias de Usuários
 
@@ -73,7 +103,7 @@
 
 |EU COMO... `QUEM`   | QUERO/PRECISO ... `O QUE` |PARA ... `PORQUE`                 |
 |--------------------|---------------------------|----------------------------------|
-| Cinéfilo           | ...                       | ...                              |
+| Cinéfilo           | Compartilhar em um espaço online filmes e séries, com in-formações, e listas.                       | ...                             |
 | ...                | ...                       | ...                              |
 
 ## Requisitos do Projeto
