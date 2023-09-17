@@ -104,12 +104,14 @@
 
 |EU COMO... `QUEM`   | QUERO/PRECISO ... `O QUE` |PARA ... `PORQUE`                 |
 |--------------------|---------------------------|----------------------------------|
-| Cinéfilo           | Compartilhar em um espaço online filmes e séries, com in-formações, e listas.                       | ...                             |
+| Cinéfilo           | Compartilhar em um espaço online filmes e séries, com in-formações, e listas.| Fortalecimento do laço social entre pessoas próximas e facili-tador de aproximação para pes-soas ainda não tão próximas.|
+|                    | Listar filmes e séries que já fo-ram assistidos ou os quais queira assistir.| Ter reunido em apenas um lugar várias informações que são en-contradas dispersas em outras aplicações.|
 | ...                | ...                       | ...                              |
 
 ## Requisitos do Projeto
 
-[Com base nas Histórias de Usuários, enumere os requisitos da solução. Lembre-se que cada requisito deve corresponder a uma, e somente uma, característica alvo da solução. Além disso, certifique-se de que todos os aspectos capturados nas Histórias de Usuário foram cobertos.]
+As tabelas que se seguem apresentam os requisitos funcionais e não funcionais que detalham o escopo do projeto.
+
 
 ### Requisitos Funcionais
 
