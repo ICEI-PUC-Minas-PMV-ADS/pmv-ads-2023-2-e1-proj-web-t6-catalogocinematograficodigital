@@ -1,7 +1,17 @@
 
 # Metodologia
 
-Esta seção descreve a organização da equipe para a execução das tarefas do projeto e as ferramentas utilizadas para a manutenção dos códigos e demais artefatos.
+     A metodologia utilizada neste projeto é baseada no SCRUM, que é uma abordagem ágil de desenvolvimento e tem como objetivo otimizar a especificação e execução de projetos. Através dessa metodologia, procura-se organizar melhor as equipes de trabalho e fragmentar as tarefas, distribuindo-as, procurando prover mais eficiência no desenvolvimento.
+
+
+O Scrum é baseado em uma metodologia de entrega do produto de forma parcial, ou seja, em etapas curtas e regulares, chamadas de sprints. Nesse sentido, com o Scrum, procuramos fazer com que todos trabalhem de forma colaborativa e contribuam com suas ideias e habilidades. Além disso, por meio dessa metodologia, procura-se fazer com que o problema em foco possa ser resolvido com mais facilidade, otimizando cada etapa de desenvolvimento e execução.
+
+
+Como mencionado anteriormente, o Scrum é uma abordagem ágil e colaborativa que se concentra no trabalho em equipe, com responsabilidades e atividades bem definidas. Basicamente, sua estrutura está dividida nos seguintes componentes:
+1.	Os papéis: Scrum Master, Product Owner e a Equipe de Desenvolvimento;
+2.	Os eventos: planejamento, sprints e retrospectiva de sprint;
+3.	Os artefatos: backlog do produto, lista de pendências de sprint, lista de pendências do produto, gráfico de burndown, log, etc;
+
 
 
 ## Gerenciamento de Projeto
