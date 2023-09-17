@@ -32,7 +32,21 @@ Este link pode ajudar a equipe a entender mais sobre definição do problema: [O
 
 ## Objetivos
 
-[Aqui a equipe deve realizar uma descrição detalhada dos objetivos do trabalho, ressaltando quais as questões principais do problema a serem resolvidas pelo projeto, não é a hora de apresentar requisitos detalhados.]
+
+O projeto visa criar uma plataforma online usável para cinéfilos e amantes de séries, permitindo que organizem, compartilhem ideias, opiniões e acompanhem suas preferências de filmes e séries.
+
+
+Objetivos Específicos:
+
+
+	Permitir aos usuários organizarem suas preferências de filmes e séries a serem assistidos com facilidade.
+
+	Possibilitar ao usuário a oportunidade de compartilhar suas avaliações e críticas sobre o filme.
+
+	Implementar recursos para que o usuário possa compartilhar, com demais pessoas, suas listas, promovendo uma interação social com recomendação de conteúdo. 
+
+	Listar e classificar filmes já assistidos com base na avaliação dos usuários, atribuindo notas como: Favoritos (5 estrelas), Bom (3-4 estrelas), Ruim (1-2 estrelas) e Não assistirei novamente (nenhuma estrela).
+
  
 Este link pode ajudar a equipe a entender mais sobre definição dos objetivos: [Objetivos, Problema de pesquisa e Justificativa.](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
 
