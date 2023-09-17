@@ -45,7 +45,7 @@
   
 - Criar listas temáticas para diversos públicos.
 - Aumentar sua interação com seus seguidores.
-- Incorporar às suas resenhas públicas links para suas plataformas so-ciais, aumentando a visibilidade de seus conteúdos.
+- Incorporar às suas resenhas públicas links para suas plataformas sociais, aumentando a visibilidade de seus conteúdos.
 - Acessar conteúdos cinematográficos a qualquer hora, sem perda de tempo e de forma simples.
 - Acompanhar as críticas e recepções do público a filmes e séries.
 - Pesquisar tendências e similaridades de gostos de novas obras.
@@ -70,7 +70,7 @@
 <td>
 
 - Expor sua construção crítica de obras cinematográficas de modo que ela se torne acessível a um nicho social.  
-- Encontrar análises críticas, sobre filmes e séries, elaboradas por pes-soas que possuem um embasamento acadêmico respeitável.
+- Encontrar análises críticas, sobre filmes e séries, elaboradas por pessoas que possuem um embasamento acadêmico respeitável.
 - Formular listas temáticas específicas sobre variados temas, inclusive para fins acadêmicos.
 - Buscar detalhes da produção dos filmes de forma direta e rápida.
   
