@@ -48,6 +48,7 @@
 <tr>
 <td><b>Necessidades</b></td>
 <td>
+  
 - Criar listas temáticas para diversos públicos.
   
 - Aumentar sua interação com seus seguidores.
@@ -81,11 +82,11 @@
 
   
 - Expor sua construção crítica de obras cinematográficas de modo que ela se torne acessível a um nicho social.
-- 
+  
 - Encontrar análises críticas, sobre filmes e séries, elaboradas por pes-soas que possuem um embasamento acadêmico respeitável.
-- 
+  
 - Formular listas temáticas específicas sobre variados temas, inclusive para fins acadêmicos.
-- 
+  
 - Buscar detalhes da produção dos filmes de forma direta e rápida.
   
 </td>
