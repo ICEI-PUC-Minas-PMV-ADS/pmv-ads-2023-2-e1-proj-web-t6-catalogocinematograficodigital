@@ -136,12 +136,17 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID      | Descrição               |Prioridade |
 |--------|-------------------------|----|
-| RNF-01 |  Segurança:                    | Alta   | 
-|       |  •	Implementar medidas de segurança, garantindo a segurança dos dados os quais o usuário não quer compartilhar.                    |       | 
-| RNF-01 |  ...                    | ...   | 
-| ...    |  ...                    | ...   | 
-| RNF-01 |  ...                    | ...   | 
-| ...    |  ...                    | ...   | 
+| RNF-01 |  Segurança:| Alta   | 
+|       |  •	Implementar medidas de segurança, garantindo a segurança dos dados os quais o usuário não quer compartilhar.|       | 
+| RNF-02 |  Aplicação Responsiva: | Alta   | 
+|        |  •	Garantir que a página Web seja responsiva para diferentes dispositivos, como desktops, tablets e smartphones. | ...   | 
+| RNF-03 |  Legal: | Alta  | 
+|        |  •	Garantir a privacidade dos dados dos usuários em relação à Lei Geral de Proteção de Dados Pessoais - LGPD.|       | 
+| RNF-04 |  Usabilidade: | Média | 
+|        |  •	O site deve permitir que os usuários o utilizem sem necessidade de treinamento.|       | 
+| RNF-05 |  Tempo de resposta para informações aparecerem na tela deve ser menor que 03 segundos em 90% dos casos. | Baixa | 
+| RNF-06 |  Integração com Plataformas Externas:|       | 
+|        |  •	•	Utilizar APIs para integrar serviços, como IMDB, para obter informações adicionais e avaliações.|       | 
 
 **Prioridade: Alta / Média / Baixa. 
 
