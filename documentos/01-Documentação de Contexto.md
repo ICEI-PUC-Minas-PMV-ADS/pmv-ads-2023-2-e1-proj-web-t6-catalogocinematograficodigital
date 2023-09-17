@@ -1,22 +1,31 @@
 # Introdução
 
+
 A tecnologia mostra-se cada vez mais presente na vida das pessoas. A Internet é um recurso tecnológico que nos provê a oportunidade de conexão com pessoas que têm afinidades ou gostam das mesmas coisas, para trocar ideias, para ajuda mútua, para criação de outras ferramentas, etc. Uma das oportunidades e atividades providas é o lazer, onde, hoje, a Internet constitui-se importante recurso para esse fim. 
+
 
 Existem assuntos ou conteúdos que nos são tão relevantes que nos fazem querer compartilhar com outras pessoas. Um dos tópicos mais comentados na internet é a afinidade pelas produções audiovisuais, principalmente séries e filmes.
 
+
 Com a popularização de redes sociais temáticas, cada vez mais específicas, sobre os mais diversos assuntos, constata-se a necessidade de se ter um meio de interação online que se envolvam com produções audiovisuais, mais especificamente filmes e séries, onde as pessoas possam compartilhar, com os demais, seus gostos, preferências e indicações.
+
 
 Paralelamente, com o advento de novos serviços de streamings de mídia, que, além de conter acervos gigantescos de produções audiovisuais, também chegam a produzir novos conteúdos de entretenimento, é muito fácil perder o foco do que se quer assistir. Para abordar um exemplo prático, quando se trata de elencar as obras, o usuário deve ter primeiro uma conta no streaming desejado para, então, colocá-la na sua lista de exibição, segregando em várias listas os filmes e séries as quais deseja-se ver. 
 
+
 Também não há, dentro dos serviços acima, um espaço destinado a socialização entre usuários, sobre os filmes e séries que pretende assistir, os que já foram assistidos e até mesmo aqueles que não serão assistidos novamente. Constituindo assim uma área para o desenvolvimento de algum serviço online a ser ocupado.
 
+
 Observam-se inúmeras páginas na Internet, blogs, canais do YouTube e demais fontes de informações na Web que fornecem novidades, curiosidades, comentários e opiniões sobre as produções cinematográficas já produzidas, nas diversas partes do mundo.
+
 
 Podemos destacar, também, nesse universo de usuários, pessoas que necessitam de um espaço para troca e compartilhamento de gostos e ideias afins sobre filmes, que gostariam de ter um registro e acompanhamento de tudo que já assistiu, do que foi relevante, importante, do que gostou, desejando a partilha e troca de opiniões a respeito.
 
 
 ## Problema
-[Aqui a equipe deve fornecer uma descrição detalhada do problema a ser resolvido. Não é o momento adequado para abordar questões técnicas relacionadas ao desenvolvimento da aplicação. O objetivo é compreender e comunicar de maneira precisa qual é o desafio ou necessidade que motiva a criação da aplicação.]
+
+O problema a ser tratado neste projeto enfoca os usuários – cinéfilos, pessoas que apreciam, em suas horas de lazer, filmes e séries – que tenham necessidades de acompanhar, registrar e compartilhar filmes e séries assistidos ou a serem assistidos, possibilitando dividir suas opiniões, preferências e gostos com amigos e interessados.
+
 
 Este link pode ajudar a equipe a entender mais sobre definição do problema: [Objetivos, Problema de pesquisa e Justificativa.](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
 
