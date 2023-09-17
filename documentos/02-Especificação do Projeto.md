@@ -105,7 +105,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 ### Requisitos Funcionais
 
-[Utilize o modelo de tabela abaixo para apresentar os requisitos funcionais]
+
 
 |  ID   | Descrição                | Prioridade |
 |-------|---------------------------------|----|
@@ -132,7 +132,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 ### Requisitos não Funcionais
 
-[Utilize o modelo de tabela abaixo para apresentar os requisitos não-funcionais]
+
 
 |ID      | Descrição               |Prioridade |
 |--------|-------------------------|----|
