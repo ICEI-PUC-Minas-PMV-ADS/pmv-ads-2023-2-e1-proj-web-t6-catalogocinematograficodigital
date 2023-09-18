@@ -112,7 +112,6 @@ Foi escrito e entregue a documentação referente a essa etapa, que consistiu:
 - Especificação do projeto: foram especificados os perfis dos usuários, as histórias dos usuários, os requisitos funcionais e não-funcionais da aplicação.
 
 
-
 - 1.2 Execução:
 
 Durante essa etapa, foram realizados encontros com o professor, através do Teams, que orientou a respeito dos encaminhamentos, utilização dos recursos nessa fase e como descrever a documentação, bem como suas correções e sugestões de melhoria. 
@@ -126,25 +125,59 @@ As dificuldades iniciais enfrentadas foram observadas com a nova forma de comuni
 Foram marcados diversos encontros e reuniões com a equipe, para discussões e definições dos objetivos, público-alvo, requisitos, perfis dos usuários e demais pontos importantes para o desenvolvimento do projeto. Essas reuniões resultaram em atas, com os resultados acordados e distribuição de tarefas. Ademais, produzimos resultados documentais, logo do projeto e a apresentação da Etapa 1.
 
 
+![1-Marcar reunião_peq](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t6-catalogocinematograficodigital/assets/145228139/98b22a7c-9eb9-4a3e-8ba3-84736f0fc111)
 
- 
-1-	Marcação de reuniões 
+Figura 1-	Marcação de reuniões 
 
- 
+ ![2-Divisão de tarefas](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t6-catalogocinematograficodigital/assets/145228139/025a4390-e1e6-499e-8432-dd5276ec227b)
+
 Figura 2 – Divisão de tarefas e atividades
 
- 
-3-Ata de uma das reuniões
+ ![3-Ata da reunião](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t6-catalogocinematograficodigital/assets/145228139/9ca2285e-9b75-4890-9de3-d2709128446a)
 
- 
-4-Construção e compartilhamento da Documentação e Especificação do projeto
+Figura 3-Ata de uma das reuniões
 
- 
-5- Logo do Aplicativo
+ ![4-Construção e compartilhamento do Documento e Especif](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t6-catalogocinematograficodigital/assets/145228139/8f28f6f1-543f-4dae-8d00-398195b576de)
 
+Figura 4-Construção e compartilhamento da Documentação e Especificação do projeto
+
+ ![Logo do Projeto](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t6-catalogocinematograficodigital/assets/145228139/d155247d-ad5b-4dd4-9b2e-5e2050e18101)
+
+Figura 5- Logo do Aplicativo
+
+![6-Construção da Apresentação do Projeto](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t6-catalogocinematograficodigital/assets/145228139/15d8af8d-1e39-4e02-b22f-f7486d92396b)
 
 6-Construção da apresentação do Projeto em Power Point.
 
+
+#### Sprint 2:
+
+- 2.1 Planejamento:
+
+Nessa etapa, foram discutidas e definidas a metodologia e as ferramentas a serem utilizadas no decorrer do projeto. 
+O professor, em encontro com as equipes de projetos, orientou a utilização da metodologia ágil e colaborativa, SCRUM, a ser utilizada ao longo do projeto.
+
+Posteriormente, a equipe, em reunião e comum acordo, definiu as funções de cada um de seus componentes, dentro da metodologia definida.
+A equipe reuniu-se, semanalmente, para distribuição de tarefas, e foram definidas a utilização das seguintes ferramentas para construção documental, dos wireframes e protótipos da aplicação, nessa fase de desenvolvimento: GitHub, como repositório da documentação e especificação, Whimscal e Figma, para os wireframes e construção dos protótipos da aplicação.
+
+Podem-se destacar algumas dificuldades iniciais no uso das ferramentas, que se constituíram novidades para a equipe como um todo. Passados os entraves de aprendizado, a construção do design do aplicativo fluiu como esperado, sendo a ferramenta Figma uma boa surpresa para a construção dos protótipos, bem como do User Flow do aplicativo.
+
+
+- 2.2 Execução:
+Após a escolha da metodologia SCRUM como abordagem a ser implementada, cada membro da equipe teve sua função especificada.
+A equipe fez reuniões semanais e decidiu pelo aprendizado e uso do Whimscal e Figma, para serem utilizados no design do aplicativo.
+Essas ferramentas constituíram-se novidades para toda equipe, portanto houve uma dificuldade inicial em seu aprendizado e utilização inicial. Houve uma colaboração excelente entre os membros, principalmente no compartilhamento dos cadastros das ferramentas utilizadas, facilitando a construção dos designs.
+Por fim, o Figma foi o software mais facilmente utilizado, pois possibilitou, inclusive, a visualização simulada dos fluxos do aplicativo a ser desenvolvido, possibilitando a construção do User Flow com mais facilidade.
+
+
+A metodologia SCRUM foi escolhida e implementada, com cada membro da equipe tendo uma função específica. Além disso, o método Kanban foi adotado para distribuir as tarefas. O User flow foi construído coletivamente na plataforma Miro levando em consideração os requisitos funcionais e não funcionais, e Renan, responsável pelas definições de design, esquematizou os wireframes da página de login e da página principal no Figma utilizando o User flow como base.
+
+
+-2.3 Evidências:
+
+Algumas demonstrações das atividades realizadas nessa etapa, estão nas imagens abaixo:
+
+(capturas de telas do Figma e WhismKal)
 
 
 
