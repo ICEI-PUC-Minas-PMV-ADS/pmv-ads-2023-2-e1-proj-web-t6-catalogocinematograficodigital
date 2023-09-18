@@ -15,37 +15,137 @@ Como mencionado anteriormente, o Scrum é uma abordagem ágil e colaborativa que
 
 
 ## Gerenciamento de Projeto
+
 A metodologia ágil escolhida para o desenvolvimento deste projeto foi o SCRUM, pois como citam Amaral, Fleury e Isoni (2019, p. 68), seus benefícios são a
 
 “visão clara dos resultados a entregar; ritmo e disciplina necessários à execução; definição de papéis e responsabilidades dos integrantes do projeto (Scrum Owner, Scrum Master e Team); empoderamento dos membros da equipe de projetos para atingir o desafio; conhecimento distribuído e compartilhado de forma colaborativa; ambiência favorável para crítica às ideias e não às pessoas.”
 
 ### Divisão de Papéis
 
-A equipe utiliza o Scrum como base para definição do processo de desenvolvimento.
-[Adicione informações abaixo sobre a divisão de papéis entre os membros da equipe.]
-- Scrum Master: Nome de um membro da equipe, principal responsável pela gestão do projeto.
-- Product Owner: Nome de um membro da equipe, representante dos interesses de todos os envolvidos (Stakeholders), define as funcionalidades do produto e prioriza os itens de Product Backlog.
-- Equipe de Desenvolvimento: Nomes de todos os membros da equipe, pois todos os membros deverão implementar uma tela/funcionalidade.
-- Equipe de Design: Nomes dos membros da equipe que trabalharão com design.
 
-> **Links Úteis**:
-> - [11 Passos Essenciais para Implantar Scrum no seu 
-> Projeto](https://mindmaster.com.br/scrum-11-passos/)
-> - [Scrum em 9 minutos](https://www.youtube.com/watch?v=XfvQWnRgxG0)
+O método Scrum é dividido nos seguintes papéis:
+
+●	Product Owner: é o interessado no projeto que transmite a missão e visão geral do produto que a equipe está desenvolvendo. É responsável por definir os requisitos do projeto e priorizar o trabalho. 
+
+●	Scrum Master: é o facilitador dentro da equipe de desenvolvimento, podendo atuar com a orientação e gestão da equipe, define que tarefas serão realizadas em cada sprint, distribuir tempo e demais ajustes. 
+
+●	Equipe de desenvolvimento: realizam a parte operacional do desenvolvimento do projeto e cuidam da parte de Design. Contam com todas as habilidades necessárias para o desenvolvimento do projeto. Também é responsável por fornecer incrementos potencialmente entregáveis do produto a cada Sprint, desde análises, design, desenvolvimento, teste e até a redação, variando de acordo com a área do projeto que o Scrum está sendo aplicado.
+
+Os papéis, na Equipe 4, foram distribuídos da seguinte maneira:
+
+●	Produt Owner: Enzo Wilker Alves Félix.
+
+●	Scrum Master: Márcia Verônica Costa Miranda.
+
+●	Equipe de Design: Fábio Ribeiro de Barros, Caio Costa Miranda, Enzo Wilker Alves Félix.
+
+●	Equipe de Desenvolvimento: Fábio Ribeiro de Barros, Enzo Wilker Alves Félix, Márcia Verônica Costa Miranda, Caio Costa Miranda, Rodrigo e André Lucas Corrêa de Andrade e Florio.
+
+As tarefas são organizadas nos backlog do produto, e, em todo processo de construção da aplicação, a equipe reuniu-se semanalmente para definição e planejamento das tarefas, distribuição das atividades, revisão e planejamento dos próximos passos.
+Esse processo de desenvolvimento foi sempre auxiliado pela utilização de diversas ferramentas de comunicação, documentação e construção de softwares.
+
+
+### Ferramentas
+
+●	WhatsApp
+
+●	Meet
+
+●	Whimscal
+
+●	Teams
+
+●	GitHub
+
+●	FIGMA
+
+Descrição suncinta das ferramentas utilizadas:
+
+- Whatsapp: é uma ferramenta de comunicação rápida e que participa do cotidiano de todos do grupo, utilizada para atualização e resumo de decisões conjuntas, avisos, sugestões ao projeto, etc.
+
+- Meet: é uma ferramenta de fácil acesso e com a opção de compartilhamento de tela foi escolhido para ser a ferramenta de reuniões e encontros frequentes para tomadas de decisões.
+
+- Whimscal: é um espaço de trabalho visual que ajuda à equipe na construção de wireframes, fluxogramas, mapas mentais, notas adesivas e documentos de forma rápida e simples.
+
+- Teams: é uma plataforma de comunicação e colaboração que combina bate-papo, videoconferências, armazenamento de arquivos e integração de aplicativos no local de trabalho.
+
+- Github: é uma plataforma de hospedagem de código-fonte e arquivos com controle de versão usando o Git, disponibilizado no Canvas da PUC para registro e acompanhamento do projeto.
+
+- FIGMA: é uma ferramenta baseada na Web, plataforma colaborativa para construção de design de interfaces e protótipos, pertencente a empresa Fima, Inc. Inicialmente, foi criada para ser uma ferramenta gratuita que trouxesse colaboração entre pessoas e times, para criar produtos para diversas plataformas, mantendo a acessibilidade do sistema.
+
+
 
 ### Processo
 
-[Adicione informações sobre detalhes da implementação do Scrum seguido pela equipe. A equipe poderá fazer uso de ferramentas on-line (GitHub Project ou Trello) para acompanhar o andamento do projeto, a execução das tarefas e o status de desenvolvimento da solução. O quadro Kanban deverá apresentar a estrutura abaixo. Inserir despois das informações uma imagem do Kanban do projeto.]
-- Backlog: recebe as tarefas a serem trabalhadas e representa o Product Backlog. Todas as atividades identificadas no decorrer do projeto também devem ser incorporadas a esta lista. 
-- To Do: Esta lista representa o Sprint Backlog. Este é o Sprint atual que estamos trabalhando. 
-- Doing: Quando uma tarefa tiver sido iniciada, ela é movida para cá. 
-- Done: nesta lista são colocadas as tarefas que passaram pelos testes e controle de qualidade e estão prontos para ser entregues ao usuário. Não há mais edições ou revisões necessárias, ele está agendado e pronto para a ação.
 
-> **Links Úteis**:
-> - [Project management, made simple](https://github.com/features/project-management/)
-> - [Sobre quadros de projeto](https://docs.github.com/pt/github/managing-your-work-on-github/about-project-boards)
-> - [Como criar Backlogs no Github](https://www.youtube.com/watch?v=RXEy6CFu9Hk)
-> - [Tutorial Slack](https://slack.com/intl/en-br/)
+#### Backlog do Produto:
+
+- Etapa 1:
+
+Documentação de Contexto.
+
+Especificação do Projeto.
+
+Apresentação do Projeto.
+
+- Etapa 2:
+  
+Documentação de Contexto
+
+Especificação do Projeto
+
+Metodologia
+
+Projeto de Interface
+
+Referências atualizadas
+
+
+#### Sprint 1:
+
+- 1.1 Planejamento:
+
+Nessa etapa, após a formação da equipe, foram realizados alguns encontros e debates, através das ferramentas Google Meet e no grupo do WhatsApp, para decisão do aplicativo a ser desenvolvido. O projeto foi originado a partir das escolhas, entre diversas ideias, onde as vivências dos componentes da equipe que acordou que, o problema escolhido – Página Web para consulta e registro de filmes e séries – poderia ajudar aos usuários em suas necessidades de registro, consulta e compartilhamento de preferências de filmes e séries com outros interessados. Ademais, também tivemos outros encontros pelo Meet e conversas no grupo de WhatsApp, para alinhamento e definição das funcionalidades da aplicação.
+
+Foi escrito e entregue a documentação referente a essa etapa, que consistiu:
+- Documentação do Contexto: foram descritos o foco do problema, definidos os objetivos do projeto, com justificativa de desenvolvimento, as aplicações relacionadas e público alvo.
+- Especificação do projeto: foram especificados os perfis dos usuários, as histórias dos usuários, os requisitos funcionais e não-funcionais da aplicação.
+
+
+
+- 1.2 Execução:
+
+Durante essa etapa, foram realizados encontros com o professor, através do Teams, que orientou a respeito dos encaminhamentos, utilização dos recursos nessa fase e como descrever a documentação, bem como suas correções e sugestões de melhoria. 
+As reuniões da equipe foram realizadas em até duas vezes por semana, pelo Meet de forma síncrona, uma vez que trata-se de uma etapa de muitas definições para os futuros encaminhamentos do projeto. Esses encontros sempre resultaram nas distribuições de atividades com os componentes, para os ajustes e composição final dos documentos.
+As dificuldades iniciais enfrentadas foram observadas com a nova forma de comunicação da própria Instituição em seu formato EAD, como, por exemplo o Canvas. A utilização foi, aos poucos e com o uso, sendo compreendida. Outro ponto que podemos destacar foi a definição e fechamento dos perfis dos usuários da aplicação a ser desenvolvida, que necessitou de uma abrangência maior, para alcançar os objetivos pretendidos, e foram escolhidos baseados nas características dos usuários frequentes de aplicações nessa área. Houve uma revisão geral na documentação elaborada e a equipe concluiu as demais definições do projeto, como objetivos e os requisitos.
+
+
+
+- 1.3 Evidências:
+
+Foram marcados diversos encontros e reuniões com a equipe, para discussões e definições dos objetivos, público-alvo, requisitos, perfis dos usuários e demais pontos importantes para o desenvolvimento do projeto. Essas reuniões resultaram em atas, com os resultados acordados e distribuição de tarefas. Ademais, produzimos resultados documentais, logo do projeto e a apresentação da Etapa 1.
+
+
+
+ 
+1-	Marcação de reuniões 
+
+ 
+Figura 2 – Divisão de tarefas e atividades
+
+ 
+3-Ata de uma das reuniões
+
+ 
+4-Construção e compartilhamento da Documentação e Especificação do projeto
+
+ 
+5- Logo do Aplicativo
+
+
+6-Construção da apresentação do Projeto em Power Point.
+
+
 
 
 ### Etiquetas
