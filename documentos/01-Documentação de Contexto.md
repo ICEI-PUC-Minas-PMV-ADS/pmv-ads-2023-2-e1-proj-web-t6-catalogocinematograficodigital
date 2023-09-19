@@ -13,7 +13,7 @@ Com a popularização de redes sociais temáticas, cada vez mais específicas, s
 Paralelamente, com o advento de novos serviços de streamings de mídia, que, além de conter acervos gigantescos de produções audiovisuais, também chegam a produzir novos conteúdos de entretenimento, é muito fácil perder o foco do que se quer assistir. Para abordar um exemplo prático, quando se trata de elencar as obras, o usuário deve ter primeiro uma conta no streaming desejado para, então, colocá-la na sua lista de exibição, segregando em várias listas os filmes e séries as quais deseja-se ver. 
 
 
-Também não há, dentro dos serviços acima, um espaço destinado a socialização entre usuários, sobre os filmes e séries que pretende assistir, os que já foram assistidos e até mesmo aqueles que não serão assistidos novamente. Constituindo assim uma área para o desenvolvimento de algum serviço online a ser ocupado.
+Também não há, dentro dos serviços acima, um espaço destinado à socialização entre usuários, sobre os filmes e séries que pretende assistir, os que já foram assistidos e até mesmo aqueles que não serão assistidos novamente. Constituindo, assim, uma área para o desenvolvimento de algum serviço online a ser ocupado.
 
 
 Observam-se inúmeras páginas na Internet, blogs, canais do YouTube e demais fontes de informações na Web que fornecem novidades, curiosidades, comentários e opiniões sobre as produções cinematográficas já produzidas, nas diversas partes do mundo.
