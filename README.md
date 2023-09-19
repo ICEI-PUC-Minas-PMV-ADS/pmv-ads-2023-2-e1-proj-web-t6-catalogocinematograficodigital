@@ -1,26 +1,26 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/sy1vqBms)
 # CCD - Catálogo Cinematográfico Digital
 
-`CURSO`
+`CURSO`: Tecnologia em Análise e Desenv. de Sistemas - EAD 
 
-`DISCIPLINA`
+`DISCIPLINA`: Projeto: Desenvolvimento de Aplicação Web Front-End
 
-`SEMESTRE`
+`SEMESTRE`: 2023.2
 
 Descrever resumidamente, em um ou dois parágrafos, o projeto desenvolvido.
 
 ## Integrantes
 
-* André
-* Caio
-* Enzo
-* Fábio
-* Márcia
-* Rodrigo
+* André Lucas Corrêa de Andrade e Florio
+* Caio Costa Miranda
+* Enzo Wilker Alves Félix
+* Fábio Ribeiro de Barros
+* Márcia Verônica Costa Miranda
+* Rodrigo Pimentel do Nascimento
 
 ## Orientador
 
-* Nome completo do professor
+* Prof. Marcos André Silveira Kutova
 
 # Documentação
 
