@@ -7,7 +7,12 @@
 
 `SEMESTRE`: 2023.2
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto desenvolvido.
+Com a popularização de redes sociais temáticas, cada vez mais específicas, constata-se a necessidade de se ter um meio de interação online que se envolvam com produções audiovisuais, mais especificamente filmes e séries, onde as pessoas possam compartilhar, com os demais, seus gostos, preferências e indicações.
+
+Ademais, não há, dentro dos serviços de Streamings, um espaço destinado a socialização entre usuários, sobre os filmes e séries que se pretende assistir, os que já foram assistidos e, até mesmo, aqueles que não serão assistidos novamente. Constituindo assim uma área para o desenvolvimento de algum serviço online a ser ocupado.
+
+Esse projeto visa criar uma plataforma online usável para cinéfilos e amantes de séries, permitindo que organizem, compartilhem ideias, opiniões e acompanhem suas preferências de filmes e séries.
+.
 
 ## Integrantes
 
