@@ -57,7 +57,7 @@ Esse processo de desenvolvimento foi sempre auxiliado pela utilização de diver
 
 ●	GitHub
 
-●	FIGMA
+●	Figma
 
 Descrição suncinta das ferramentas utilizadas:
 
@@ -71,7 +71,7 @@ Descrição suncinta das ferramentas utilizadas:
 
 - Github: é uma plataforma de hospedagem de código-fonte e arquivos com controle de versão usando o Git, disponibilizado no Canvas da PUC para registro e acompanhamento do projeto.
 
-- FIGMA: é uma ferramenta baseada na Web, plataforma colaborativa para construção de design de interfaces e protótipos, pertencente a empresa Fima, Inc. Inicialmente, foi criada para ser uma ferramenta gratuita que trouxesse colaboração entre pessoas e times, para criar produtos para diversas plataformas, mantendo a acessibilidade do sistema.
+- Figma: é uma ferramenta baseada na Web, plataforma colaborativa para construção de design de interfaces e protótipos, pertencente a empresa Fima, Inc. Inicialmente, foi criada para ser uma ferramenta gratuita que trouxesse colaboração entre pessoas e times, para criar produtos para diversas plataformas, mantendo a acessibilidade do sistema.
 
 
 
@@ -147,7 +147,7 @@ Figura 5- Logo do Aplicativo
 
 ![6-Construção da Apresentação do Projeto](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t6-catalogocinematograficodigital/assets/145228139/15d8af8d-1e39-4e02-b22f-f7486d92396b)
 
-6-Construção da apresentação do Projeto em Power Point.
+Figura 6-Construção da apresentação do Projeto em Power Point.
 
 
 #### Sprint 2:
@@ -177,8 +177,25 @@ A metodologia SCRUM foi escolhida e implementada, com cada membro da equipe tend
 
 Algumas demonstrações das atividades realizadas nessa etapa, estão nas imagens abaixo:
 
-(capturas de telas do Figma e WhismKal)
+![1-Captura tela-Construção User Flow e Prototipo no Figma](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t6-catalogocinematograficodigital/assets/145228139/0a9b94ed-88d7-4c12-a3d5-6517db25bd39)
 
+Figura 1 - Captura do Figma, no processo de construção do UserFlow e Protótipos
+
+![2-Reunião-13-09-4](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t6-catalogocinematograficodigital/assets/145228139/a19811a5-8c59-4984-97f8-91678e1eedf2)
+
+Figura 2 - Reunião da Equipe.
+
+![3-Reunião-13-09-6](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t6-catalogocinematograficodigital/assets/145228139/b33f2f10-6715-4a39-9b2e-ec0cb901056b)
+
+Figura 3 - Em encontro síncrono, a equipe discute sobre uso das ferramentas nessa etapa.
+
+![4-Reunião-13-09-7](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t6-catalogocinematograficodigital/assets/145228139/401565cb-f378-4cc9-af1c-8707efde925c)
+
+Figura 4 - Caprtura e uso das ferramentas pela equipe.
+
+![5-Ata reuniões-divisão de tarefas](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t6-catalogocinematograficodigital/assets/145228139/52e28f92-250f-4552-968d-52c2f7df37eb)
+
+Figura 5 - Ata de reunião de equipe e distribuição de tarefas
 
 
 ### Etiquetas
