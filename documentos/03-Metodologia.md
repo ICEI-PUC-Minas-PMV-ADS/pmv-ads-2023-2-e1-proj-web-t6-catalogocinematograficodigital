@@ -47,6 +47,8 @@ Esse processo de desenvolvimento foi sempre auxiliado pela utilização de diver
 
 ### Ferramentas
 
+●	Google Docs
+
 ●	WhatsApp
 
 ●	Meet
@@ -58,6 +60,7 @@ Esse processo de desenvolvimento foi sempre auxiliado pela utilização de diver
 ●	GitHub
 
 ●	Figma
+
 
 Descrição suncinta das ferramentas utilizadas:
 
