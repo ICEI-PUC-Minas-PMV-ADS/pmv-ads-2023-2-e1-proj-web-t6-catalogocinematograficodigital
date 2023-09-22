@@ -33,13 +33,13 @@ O método Scrum é dividido nos seguintes papéis:
 
 Os papéis, na Equipe 4, foram distribuídos da seguinte maneira:
 
-●	Produt Owner: Enzo Wilker Alves Félix.
+●	**Produt Owner**: Enzo Wilker Alves Félix.
 
-●	Scrum Master: Márcia Verônica Costa Miranda.
+●	**Scrum Master**: Márcia Verônica Costa Miranda.
 
-●	Equipe de Design: Fábio Ribeiro de Barros, Caio Costa Miranda, Enzo Wilker Alves Félix.
+●	**Equipe de Design**: Fábio Ribeiro de Barros, Caio Costa Miranda, Enzo Wilker Alves Félix.
 
-●	Equipe de Desenvolvimento: Fábio Ribeiro de Barros, Enzo Wilker Alves Félix, Márcia Verônica Costa Miranda, Caio Costa Miranda, Rodrigo e André Lucas Corrêa de Andrade e Florio.
+●	**Equipe de Desenvolvimento**: Fábio Ribeiro de Barros, Enzo Wilker Alves Félix, Márcia Verônica Costa Miranda, Caio Costa Miranda, Rodrigo e André Lucas Corrêa de Andrade e Florio.
 
 As tarefas são organizadas nos backlog do produto, e, em todo processo de construção da aplicação, a equipe reuniu-se semanalmente para definição e planejamento das tarefas, distribuição das atividades, revisão e planejamento dos próximos passos.
 Esse processo de desenvolvimento foi sempre auxiliado pela utilização de diversas ferramentas de comunicação, documentação e construção de softwares.
