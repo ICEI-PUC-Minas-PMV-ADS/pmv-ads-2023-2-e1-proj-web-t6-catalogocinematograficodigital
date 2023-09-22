@@ -2,7 +2,10 @@
 
 ## Conjunto de Slides
 
-A apresentação do projeto consiste na geração de um conjunto de slides em um arquivo no formato ppt, pptx ou pdf, contemplando os seguintes itens:
+A apresentação do projeto, em um conjunto de slides em um arquivo no formato pdf, contemplando os seguintes itens:
+
+[Apresentação-Equipe 4-Turma 6-2023-2-versão FINAL.pdf](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t6-catalogocinematograficodigital/files/12695695/Apresentacao-Equipe.4-Turma.6-2023-2-versao.FINAL.pdf)
+
 
 > - Contexto (Problema, Público-alvo)
 > - Requisitos
