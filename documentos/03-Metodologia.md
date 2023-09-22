@@ -83,7 +83,7 @@ Descrição suncinta das ferramentas utilizadas:
 
 #### Backlog do Produto:
 
-- Etapa 1:
+- **Etapa 1 (Sprint 1)**:
 
 Documentação de Contexto.
 
@@ -91,7 +91,7 @@ Especificação do Projeto.
 
 Apresentação do Projeto.
 
-- Etapa 2:
+- **Etapa 2(Sprint 2)**:
   
 Documentação de Contexto
 
