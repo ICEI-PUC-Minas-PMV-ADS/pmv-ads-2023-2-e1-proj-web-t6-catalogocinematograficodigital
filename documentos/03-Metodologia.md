@@ -108,7 +108,7 @@ Referências atualizadas
 
 #### Etapa 1 (Sprint 1):
 
-- 1.1 Planejamento:
+*1.1 Planejamento:*
 
 Nessa etapa, após a formação da equipe, foram realizados alguns encontros e debates, através das ferramentas Google Meet e no grupo do WhatsApp, para decisão do aplicativo a ser desenvolvido. O projeto foi originado a partir das escolhas, entre diversas ideias, onde as vivências dos componentes da equipe que acordou que, o problema escolhido – Página Web para consulta e registro de filmes e séries – poderia ajudar aos usuários em suas necessidades de registro, consulta e compartilhamento de preferências de filmes e séries com outros interessados. Ademais, também tivemos outros encontros pelo Meet e conversas no grupo de WhatsApp, para alinhamento e definição das funcionalidades da aplicação.
 
@@ -117,47 +117,40 @@ Foi escrito e entregue a documentação referente a essa etapa, que consistiu:
 - Especificação do projeto: foram especificados os perfis dos usuários, as histórias dos usuários, os requisitos funcionais e não-funcionais da aplicação.
 
 
-- 1.2 Execução:
+*1.2 Execução:*
 
 Durante essa etapa, foram realizados encontros com o professor, através do Teams, que orientou a respeito dos encaminhamentos, utilização dos recursos nessa fase e como descrever a documentação, bem como suas correções e sugestões de melhoria. 
 As reuniões da equipe foram realizadas em até duas vezes por semana, pelo Meet de forma síncrona, uma vez que trata-se de uma etapa de muitas definições para os futuros encaminhamentos do projeto. Esses encontros sempre resultaram nas distribuições de atividades com os componentes, para os ajustes e composição final dos documentos.
 As dificuldades iniciais enfrentadas foram observadas com a nova forma de comunicação da própria Instituição em seu formato EAD, como, por exemplo o Canvas. A utilização foi, aos poucos e com o uso, sendo compreendida. Outro ponto que podemos destacar foi a definição e fechamento dos perfis dos usuários da aplicação a ser desenvolvida, que necessitou de uma abrangência maior, para alcançar os objetivos pretendidos, e foram escolhidos baseados nas características dos usuários frequentes de aplicações nessa área. Houve uma revisão geral na documentação elaborada e a equipe concluiu as demais definições do projeto, como objetivos e os requisitos.
 
 
-
-- 1.3 Evidências:
+*1.3 Evidências:*
 
 Foram marcados diversos encontros e reuniões com a equipe, para discussões e definições dos objetivos, público-alvo, requisitos, perfis dos usuários e demais pontos importantes para o desenvolvimento do projeto. Essas reuniões resultaram em atas, com os resultados acordados e distribuição de tarefas. Ademais, produzimos resultados documentais, logo do projeto e a apresentação da Etapa 1.
 
 
-![1-Marcar reunião_peq](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t6-catalogocinematograficodigital/assets/145228139/98b22a7c-9eb9-4a3e-8ba3-84736f0fc111)
+![4-Construção do documento da Etapa 1-Google Docs-OK](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t6-catalogocinematograficodigital/assets/145228139/3a74ef5c-7602-445e-8a55-a50abd7773f3)
 
-Figura 1-	Marcação de reuniões 
+Figura 1 – Construção do documento Referente à Etapa 1 no Google Docs
 
- ![2-Divisão de tarefas](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t6-catalogocinematograficodigital/assets/145228139/025a4390-e1e6-499e-8432-dd5276ec227b)
+![1-Ata das reuniões-etapa 1](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t6-catalogocinematograficodigital/assets/145228139/3a080f49-518f-461e-a822-80c6a2139e7d)
+Figura 2 – Atas das reuniões de Equipe ocorridas para discussões e decisões da etapa 1
 
-Figura 2 – Divisão de tarefas e atividades
+![2-Link do drive para o Google Docs do projeto-OK](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t6-catalogocinematograficodigital/assets/145228139/f6df2b78-7e8e-4fdc-bf21-16200baad3bf)
 
- ![3-Ata da reunião](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t6-catalogocinematograficodigital/assets/145228139/9ca2285e-9b75-4890-9de3-d2709128446a)
+Figura 3 – Link do drive do Google Docs para construção do documento da Etapa 1
 
-Figura 3-Ata de uma das reuniões
+![3-Construção da Apresentação do Projeto](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t6-catalogocinematograficodigital/assets/145228139/95907d52-8d01-4fa1-afda-211416384b0b)
+Figura 4 – Construção da apresentação do projeto – Etapa 1
 
- ![4-Construção e compartilhamento do Documento e Especif](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t6-catalogocinematograficodigital/assets/145228139/8f28f6f1-543f-4dae-8d00-398195b576de)
+![5-Kanban-etapa 1](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t6-catalogocinematograficodigital/assets/145228139/40484c27-c484-4a69-bcaa-76fc87bdf39f)
+Figura 5 – Kanban da Etapa 1
 
-Figura 4-Construção e compartilhamento da Documentação e Especificação do projeto
-
- ![Logo do Projeto](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t6-catalogocinematograficodigital/assets/145228139/d155247d-ad5b-4dd4-9b2e-5e2050e18101)
-
-Figura 5- Logo do Aplicativo
-
-![6-Construção da Apresentação do Projeto](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t6-catalogocinematograficodigital/assets/145228139/15d8af8d-1e39-4e02-b22f-f7486d92396b)
-
-Figura 6-Construção da apresentação do Projeto em Power Point.
 
 
 #### Sprint 2:
 
-- 2.1 Planejamento:
+*2.1 Planejamento:*
 
 Nessa etapa, foram discutidas e definidas a metodologia e as ferramentas a serem utilizadas no decorrer do projeto. 
 O professor, em encontro com as equipes de projetos, orientou a utilização da metodologia ágil e colaborativa, SCRUM, a ser utilizada ao longo do projeto.
@@ -168,7 +161,8 @@ A equipe reuniu-se, semanalmente, para distribuição de tarefas, e foram defini
 Podem-se destacar algumas dificuldades iniciais no uso das ferramentas, que se constituíram novidades para a equipe como um todo. Passados os entraves de aprendizado, a construção do design do aplicativo fluiu como esperado, sendo a ferramenta Figma uma boa surpresa para a construção dos protótipos, bem como do User Flow do aplicativo.
 
 
-- 2.2 Execução:
+*2.2 Execução:*
+
 Após a escolha da metodologia SCRUM como abordagem a ser implementada, cada membro da equipe teve sua função especificada.
 A equipe fez reuniões semanais e decidiu pelo aprendizado e uso do Whimscal e Figma, para serem utilizados no design do aplicativo.
 Essas ferramentas constituíram-se novidades para toda equipe, portanto houve uma dificuldade inicial em seu aprendizado e utilização inicial. Houve uma colaboração excelente entre os membros, principalmente no compartilhamento dos cadastros das ferramentas utilizadas, facilitando a construção dos designs.
@@ -178,7 +172,7 @@ Por fim, o Figma foi o software mais facilmente utilizado, pois possibilitou, in
 A metodologia SCRUM foi escolhida e implementada, com cada membro da equipe tendo uma função específica. Além disso, o método Kanban foi adotado para distribuir as tarefas. O User flow foi construído coletivamente na plataforma Miro levando em consideração os requisitos funcionais e não funcionais, e Renan, responsável pelas definições de design, esquematizou os wireframes da página de login e da página principal no Figma utilizando o User flow como base.
 
 
--2.3 Evidências:
+*2.3 Evidências:*
 
 Algumas demonstrações das atividades realizadas nessa etapa, estão nas imagens abaixo:
 
@@ -186,21 +180,17 @@ Algumas demonstrações das atividades realizadas nessa etapa, estão nas imagen
 
 Figura 1 - Captura do Figma, no processo de construção do UserFlow e Protótipos
 
-![2-Reunião-13-09-4](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t6-catalogocinematograficodigital/assets/145228139/a19811a5-8c59-4984-97f8-91678e1eedf2)
+![3-Reunião da equipe-OK](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t6-catalogocinematograficodigital/assets/145228139/dc57d3db-e1aa-4868-8a7e-38fa09c694c7)
 
-Figura 2 - Reunião da Equipe.
+Figura 2 - Reunião síncrono da Equipe 4 e uso das ferramentas.
 
-![3-Reunião-13-09-6](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t6-catalogocinematograficodigital/assets/145228139/b33f2f10-6715-4a39-9b2e-ec0cb901056b)
+![5-Ata reuniões-divisão de tarefas-OK](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t6-catalogocinematograficodigital/assets/145228139/274754eb-5549-4f26-90c0-bdd5e9da2e1b)
 
-Figura 3 - Em encontro síncrono, a equipe discute sobre uso das ferramentas nessa etapa.
+Figura 3 - Ata de reunião de equipe e distribuição de tarefas
 
-![4-Reunião-13-09-7](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t6-catalogocinematograficodigital/assets/145228139/401565cb-f378-4cc9-af1c-8707efde925c)
+![3-Kanban-etapa 2](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t6-catalogocinematograficodigital/assets/145228139/dcfcbfd5-3021-4dfe-85d0-aa636b6b713b)
 
-Figura 4 - Caprtura e uso das ferramentas pela equipe.
-
-![5-Ata reuniões-divisão de tarefas](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t6-catalogocinematograficodigital/assets/145228139/52e28f92-250f-4552-968d-52c2f7df37eb)
-
-Figura 5 - Ata de reunião de equipe e distribuição de tarefas
+Figura 4 - Kanban da Etapa 2
 
 
 ### Etiquetas
