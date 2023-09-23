@@ -1,6 +1,7 @@
 
 # Metodologia
 
+
      A metodologia utilizada neste projeto é baseada no SCRUM, que é uma abordagem ágil de desenvolvimento e tem como objetivo otimizar a especificação e execução de projetos. Através dessa metodologia, procura-se organizar melhor as equipes de trabalho e fragmentar as tarefas, distribuindo-as, procurando prover mais eficiência no desenvolvimento.
 
 
@@ -19,6 +20,7 @@ Como mencionado anteriormente, o Scrum é uma abordagem ágil e colaborativa que
 A metodologia ágil escolhida para o desenvolvimento deste projeto foi o SCRUM, pois como citam Amaral, Fleury e Isoni (2019, p. 68), seus benefícios são a
 
 “visão clara dos resultados a entregar; ritmo e disciplina necessários à execução; definição de papéis e responsabilidades dos integrantes do projeto (Scrum Owner, Scrum Master e Team); empoderamento dos membros da equipe de projetos para atingir o desafio; conhecimento distribuído e compartilhado de forma colaborativa; ambiência favorável para crítica às ideias e não às pessoas.”
+
 
 ### Divisão de Papéis
 
@@ -104,7 +106,7 @@ Projeto de Interface
 Referências atualizadas
 
 
-#### Sprint 1:
+#### Etapa 1 (Sprint 1):
 
 - 1.1 Planejamento:
 
