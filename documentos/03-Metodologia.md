@@ -87,23 +87,23 @@ Descrição suncinta das ferramentas utilizadas:
 
 - **Etapa 1 (Sprint 1)**:
 
-Documentação de Contexto.
+- Documentação de Contexto.
 
-Especificação do Projeto.
+- Especificação do Projeto.
 
-Apresentação do Projeto.
+- Apresentação do Projeto.
 
 - **Etapa 2(Sprint 2)**:
   
-Documentação de Contexto
+- Documentação de Contexto
 
-Especificação do Projeto
+- Especificação do Projeto
 
-Metodologia
+- Metodologia
 
-Projeto de Interface
+- Projeto de Interface
 
-Referências atualizadas
+- Referências atualizadas
 
 
 #### Etapa 1 (Sprint 1):
@@ -134,6 +134,7 @@ Foram marcados diversos encontros e reuniões com a equipe, para discussões e d
 Figura 1 – Construção do documento Referente à Etapa 1 no Google Docs
 
 ![1-Ata das reuniões-etapa 1](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t6-catalogocinematograficodigital/assets/145228139/3a080f49-518f-461e-a822-80c6a2139e7d)
+
 Figura 2 – Atas das reuniões de Equipe ocorridas para discussões e decisões da etapa 1
 
 ![2-Link do drive para o Google Docs do projeto-OK](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t6-catalogocinematograficodigital/assets/145228139/f6df2b78-7e8e-4fdc-bf21-16200baad3bf)
@@ -141,11 +142,12 @@ Figura 2 – Atas das reuniões de Equipe ocorridas para discussões e decisões
 Figura 3 – Link do drive do Google Docs para construção do documento da Etapa 1
 
 ![3-Construção da Apresentação do Projeto](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t6-catalogocinematograficodigital/assets/145228139/95907d52-8d01-4fa1-afda-211416384b0b)
+
 Figura 4 – Construção da apresentação do projeto – Etapa 1
 
 ![5-Kanban-etapa 1](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t6-catalogocinematograficodigital/assets/145228139/40484c27-c484-4a69-bcaa-76fc87bdf39f)
-Figura 5 – Kanban da Etapa 1
 
+Figura 5 – Kanban da Etapa 1
 
 
 #### Sprint 2:
