@@ -47,38 +47,6 @@ As tarefas são organizadas nos backlog do produto, e, em todo processo de const
 Esse processo de desenvolvimento foi sempre auxiliado pela utilização de diversas ferramentas de comunicação, documentação e construção de softwares.
 
 
-### Ferramentas
-
-●	Google Docs
-
-●	WhatsApp
-
-●	Meet
-
-●	Whimscal
-
-●	Teams
-
-●	GitHub
-
-●	Figma
-
-
-Descrição suncinta das ferramentas utilizadas:
-
-- Whatsapp: é uma ferramenta de comunicação rápida e que participa do cotidiano de todos do grupo, utilizada para atualização e resumo de decisões conjuntas, avisos, sugestões ao projeto, etc.
-
-- Meet: é uma ferramenta de fácil acesso e com a opção de compartilhamento de tela foi escolhido para ser a ferramenta de reuniões e encontros frequentes para tomadas de decisões.
-
-- Whimscal: é um espaço de trabalho visual que ajuda à equipe na construção de wireframes, fluxogramas, mapas mentais, notas adesivas e documentos de forma rápida e simples.
-
-- Teams: é uma plataforma de comunicação e colaboração que combina bate-papo, videoconferências, armazenamento de arquivos e integração de aplicativos no local de trabalho.
-
-- Github: é uma plataforma de hospedagem de código-fonte e arquivos com controle de versão usando o Git, disponibilizado no Canvas da PUC para registro e acompanhamento do projeto.
-
-- Figma: é uma ferramenta baseada na Web, plataforma colaborativa para construção de design de interfaces e protótipos, pertencente a empresa Fima, Inc. Inicialmente, foi criada para ser uma ferramenta gratuita que trouxesse colaboração entre pessoas e times, para criar produtos para diversas plataformas, mantendo a acessibilidade do sistema.
-
-
 
 ### Processo
 
@@ -228,19 +196,24 @@ Abaixo estão as ferramentas empregadas no projeto, bem como os ambientes de tra
 Ferramentas
 
 ●	Google Docs
-
 ●	WhatsApp
-
 ●	Meet
-
 ●	Whimscal
-
 ●	Teams
-
 ●	GitHub
-
 ●	Figma
 
+
+
+Os artefatos do projeto são desenvolvidos a partir de diversas plataformas e a relação dos ambientes com seu respectivo propósito é apresentada na tabela que se segue.
+
+| AMBIENTE                            | PLATAFORMA                         | LINK DE ACESSO                         |
+|-------------------------------------|------------------------------------|----------------------------------------|
+| Repositório de código fonte         | GitHub                             | http://....                            |
+| Documentos do projeto               | GitHub                             | http://....                            |
+| Projeto de Interface                | Figma                              | http://....                            |
+| Gerenciamento do Projeto            | GitHub Projects                    | http://....                            |
+| Hospedagem                          | GitHub Pages                       | http://....                            |
 
 Descrição suncinta das ferramentas utilizadas:
 
@@ -255,17 +228,6 @@ Descrição suncinta das ferramentas utilizadas:
 - Github: é uma plataforma de hospedagem de código-fonte e arquivos com controle de versão usando o Git, disponibilizado no Canvas da PUC para registro e acompanhamento do projeto.
 
 - Figma: é uma ferramenta baseada na Web, plataforma colaborativa para construção de design de interfaces e protótipos, pertencente a empresa Fima, Inc. Inicialmente, foi criada para ser uma ferramenta gratuita que trouxesse colaboração entre pessoas e times, para criar produtos para diversas plataformas, mantendo a acessibilidade do sistema.
-
-
-Os artefatos do projeto são desenvolvidos a partir de diversas plataformas e a relação dos ambientes com seu respectivo propósito é apresentada na tabela que se segue.
-
-| AMBIENTE                            | PLATAFORMA                         | LINK DE ACESSO                         |
-|-------------------------------------|------------------------------------|----------------------------------------|
-| Repositório de código fonte         | GitHub                             | http://....                            |
-| Documentos do projeto               | GitHub                             | http://....                            |
-| Projeto de Interface                | Figma                              | http://....                            |
-| Gerenciamento do Projeto            | GitHub Projects                    | http://....                            |
-| Hospedagem                          | GitHub Pages                       | http://....                            |
 
 
 ### Estratégia de Organização de Codificação 
