@@ -141,7 +141,7 @@ Figura 2 – Atas das reuniões de Equipe ocorridas para discussões e decisões
 
 Figura 3 – Link do drive do Google Docs para construção do documento da Etapa 1
 
-![3-Construção da Apresentação do Projeto](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t6-catalogocinematograficodigital/assets/145228139/95907d52-8d01-4fa1-afda-211416384b0b)
+![3-Construção da Apresentação do Projeto-OK](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t6-catalogocinematograficodigital/assets/145228139/d46bb756-407f-458c-a32c-9261986a785a)
 
 Figura 4 – Construção da apresentação do projeto – Etapa 1
 
@@ -180,19 +180,26 @@ Algumas demonstrações das atividades realizadas nessa etapa, estão nas imagen
 
 ![1-Captura tela-Construção User Flow e Prototipo no Figma](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t6-catalogocinematograficodigital/assets/145228139/0a9b94ed-88d7-4c12-a3d5-6517db25bd39)
 
-Figura 1 - Captura do Figma, no processo de construção do UserFlow e Protótipos
+Figura 1 - Captura do Figma, no processo de construção dos Protótipos do Aplicativo.
+
+![7-Tela área trabalho-Whimskal](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t6-catalogocinematograficodigital/assets/145228139/482fb718-508f-45c9-9d9f-3f09050b21c1)
+
+Figura 2 - Captura do Whimskal, no processo de construção do Fluxo do Usuário do Aplicativo.
 
 ![3-Reunião da equipe-OK](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t6-catalogocinematograficodigital/assets/145228139/dc57d3db-e1aa-4868-8a7e-38fa09c694c7)
 
-Figura 2 - Reunião síncrono da Equipe 4 e uso das ferramentas.
+Figura 3 - Reunião síncrono da Equipe 4 e uso das ferramentas.
 
 ![5-Ata reuniões-divisão de tarefas-OK](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t6-catalogocinematograficodigital/assets/145228139/274754eb-5549-4f26-90c0-bdd5e9da2e1b)
 
-Figura 3 - Ata de reunião de equipe e distribuição de tarefas
+Figura 4 - Ata de reunião de equipe e distribuição de tarefas
 
 ![3-Kanban-etapa 2](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t6-catalogocinematograficodigital/assets/145228139/dcfcbfd5-3021-4dfe-85d0-aa636b6b713b)
 
-Figura 4 - Kanban da Etapa 2
+Figura 5 - Kanban da Etapa 2
+
+
+Figura 6- Kanban da Etapa 2 - Atividades Executadas
 
 
 ### Etiquetas
