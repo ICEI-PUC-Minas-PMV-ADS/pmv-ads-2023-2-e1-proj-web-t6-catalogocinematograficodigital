@@ -87,23 +87,23 @@ Descrição suncinta das ferramentas utilizadas:
 
 - **Etapa 1 (Sprint 1)**:
 
-  Documentação de Contexto.
+       Documentação de Contexto.
 
-  Especificação do Projeto.
+       Especificação do Projeto.
 
-  Apresentação do Projeto.
+       Apresentação do Projeto.
 
 - **Etapa 2(Sprint 2)**:
   
-  Documentação de Contexto
+       Documentação de Contexto
 
-  Especificação do Projeto
+       Especificação do Projeto
 
-  Metodologia
+       Metodologia
 
-  Projeto de Interface
+       Projeto de Interface
 
-  Referências atualizadas
+       Referências atualizadas
 
 
 #### Etapa 1 (Sprint 1):
