@@ -127,7 +127,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |       |  •	Permitir que os usuários avaliem filmes e séries através de uma escala (por exemplo, de 1 a 5 estrelas).|       |
 |       |  •	Possibilitar que os usuários escrevam comentários e resenhas.|       |
 | RF-07 |  Compartilhamento de informações:| Média  | 
-|       |  •	Permitir que os usuários compartilhe as listas, juntamente com seus comentários, se assim lhe aprouver.|       |
+|       |  •	Permitir que os usuários compartilhem suas listas, juntamente com comentários e avaliações.|       |
 
 **Prioridade: Alta / Média / Baixa. 
 
