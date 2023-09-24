@@ -223,6 +223,40 @@ Figura 6- Kanban da Etapa 2 - Atividades Executadas
 
 [Descreva aqui as ferramentas empregadas no projeto e os ambiente de trabalho utilizados pela  equipe para desenvolvê-lo. Abrange a relação de ambientes utilizados, a estrutura para gestão do código fonte, além da definição do processo e ferramenta através dos quais a equipe se organiza (Gestão de Times).]
 
+Abaixo estão as ferramentas empregadas no projeto, bem como os ambientes de trabalho utilizados pela equipe no seu processo de desenvolvimento:
+
+Ferramentas
+
+●	Google Docs
+
+●	WhatsApp
+
+●	Meet
+
+●	Whimscal
+
+●	Teams
+
+●	GitHub
+
+●	Figma
+
+
+Descrição suncinta das ferramentas utilizadas:
+
+- Whatsapp: é uma ferramenta de comunicação rápida e que participa do cotidiano de todos do grupo, utilizada para atualização e resumo de decisões conjuntas, avisos, sugestões ao projeto, etc.
+
+- Meet: é uma ferramenta de fácil acesso e com a opção de compartilhamento de tela foi escolhido para ser a ferramenta de reuniões e encontros frequentes para tomadas de decisões.
+
+- Whimscal: é um espaço de trabalho visual que ajuda à equipe na construção de wireframes, fluxogramas, mapas mentais, notas adesivas e documentos de forma rápida e simples.
+
+- Teams: é uma plataforma de comunicação e colaboração que combina bate-papo, videoconferências, armazenamento de arquivos e integração de aplicativos no local de trabalho.
+
+- Github: é uma plataforma de hospedagem de código-fonte e arquivos com controle de versão usando o Git, disponibilizado no Canvas da PUC para registro e acompanhamento do projeto.
+
+- Figma: é uma ferramenta baseada na Web, plataforma colaborativa para construção de design de interfaces e protótipos, pertencente a empresa Fima, Inc. Inicialmente, foi criada para ser uma ferramenta gratuita que trouxesse colaboração entre pessoas e times, para criar produtos para diversas plataformas, mantendo a acessibilidade do sistema.
+
+
 Os artefatos do projeto são desenvolvidos a partir de diversas plataformas e a relação dos ambientes com seu respectivo propósito é apresentada na tabela que se segue.
 
 | AMBIENTE                            | PLATAFORMA                         | LINK DE ACESSO                         |
