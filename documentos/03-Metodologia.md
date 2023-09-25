@@ -189,19 +189,18 @@ Figura 6- Kanban da Etapa 2 - Atividades Executadas
   
 ### Ferramentas
 
-[Descreva aqui as ferramentas empregadas no projeto e os ambiente de trabalho utilizados pela  equipe para desenvolvê-lo. Abrange a relação de ambientes utilizados, a estrutura para gestão do código fonte, além da definição do processo e ferramenta através dos quais a equipe se organiza (Gestão de Times).]
-
 Abaixo estão as ferramentas empregadas no projeto, bem como os ambientes de trabalho utilizados pela equipe no seu processo de desenvolvimento:
 
 Ferramentas
 
 ●	Google Docs
 ●	WhatsApp
-●	Meet
+●	GoogleMeet
 ●	Whimscal
 ●	Teams
 ●	GitHub
 ●	Figma
+●	Kanban
 
 
 
@@ -209,14 +208,20 @@ Os artefatos do projeto são desenvolvidos a partir de diversas plataformas e a 
 
 | AMBIENTE                            | PLATAFORMA                         | LINK DE ACESSO                         |
 |-------------------------------------|------------------------------------|----------------------------------------|
-| Repositório de código fonte         | GitHub                             | http://....                            |
-| Documentos do projeto               | GitHub                             | http://....                            |
-| Projeto de Interface                | Figma                              | http://....                            |
-| Gerenciamento do Projeto            | GitHub Projects                    | http://....                            |
+| Repositório de código fonte         | GitHub                             | https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t6-catalogocinematograficodigital/tree/main/codigo-fonte                            |
+| Documentos do projeto               | GitHub                             | https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t6-catalogocinematograficodigital/tree/main/documentos                         |
+| Projeto de Interface                | Figma                              | https://www.figma.com/files/team/1283863081767237418/PUC-Turma-6--Equipe-4?fuid=1283933081543955774                            |
+| Gerenciamento do Projeto            | GitHub                             | https://github.com/orgs/ICEI-PUC-Minas-PMV-ADS/teams/catalogocinematograficodigital                           |
 | Hospedagem                          | GitHub Pages                       | http://....                            |
+| Backlog                             | Kanban                             | https://github.com/orgs/ICEI-PUC-Minas-PMV-ADS/projects/665/views/1                         |
+| Reuniões                            | Microsoft Teams                    | https://teams.microsoft.com/_#/conversations/Geral?threadId=19:YXPKB2GIujl03wbYTb9oH-LrS4W-Wam0P7zRML9oj4E1@thread.tacv2&messageId=1695415038918&replyChainId=1695415038918&ctx=channel                            |
+| Reuniões                            | GoogleMeet                         | https://meet.google.com/yir-tpvk-npn             |
+| Comunicação                         | WhatsApp                           | web.whatsapp.com                            |
+| Documentação                        | Google Docs                        | https://docs.google.com/document/d/1lkpPL_6YgQeaid9MN030_8_PmYDyrqd1/edit?usp=sharing&ouid=117692585368807082873&rtpof=true&sd=true                       |
+| Protótipo                           | Whimsical                          |  https://whimsical.com/cdu-versao-final-J7Y4yxEUrtedgVnK9AiDs5                           |
 
 Descrição suncinta das ferramentas utilizadas:
-
+ 
 - Whatsapp: é uma ferramenta de comunicação rápida e que participa do cotidiano de todos do grupo, utilizada para atualização e resumo de decisões conjuntas, avisos, sugestões ao projeto, etc.
 
 - Meet: é uma ferramenta de fácil acesso e com a opção de compartilhamento de tela foi escolhido para ser a ferramenta de reuniões e encontros frequentes para tomadas de decisões.
@@ -228,6 +233,8 @@ Descrição suncinta das ferramentas utilizadas:
 - Github: é uma plataforma de hospedagem de código-fonte e arquivos com controle de versão usando o Git, disponibilizado no Canvas da PUC para registro e acompanhamento do projeto.
 
 - Figma: é uma ferramenta baseada na Web, plataforma colaborativa para construção de design de interfaces e protótipos, pertencente a empresa Fima, Inc. Inicialmente, foi criada para ser uma ferramenta gratuita que trouxesse colaboração entre pessoas e times, para criar produtos para diversas plataformas, mantendo a acessibilidade do sistema.
+
+- Kanban: é uma ferramenta da web, utilizada para registro do backlog dos requisitos do projeto, e também dos avanços dos procedimentos que atendem aos requisitos, sendo um recurso útil para o registro dos sprints e das etapas do método Scrum.
 
 
 ### Estratégia de Organização de Codificação 
