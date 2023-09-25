@@ -45,22 +45,22 @@ Figura 1- Fluxo Geral de telas do projeto.
 ![Captura de tela 2023-09-24 202244](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t6-catalogocinematograficodigital/assets/145228888/9e36b57f-b173-4286-8b40-cc572ccb3517)
 
 ![Figura 1](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t6-catalogocinematograficodigital/assets/145228888/d169e101-1963-44b3-bc37-e80a3e7475ff)
-Figura 2 - Tela Home
+Figura 2 - Tela Home do Usuário
 
 ![Figura 3](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t6-catalogocinematograficodigital/assets/145228888/3051bcad-27f3-4993-a026-cac2d625fb34)
-Figura 3 - Tela Sobre
+Figura 3 - Tela Sobre da Aplicação
 
 ![Figura 4](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t6-catalogocinematograficodigital/assets/145228888/e2e11ff6-d1a2-468c-9f78-2f6dd53fedf9)
 Figura 4 - Tela Contato
 
 ![Figura 5](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t6-catalogocinematograficodigital/assets/145228888/92a8a600-6ea2-4917-b8fc-18d8c6634afd)
-Figura 5 - Tela Privacidade
+Figura 5 - Tela Privacidade do Usuário
 
 ![Figura 6](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t6-catalogocinematograficodigital/assets/145228888/b1aae9a6-872f-4c73-80f4-d04bfa2b5caa)
-Figura 6 - Tela de Login
+Figura 6 - Tela de Login do Usuário
 
 ![Figura 7](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t6-catalogocinematograficodigital/assets/145228888/ea7af7d6-5b5e-4c9c-a347-00047fb925d5)
-Figura 7 - Tela de Recuperação de Senha
+Figura 7 - Tela de Recuperação de Senha do Usuário
 
 ![Figura 8](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t6-catalogocinematograficodigital/assets/145228888/80f0aed6-6d96-4024-bef2-729d4c271252)
 Figura 8 - Tela de Cadastro de Usuário
