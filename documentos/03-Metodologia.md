@@ -236,6 +236,8 @@ Descrição suncinta das ferramentas utilizadas:
 
 - Kanban: é uma ferramenta da web, utilizada para registro do backlog dos requisitos do projeto, e também dos avanços dos procedimentos que atendem aos requisitos, sendo um recurso útil para o registro dos sprints e das etapas do método Scrum.
 
+- Google Docs: é um processador de texto on-line do Google, que permite criar, editar, formatar e visualizar documentos, além de permitir colaborar com outras pessoas.
+
 
 ### Estratégia de Organização de Codificação 
 
