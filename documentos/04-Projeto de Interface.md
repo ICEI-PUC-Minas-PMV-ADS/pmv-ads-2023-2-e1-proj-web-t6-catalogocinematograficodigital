@@ -40,7 +40,11 @@ Figura 7 - Página do Usuário - visualização de suas Listas Públicas
 Foram construídos as telas de navegação do projeto, que espelham as expectativas de páginas da aplicação. A imagem abaixo representa uma ideia geral do fluxo de telas do projeto.
 
 ![Wireframe-projeto Filmes e Séries](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t6-catalogocinematograficodigital/assets/145228139/22bb9c9a-4783-4b35-8159-571d625ec3ba)
-Fluxo Geral de telas do projeto.
+Figura 1- Fluxo Geral de telas do projeto.
+
+![Captura de tela 2023-09-24 202244](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t6-catalogocinematograficodigital/assets/145228888/9e36b57f-b173-4286-8b40-cc572ccb3517)
+
+Figura 2 - 
 
 
 ### Protótipo de baixa fidelidade
