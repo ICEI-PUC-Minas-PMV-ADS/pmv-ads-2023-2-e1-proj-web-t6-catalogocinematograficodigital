@@ -214,11 +214,11 @@ Os artefatos do projeto são desenvolvidos a partir de diversas plataformas e a 
 | Gerenciamento do Projeto            | GitHub                             | https://github.com/orgs/ICEI-PUC-Minas-PMV-ADS/teams/catalogocinematograficodigital                           |
 | Hospedagem                          | GitHub Pages                       | http://....                            |
 | Backlog                             | Kanban                             | https://github.com/orgs/ICEI-PUC-Minas-PMV-ADS/projects/665/views/1                         |
-| Reuniões                            | Microsoft Teams                    | https://teams.microsoft.com/_#/conversations/Geral?threadId=19:YXPKB2GIujl03wbYTb9oH-LrS4W-Wam0P7zRML9oj4E1@thread.tacv2&messageId=1695415038918&replyChainId=1695415038918&ctx=channel                            |
-| Reuniões                            | GoogleMeet                         | https://meet.google.com/yir-tpvk-npn             |
-| Comunicação                         | WhatsApp                           | web.whatsapp.com                            |
+| Encontros síncronos com Orientador  | Microsoft Teams                    | https://teams.microsoft.com/_#/conversations/Geral?threadId=19:YXPKB2GIujl03wbYTb9oH-LrS4W-Wam0P7zRML9oj4E1@thread.tacv2&messageId=1695415038918&replyChainId=1695415038918&ctx=channel                            |
+| Reuniões da equipe                  | GoogleMeet                         | https://meet.google.com/yir-tpvk-npn             |
+| Comunicação da equipe               | WhatsApp                           | web.whatsapp.com                            |
 | Documentação                        | Google Docs                        | https://docs.google.com/document/d/1lkpPL_6YgQeaid9MN030_8_PmYDyrqd1/edit?usp=sharing&ouid=117692585368807082873&rtpof=true&sd=true                       |
-| Protótipo                           | Whimsical                          |  https://whimsical.com/cdu-versao-final-J7Y4yxEUrtedgVnK9AiDs5                           |
+| Protótipo/Fluxo do usuário projeto  | Whimsical                          |  https://whimsical.com/cdu-versao-final-J7Y4yxEUrtedgVnK9AiDs5                           |
 
 Descrição suncinta das ferramentas utilizadas:
  
