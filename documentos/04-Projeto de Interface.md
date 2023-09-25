@@ -44,7 +44,47 @@ Figura 1- Fluxo Geral de telas do projeto.
 
 ![Captura de tela 2023-09-24 202244](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t6-catalogocinematograficodigital/assets/145228888/9e36b57f-b173-4286-8b40-cc572ccb3517)
 
-Figura 2 - 
+![Figura 1](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t6-catalogocinematograficodigital/assets/145228888/d169e101-1963-44b3-bc37-e80a3e7475ff)
+Figura 2 - Tela Home
+
+![Figura 3](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t6-catalogocinematograficodigital/assets/145228888/3051bcad-27f3-4993-a026-cac2d625fb34)
+Figura 3 - Tela Sobre
+
+![Figura 4](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t6-catalogocinematograficodigital/assets/145228888/e2e11ff6-d1a2-468c-9f78-2f6dd53fedf9)
+Figura 4 - Tela Contato
+
+![Figura 5](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t6-catalogocinematograficodigital/assets/145228888/92a8a600-6ea2-4917-b8fc-18d8c6634afd)
+Figura 5 - Tela Privacidade
+
+![Figura 6](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t6-catalogocinematograficodigital/assets/145228888/b1aae9a6-872f-4c73-80f4-d04bfa2b5caa)
+Figura 6 - Tela de Login
+
+![Figura 7](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t6-catalogocinematograficodigital/assets/145228888/ea7af7d6-5b5e-4c9c-a347-00047fb925d5)
+Figura 7 - Tela de Recuperação de Senha
+
+![Figura 8](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t6-catalogocinematograficodigital/assets/145228888/80f0aed6-6d96-4024-bef2-729d4c271252)
+Figura 8 - Tela de Cadastro de Usuário
+
+![Figura 9](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t6-catalogocinematograficodigital/assets/145228888/1b6610aa-d918-4797-8766-806754025e8d)
+Figura 9 - Tela de Usuário
+
+![Figura 10](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t6-catalogocinematograficodigital/assets/145228888/d9600842-ef9c-4992-832c-575049ee8b34)
+Figura 10 - Tela Lista para Asistir Filme/Série
+
+![Figura 11](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t6-catalogocinematograficodigital/assets/145228888/cf94dd16-da35-46e6-9ba3-8bbea9c0c837)
+Figura 11 - Tela Lista Já Assistidos
+
+![Figura 12](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t6-catalogocinematograficodigital/assets/145228888/25b571de-7893-4638-9e9b-c10a3f46e7a9)
+Figura 12 - Tela Resultados Barra de Busca
+
+![Figura 13](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t6-catalogocinematograficodigital/assets/145228888/95304d77-b6e2-4910-b5cb-827b2fac652d)
+Figura 13 - Tela Página do Filme/Série
+
+![Figura 14](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t6-catalogocinematograficodigital/assets/145228888/c01d22e8-b4df-42d7-a87f-f2a3d0519033)
+Figura 14 - Tela Aviso - Usuário Não Identificado
+
+![Figura 15](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t6-catalogocinematograficodigital/assets/145228888/c7cab142-adf4-41f1-a34a-aabbf27018ed)
+Figura 15 - Tela Página Lista Pública do Usuário
 
 
 ### Protótipo de baixa fidelidade
