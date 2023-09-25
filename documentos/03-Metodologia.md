@@ -166,6 +166,7 @@ Figura 4 - Ata de reunião de equipe e distribuição de tarefas
 
 Figura 5 - Kanban da Etapa 2
 
+![8-Kanban-etapa 2-atividades executadas](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t6-catalogocinematograficodigital/assets/145228139/c1305182-7c8a-4403-8f3c-51b6c432575a)
 
 Figura 6- Kanban da Etapa 2 - Atividades Executadas
 
