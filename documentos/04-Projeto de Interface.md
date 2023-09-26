@@ -10,7 +10,8 @@ Nela, pode-se visualizar os caminhos e as possíveis ações que o usuário pode
 
 Figura 1- Fluxo de Usuário geral do projeto.
 
-![2-Telas de Login e Recuperação](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t6-catalogocinematograficodigital/assets/145228139/67d1297c-67b0-4947-bb97-dec1609b9f1c)
+
+![2-Telas de Login e Recuperação](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t6-catalogocinematograficodigital/assets/145228139/51a965e4-5078-4090-8ffe-9c5af8f8330d)
 
 Figura 2 - Telas de Login e Recuperação de Senha
 
