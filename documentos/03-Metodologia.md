@@ -1,7 +1,7 @@
 
 # Metodologia
 
-       A metodologia utilizada neste projeto é baseada no SCRUM, que é uma abordagem ágil de desenvolvimento e tem como objetivo otimizar a especificação e execução de projetos. Através dessa metodologia, procura-se organizar melhor as equipes de trabalho e fragmentar as tarefas, distribuindo-as, procurando prover mais eficiência no desenvolvimento.
+A metodologia utilizada neste projeto é baseada no SCRUM, que é uma abordagem ágil de desenvolvimento e tem como objetivo otimizar a especificação e execução de projetos. Através dessa metodologia, procura-se organizar melhor as equipes de trabalho e fragmentar as tarefas, distribuindo-as, procurando prover mais eficiência no desenvolvimento.
 
 
 O Scrum é baseado em uma metodologia de entrega do produto de forma parcial, ou seja, em etapas curtas e regulares, chamadas de sprints. Nesse sentido, com o Scrum, procuramos fazer com que todos trabalhem de forma colaborativa e contribuam com suas ideias e habilidades. Além disso, por meio dessa metodologia, procura-se fazer com que o problema em foco possa ser resolvido com mais facilidade, otimizando cada etapa de desenvolvimento e execução.
