@@ -61,7 +61,7 @@ Esse processo de desenvolvimento foi sempre auxiliado pela utilização de diver
 
        Apresentação do Projeto.
 
-- **Etapa 2(Sprint 2)**:
+- **Etapa 2 (Sprint 2)**:
   
        Documentação de Contexto
 
