@@ -184,7 +184,7 @@ Os artefatos do projeto são desenvolvidos a partir de diversas plataformas e a 
 | Documentos do projeto               | GitHub                             | https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t6-catalogocinematograficodigital/tree/main/documentos                         |
 | Projeto de Interface                | Figma                              | https://www.figma.com/files/team/1283863081767237418/PUC-Turma-6--Equipe-4?fuid=1283933081543955774                            |
 | Gerenciamento do Projeto            | GitHub                             | https://github.com/orgs/ICEI-PUC-Minas-PMV-ADS/teams/catalogocinematograficodigital                           |
-| Hospedagem                          | GitHub Pages                       | http://....                            |
+| Hospedagem                          | GitHub Pages                       | https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2023-2-e1-proj-web-t6-catalogocinematograficodigital/blob/codigo-fonte/                        |
 | Backlog                             | Kanban                             | https://github.com/orgs/ICEI-PUC-Minas-PMV-ADS/projects/665/views/1                         |
 | Encontros síncronos com Orientador  | Microsoft Teams                    | https://teams.microsoft.com/_#/conversations/Geral?threadId=19:YXPKB2GIujl03wbYTb9oH-LrS4W-Wam0P7zRML9oj4E1@thread.tacv2&messageId=1695415038918&replyChainId=1695415038918&ctx=channel                            |
 | Reuniões da equipe                  | GoogleMeet                         | https://meet.google.com/yir-tpvk-npn             |
