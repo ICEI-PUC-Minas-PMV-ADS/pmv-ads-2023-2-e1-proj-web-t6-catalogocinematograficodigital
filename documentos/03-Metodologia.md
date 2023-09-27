@@ -78,12 +78,10 @@ Esse processo de desenvolvimento foi sempre auxiliado pela utilização de diver
 
 *1.1 Planejamento:*
 
-Nessa etapa, após a formação da equipe, foram planejadas reuniões do grupo, através das ferramentas Google Meet e no grupo do WhatsApp, para definições das ferramentas a serem utilizadas no desenvolvimento do projeto.
-Foram planejadas, também, as definições do problema a ser abordado, com os objetivos do projeto, o público-alvo que se pretende alcançar e seus perfis, bem como proposta dos Requisitos funcionais e não-funcionais a serem atendidos, no desenvolvimento da aplicação.
+Nessa etapa, foram planejados o foco do problema a ser abordado, com os seus objetivos, o público-alvo que se pretende alcançar e seus perfis, bem como proposta dos Requisitos funcionais e não-funcionais a serem atendidos, no desenvolvimento da aplicação. 
+Após a formação da equipe, foram planejadas reuniões do grupo, através das ferramentas Google Meet e no grupo do WhatsApp, para definições das ferramentas a serem utilizadas no desenvolvimento do projeto.
 
-Foi escrito e entregue a documentação referente a essa etapa, que consistiu:
-- Documentação do Contexto: foram descritos o foco do problema, definidos os objetivos do projeto, com justificativa de desenvolvimento, as aplicações relacionadas e público alvo.
-- Especificação do projeto: foram especificados os perfis dos usuários, as histórias dos usuários, os requisitos funcionais e não-funcionais da aplicação.
+Foi escrito e entregue a documentação referente a essa etapa, que consistiu: Documentação do Contexto e a Especificação do projeto.
 
 
 *1.2 Execução:*
@@ -127,24 +125,20 @@ Figura 5 – Kanban da Etapa 1
 
 *2.1 Planejamento:*
 
-Nessa etapa, foram discutidas e definidas a metodologia e as ferramentas a serem utilizadas no decorrer do projeto. 
-O professor, em encontro com as equipes de projetos, orientou a utilização da metodologia ágil e colaborativa, SCRUM, a ser utilizada ao longo do projeto.
-
-Posteriormente, a equipe, em reunião e comum acordo, definiu as funções de cada um de seus componentes, dentro da metodologia definida.
-A equipe reuniu-se, semanalmente, para distribuição de tarefas, e foram definidas a utilização das seguintes ferramentas para construção documental, dos wireframes e protótipos da aplicação, nessa fase de desenvolvimento: GitHub, como repositório da documentação e especificação, Whimscal e Figma, para os wireframes e construção dos protótipos da aplicação.
-
-Podem-se destacar algumas dificuldades iniciais no uso das ferramentas, que se constituíram novidades para a equipe como um todo. Passados os entraves de aprendizado, a construção do design do aplicativo fluiu como esperado, sendo a ferramenta Figma uma boa surpresa para a construção dos protótipos, bem como do User Flow do aplicativo.
+Nessa etapa, estavam planejadas a descrição da metodologia, com as definições dos papeis atribuídos a cada membro da equipe (segundo a metodologia SCRUM) a ser desenvolvida no projeto,  as ferramentas utilizadas durante essas etapas e o desenho do Fluxo dos Usuário e os protótipos das interfaces a serem construídas.
 
 
 *2.2 Execução:*
 
-Após a escolha da metodologia SCRUM como abordagem a ser implementada, cada membro da equipe teve sua função especificada.
-A equipe fez reuniões semanais e decidiu pelo aprendizado e uso do Whimscal e Figma, para serem utilizados no design do aplicativo.
-Essas ferramentas constituíram-se novidades para toda equipe, portanto houve uma dificuldade inicial em seu aprendizado e utilização inicial. Houve uma colaboração excelente entre os membros, principalmente no compartilhamento dos cadastros das ferramentas utilizadas, facilitando a construção dos designs.
-Por fim, o Figma foi o software mais facilmente utilizado, pois possibilitou, inclusive, a visualização simulada dos fluxos do aplicativo a ser desenvolvido, possibilitando a construção do User Flow com mais facilidade.
+A metodologia SCRUM foi escolhida como abordagem a ser implementada, com cada membro da equipe tendo uma função específica atribuída. 
 
+A equipe realizou reuniões semanais e decidiu pelo aprendizado e utilização das ferramentas Whimscal e Figma, utilizados no design do Fluxo de Usuário e protótipos das telas do aplicativo, levando em consideração os requisitos funcionais e não funcionais. Essas ferramentas constituíram-se novidades para toda equipe, portanto houve um esforço inicial em seu aprendizado e utilização. Verificou-se uma colaboração excelente entre os membros, principalmente no compartilhamento dos cadastros das ferramentas utilizadas, facilitando a construção dos designs.
 
-A metodologia SCRUM foi escolhida e implementada, com cada membro da equipe tendo uma função específica. Além disso, o método Kanban foi adotado para distribuir as tarefas. O User flow foi construído coletivamente na plataforma Miro levando em consideração os requisitos funcionais e não funcionais, e Renan, responsável pelas definições de design, esquematizou os wireframes da página de login e da página principal no Figma utilizando o User flow como base.
+Os desenhos dos Fluxos dos usuários foram feitos por Enzo, Fábio, majoritariamente, e Caio, com correções de Márcia. As telas do protótipo foram construídas por Fábio, Enzo e corrigidas por Caio e Márcia. Os textos construídos no Github foram realizados por Márcia, com correções de toda equipe, onde as imagens dos Fluxos de Usuário e protótipos, e listagem das ferramentas utilizadas foi realizada por Caio. As legendas de cada imagem de protótipo foram feitas por Enzo. 
+A revisão geral de todo material foi realizada por todos os membros da equipe.
+
+Além disso, o método Kanban foi adotado para formalizar o cadastro de distribuição das tarefas, registrando as tarefas a serem feitas, em etapas futuras, e as já realizadas até o momento.
+
 
 
 *2.3 Evidências:*
