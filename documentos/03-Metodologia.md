@@ -89,6 +89,7 @@ Foi escrito e entregue a documentação referente a essa etapa, que consistiu:
 
 Durante essa etapa, foram realizados encontros com o professor, através do Teams, que orientou a respeito dos encaminhamentos, utilização dos recursos nessa fase e como descrever a documentação, bem como suas correções e sugestões de melhoria. 
 As reuniões da equipe foram realizadas em até duas vezes por semana, pelo Meet de forma síncrona, uma vez que trata-se de uma etapa de muitas definições para os futuros encaminhamentos do projeto. Esses encontros sempre resultaram nas distribuições de atividades com os componentes, para os ajustes e composição final dos documentos.
+
 As dificuldades iniciais enfrentadas foram observadas com a nova forma de comunicação da própria Instituição em seu formato EAD, como, por exemplo o Canvas. A utilização foi, aos poucos e com o uso, sendo compreendida. Outro ponto que podemos destacar foi a definição e fechamento dos perfis dos usuários da aplicação a ser desenvolvida, que necessitou de uma abrangência maior, para alcançar os objetivos pretendidos, e foram escolhidos baseados nas características dos usuários frequentes de aplicações nessa área. Houve uma revisão geral na documentação elaborada e a equipe concluiu as demais definições do projeto, como objetivos e os requisitos.
 
 
