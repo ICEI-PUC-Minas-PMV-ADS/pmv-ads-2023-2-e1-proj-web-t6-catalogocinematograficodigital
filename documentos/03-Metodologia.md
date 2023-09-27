@@ -78,7 +78,8 @@ Esse processo de desenvolvimento foi sempre auxiliado pela utilização de diver
 
 *1.1 Planejamento:*
 
-Nessa etapa, após a formação da equipe, foram realizados alguns encontros e debates, através das ferramentas Google Meet e no grupo do WhatsApp, para decisão do aplicativo a ser desenvolvido. O projeto foi originado a partir das escolhas, entre diversas ideias, onde as vivências dos componentes da equipe que acordou que, o problema escolhido – Página Web para consulta e registro de filmes e séries – poderia ajudar aos usuários em suas necessidades de registro, consulta e compartilhamento de preferências de filmes e séries com outros interessados. Ademais, também tivemos outros encontros pelo Meet e conversas no grupo de WhatsApp, para alinhamento e definição das funcionalidades da aplicação.
+Nessa etapa, após a formação da equipe, foram planejadas reuniões do grupo, através das ferramentas Google Meet e no grupo do WhatsApp, para definições das ferramentas a serem utilizadas no desenvolvimento do projeto.
+Foram planejadas, também, as definições do problema a ser abordado, com os objetivos do projeto, o público-alvo que se pretende alcançar e seus perfis, bem como proposta dos Requisitos funcionais e não-funcionais a serem atendidos, no desenvolvimento da aplicação.
 
 Foi escrito e entregue a documentação referente a essa etapa, que consistiu:
 - Documentação do Contexto: foram descritos o foco do problema, definidos os objetivos do projeto, com justificativa de desenvolvimento, as aplicações relacionadas e público alvo.
@@ -88,9 +89,12 @@ Foi escrito e entregue a documentação referente a essa etapa, que consistiu:
 *1.2 Execução:*
 
 Durante essa etapa, foram realizados encontros com o professor, através do Teams, que orientou a respeito dos encaminhamentos, utilização dos recursos nessa fase e como descrever a documentação, bem como suas correções e sugestões de melhoria. 
-As reuniões da equipe foram realizadas em até duas vezes por semana, pelo Meet de forma síncrona, uma vez que trata-se de uma etapa de muitas definições para os futuros encaminhamentos do projeto. Esses encontros sempre resultaram nas distribuições de atividades com os componentes, para os ajustes e composição final dos documentos.
+As reuniões da equipe foram realizadas em até duas vezes por semana, pelo Meet de forma síncrona, uma vez que se trata de uma etapa de muitas definições para os futuros encaminhamentos do projeto. Esses encontros sempre resultaram nas distribuições de atividades com os componentes, para os ajustes e composição final dos documentos.
 
-As dificuldades iniciais enfrentadas foram observadas com a nova forma de comunicação da própria Instituição em seu formato EAD, como, por exemplo o Canvas. A utilização foi, aos poucos e com o uso, sendo compreendida. Outro ponto que podemos destacar foi a definição e fechamento dos perfis dos usuários da aplicação a ser desenvolvida, que necessitou de uma abrangência maior, para alcançar os objetivos pretendidos, e foram escolhidos baseados nas características dos usuários frequentes de aplicações nessa área. Houve uma revisão geral na documentação elaborada e a equipe concluiu as demais definições do projeto, como objetivos e os requisitos.
+As tarefas definidas foram distribuídas com os componentes da equipe, ficando assim dispostas: a Introdução foi feita por Márcia Miranda, a definição do Problema ficou com Enzo, a descrição dos objetivos foi Fábio, a Justificativa com Márcia, as Aplicações semelhantes com Rodrigo, a descrição do Público-Alvo e Perfil dos Usuários com Caio, e a apresentação do projeto até essa etapa foi feita pelo  André.
+
+Podemos destacar que houve um certo trabalho na definição e fechamento dos perfis dos usuários da aplicação a ser desenvolvida, que necessitou de uma abrangência maior, para alcançar os objetivos pretendidos, e foram escolhidos baseados nas características dos usuários frequentes de aplicações nessa área. Houve uma revisão geral na documentação elaborada e a equipe concluiu as demais definições do projeto, como objetivos e os requisitos.
+
 
 
 *1.3 Evidências:*
