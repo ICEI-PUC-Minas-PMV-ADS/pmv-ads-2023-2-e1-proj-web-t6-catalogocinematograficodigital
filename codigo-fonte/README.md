@@ -12,7 +12,18 @@ Nesse primeiro eixo do curso, para simplificar a utilização do Git e a organiz
 O site em HTML/CSS/JS é um projeto estático. É necessário implantá-lo em um servidor web de sua preferência. Existem diversos servidores web gratuitos que podem ser utilizados, tal como GitHub Pages (GitHub.IO), Vercel, Render, Netlify, Surge.sh, entre outros. Nesse primeiro eixo, recomenda-se inclusive a utilização do GitHub Pages. [Insira o endereço eletrônico público para acessá-lo.] 
 
 ## Histórico de versões
+### [v1] - 03/10/2023 até 05/10/2023 - Tentativa de criação de um possivel modelo - Descontinuado
+#### [v2] - 06/10/2023 - Inicio da criação do novo layout que será utilizado.
+##### Adicionado/Atualizado/Removido
+**Adicionado:** 
+- comentários para a maioria das "tags" utilizadas para servir de consulta a equipe.
+- definição das margens para cada parte do layout, sendo elas:
+Logo, cabeçalho, Main e rodapé.
+- criação dos menus do cabeçalho e rodapé.
+- criação do menu oculto "icone de hamburguer".
 
-### [0.1.0] - DD/MM/AAAA
-#### Adicionado/Atualizado/Removido
-- Relação de artefatos ...
+**Atualização** 06/10/2023
+consegui trabalhar com um botão oculto de menu para dispositivos móveis deixando a página responsiva. Agora ela adapta de acordo com a dimensão da tela do usuário. Quando menor que 717px a tela exibe o menu de 3 traços (Curiosidade: O menu de três traços é comumente chamado de "ícone de hambúrguer". Esse termo é utilizado porque os três traços horizontais se assemelham a camadas de um hambúrguer empilhadas verticalmente, dando origem ao nome.)
+**Atualização** 07/10/2023
+Quando a tela esta pequena o menu do cabeçalho (na vertical) junta com o menu do rodapé (horizontal) agrupando assim todos os comandos do site.
+
