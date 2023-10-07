@@ -73,3 +73,34 @@ closeMenu.addEventListener('click', () => {
 		openMenu.removeAttribute('style')
 	}, 200);
 })
+
+/* Config dos botões*/
+function createButtons() {
+	// Cria um contêiner para os botões e alinha à direita
+	var buttonContainer = document.createElement('div');
+	buttonContainer.style.textAlign = 'right';
+  
+	// Adiciona a classe "button-container" ao contêiner
+	buttonContainer.classList.add('button-container-body');
+  
+	// Cria o primeiro botão
+	var btn1 = document.createElement('button');
+	var lbl1 = document.createTextNode("LOGIN");
+	btn1.appendChild(lbl1);
+	btn1.onclick = function() {
+		window.location.href = "login.html";
+	}
+	buttonContainer.appendChild(btn1);
+  
+	// Cria o segundo botão
+	var btn2 = document.createElement('button');
+	var lbl2 = document.createTextNode("CADASTRE-SE");
+	btn2.appendChild(lbl2);
+	btn2.onclick = function() {
+		window.location.href = "cadastro.html";
+	}
+	buttonContainer.appendChild(btn2);
+  }
+  
+  createButtons();
+  
