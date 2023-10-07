@@ -153,11 +153,14 @@ main {
 
 /* Estilo do corpo da página index */
 #content-body {
-	display: flex;
+	max-width: 70%;
+	margin: 0 auto;
+	padding: 20px;
 	flex-direction: column;
-	align-items: center;
-	text-align: center;
-	padding: 20px; /* Adicione margens internas de 20px */
+	display: flex;
+	justify-content: center; /* Centralize verticalmente */
+	align-items: 30px center; /* Centralize horizontalmente */
+
   }
 
 /*Espaçamento entre as frases do body*/
@@ -165,15 +168,21 @@ main {
 	text-align: center;
 	white-space: pre-line;
 	font-weight: bold;
-	font-size: 30px;
+	font-size: 25px;
 	display: flex;
 	justify-content: center;
 	align-items: flex-start;
   }
 
+  .button-container-body {
+	text-align: center;
+  }
+
   .button-container-body button {
 	display: block;
 	margin: 10px auto;
+	padding: 10px 20px;
+	font-size: 14px;
   }
 }
 
@@ -226,7 +235,7 @@ a {
 
 /* Altera o estilo dos elementos para serem apresentados */ 
 /* em telas menores que 717px. */
-@media only screen and (max-width: 717px) {
+@media only screen and (max-width: 600px) {
 	#openMenu, #closeMenu {
 		/* Retorna a visibilidade padrão. */
 		display: block;
@@ -294,5 +303,14 @@ a {
 		/* da altura dos elementos ( 300px ) com as suas margens ( 30px ). */
 		height: calc(100vh - 330px);
 	}
+
+	#content-body {
+		padding: 10px; /* Reduza o espaçamento interno para economizar espaço */
+	  }
+
+	/* Estilos adicionais para botões ou outros elementos quando a tela é menor */
+	.button-container-body button {
+		font-size: 14px;
+	  }
 
 }
