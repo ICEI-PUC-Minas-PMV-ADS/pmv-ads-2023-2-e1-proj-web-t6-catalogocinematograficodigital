@@ -150,7 +150,33 @@ main {
 	/* flex-shrink - Capacidade de redução do item.    */
 	/* flex-basis – Tamanho inicial do item.           */
 	flex: 20 1 500px;
+
+/* Estilo do corpo da página index */
+#content-body {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	text-align: center;
+	padding: 20px; /* Adicione margens internas de 20px */
+  }
+
+/*Espaçamento entre as frases do body*/
+#txtbody {
+	text-align: center;
+	white-space: pre-line;
+	font-weight: bold;
+	font-size: 30px;
+	display: flex;
+	justify-content: center;
+	align-items: flex-start;
+  }
+
+  .button-container-body button {
+	display: block;
+	margin: 10px auto;
+  }
 }
+
 
 footer {
 	/* Altura do elemento. */
