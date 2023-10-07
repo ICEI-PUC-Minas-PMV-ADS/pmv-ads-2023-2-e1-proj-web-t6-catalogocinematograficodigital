@@ -1,0 +1,1 @@
+Imagens são arquivos. Então, estamos gerando só para criar a pasta
