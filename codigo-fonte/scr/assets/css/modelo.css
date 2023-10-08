@@ -10,45 +10,43 @@
 
 	/* Inclui o preenchimento e a borda na largura e altura. */
 	box-sizing: border-box;
-
 }
 
 body {
-	/* Exibição flexível.                          */
-	/* Torna o elemento um flex container          */
-	/* e os seus elementos internos em flex-itens. */
+	/* Exibição flexível. */
+	/* Torna o elemento um flex container */
+	/* e seus elementos internos em flex-itens. */
 	display: flex;
 
 	/* Quebra de linha quando os itens não couberem na largura da tela. */
 	flex-wrap: wrap;
 
-	/* Junção de flex-grow, flex-shrink e flex-basis.  */
+	/* Junção de flex-grow, flex-shrink e flex-basis. */
 	/* flex-grow – Habilidade de um flex item crescer. */
-	/* flex-shrink - Capacidade de redução do item.    */
-	/* flex-basis – Tamanho inicial do item.           */
+	/* flex-shrink - Capacidade de redução do item. */
+	/* flex-basis – Tamanho inicial do item. */
 	flex: 1 1 100vw;
 
 	/* Margem de todos os lados. */
 	margin: 0px;
 
-	/*Imagem de fundo*/
+	/* Imagem de fundo */
 	background-image: url("../img/home.jpg");
-	/*Não repetir a imagem de fundo*/
+	/* Não repetir a imagem de fundo */
 	background-repeat: no-repeat;
-	/*Cover: adapta a imagem para acompanhar a responsividade da imagem de fundo*/
+	/* Cover: adapta a imagem para acompanhar a responsividade da imagem de fundo */
 	background-size: cover;
-	/*Centraliza o meio da imagem com backgraund*/
+	/* Centraliza o meio da imagem com background */
 	background-position: center;
 	/* Faz com que o background permaneça fixo enquanto a página é rolada */
 	background-attachment: fixed;
-
 }
 
 /* Formatação comum entre os elementos. */
 header, nav, main, footer {
-	/* Exibição flexível.                          */
-	/* Torna o elemento um flex container          */
-	/* e os seus elementos internos em flex-itens. */
+	/* Exibição flexível. */
+	/* Torna o elemento um flex container */
+	/* e seus elementos internos em flex-itens. */
 	display: flex;
 
 	/* Margem externa de todos os lados. */
@@ -61,23 +59,23 @@ header {
 	/* Altura do elemento. */
 	height: 100px;
 
-	/* Junção de flex-grow, flex-shrink e flex-basis.  */
+	/* Junção de flex-grow, flex-shrink e flex-basis. */
 	/* flex-grow – Habilidade de um flex item crescer. */
-	/* flex-shrink - Capacidade de redução do item.    */
-	/* flex-basis – Tamanho inicial do item.           */
+	/* flex-shrink - Capacidade de redução do item. */
+	/* flex-basis – Tamanho inicial do item. */
 	flex: 1 1 100vw;
 }
 
 header #CCD {
-	/* Exibição flexível.                          */
-	/* Torna o elemento um flex container          */
-	/* e os seus elementos internos em flex-itens. */
+	/* Exibição flexível. */
+	/* Torna o elemento um flex container */
+	/* e seus elementos internos em flex-itens. */
 	display: flex;
 
-	/* Junção de flex-grow, flex-shrink e flex-basis.  */
+	/* Junção de flex-grow, flex-shrink e flex-basis. */
 	/* flex-grow – Habilidade de um flex item crescer. */
-	/* flex-shrink - Capacidade de redução do item.    */
-	/* flex-basis – Tamanho inicial do item.           */
+	/* flex-shrink - Capacidade de redução do item. */
+	/* flex-basis – Tamanho inicial do item. */
 	flex: 0 1 200px;
 
 	/* Alinha os itens na vertical. */
@@ -85,13 +83,13 @@ header #CCD {
 
 	/* Alinha os itens na horizontal. */
 	align-items: center;
+}
 
-	/*Ajuste da logo*/
+/* Ajuste da logo */
 #logo img {
 	width: 100px; /* Defina o tamanho desejado */
 	height: auto; /* Para manter a proporção original */
 	margin: 10px; /* Adicione margens conforme necessário */
-	}
 }
 
 #openMenu, #closeMenu {
@@ -107,11 +105,10 @@ header #CCD {
 	/* Espessura da forte. */
 	font-weight: bold;
 
-	/* Margem ao redor do elemento              */
-	/* (superior, direito, inferior e esquerdo) */
+	/* Margem ao redor do elemento (superior, direito, inferior e esquerdo) */
 	padding: 0px 5px 0px 5px;
 
-	/* Muda o cursor do mouse para ponteiro.*/
+	/* Muda o cursor do mouse para ponteiro. */
 	cursor: pointer;
 
 	/* Oculta o elemento. */
@@ -125,10 +122,10 @@ nav {
 	/* Alinha os itens na horizontal. */
 	align-items: center;
 
-	/* Junção de flex-grow, flex-shrink e flex-basis.  */
+	/* Junção de flex-grow, flex-shrink e flex-basis. */
 	/* flex-grow – Habilidade de um flex item crescer. */
-	/* flex-shrink - Capacidade de redução do item.    */
-	/* flex-basis – Tamanho inicial do item.           */
+	/* flex-shrink - Capacidade de redução do item. */
+	/* flex-basis – Tamanho inicial do item. */
 	flex: 1 1 200px;
 }
 
@@ -141,14 +138,14 @@ nav a {
 }
 
 main {
-	/* Realizar a subtração de 100% da altura vertical menos a soma    */
-	/* da altura dos elementos ( 400px ) com as suas margens ( 36px ). */
+	/* Realiza a subtração de 100% da altura vertical menos a soma */
+	/* da altura dos elementos (400px) com as suas margens (36px). */
 	height: calc(100vh - 224px);
 
-	/* Junção de flex-grow, flex-shrink e flex-basis.  */
+	/* Junção de flex-grow, flex-shrink e flex-basis. */
 	/* flex-grow – Habilidade de um flex item crescer. */
-	/* flex-shrink - Capacidade de redução do item.    */
-	/* flex-basis – Tamanho inicial do item.           */
+	/* flex-shrink - Capacidade de redução do item. */
+	/* flex-basis – Tamanho inicial do item. */
 	flex: 20 1 500px;
 }
 
@@ -156,16 +153,16 @@ footer {
 	/* Altura do elemento. */
 	height: 95px; /* Garanta que o footer ocupe toda a altura da janela */
 
-	/* Junção de flex-grow, flex-shrink e flex-basis.  */
+	/* Junção de flex-grow, flex-shrink e flex-basis. */
 	/* flex-grow – Habilidade de um flex item crescer. */
-	/* flex-shrink - Capacidade de redução do item.    */
-	/* flex-basis – Tamanho inicial do item.           */
+	/* flex-shrink - Capacidade de redução do item. */
+	/* flex-basis – Tamanho inicial do item. */
 	flex: 1 1 100vw;
 
-    justify-content: center;
-    align-items: center;
+	justify-content: center;
+	align-items: center;
 	flex: 1 1 100vw;
-	}
+}
 
 /* Estilize o elemento de menu do footer como vertical */
 #footerMenu {
@@ -180,8 +177,6 @@ footer {
 #footerMenu li {
     margin: 50px 10px; /* Adicione margens para separar os links */
 	font-size: 20px;
-
-
 }
 
 /* Estilize os links no menu do footer */
@@ -207,8 +202,8 @@ a {
 	}
 
 	#openMenu {
-		/* Espaço a esquerda será preenchido automaticamente
-		   colocando os itens a direita. */
+		/* Espaço à esquerda será preenchido automaticamente */
+		/* colocando os itens à direita. */
 		margin-left: auto;
 	}
 
@@ -251,7 +246,7 @@ a {
 		/* Oculta o elemento. */
 		display: none;
 
-		/* Invisivel */
+		/* Invisível */
 		opacity: 0;
 
 		/* Velocidade de transição de um estado para outro. */
@@ -264,9 +259,8 @@ a {
 	}
 
 	main {
-		/* Realizar a subtração de 100% da altura vertical menos a soma    */
-		/* da altura dos elementos ( 300px ) com as suas margens ( 30px ). */
+		/* Realiza a subtração de 100% da altura vertical menos a soma */
+		/* da altura dos elementos (300px) com as suas margens (30px). */
 		height: calc(100vh - 330px);
 	}
-
 }
