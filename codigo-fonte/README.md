@@ -28,3 +28,9 @@ consegui trabalhar com um botão oculto de menu para dispositivos móveis deixan
 **Atualização** 07/10/2023
 Quando a tela esta pequena o menu do cabeçalho (na vertical) junta com o menu do rodapé (horizontal) agrupando assim todos os comandos do site.
 
+**Adicionado** 08/10/2023
+- Criação da página de cadastro fazendo salvar no webstorage.
+- Criação do .css basico para a página de cadastro.
+- Criação do .js para responsividade do menu de cadastro e armazenamento na webstorage
+
+
