@@ -203,22 +203,46 @@ O Requisitos Funcionais de mais alta prioridade foram implementados. Nesse proce
 Os modelos-base das especificações no CSS foram construídos e disponibilizados por Fábio, a partir do qual os demais membros desenvolveram suas tarefas.
 As tarefas, nessa etapa, foram assim distribuídas:
 
-a. Tela Home: Enzo e Márcia
-b. Tela Sobre: Márcia
-c. Tela Contato: Caio
-d. Tela Privacidade: Caio
-e. Tela FAQ: Márcia e Rodrigo
-f. Tela Cadastro de Usuário: Fábio
-g. Tela de Login: Enzo
-h. Tela de Recuperação de Senha: Fábio
-i. GitHub - textos e atualizações: Márcia
-j. Correções e Revisões gerais (Programação e GitHub): Márcia, Fábio, Enzo, Caio e Rodrigo
+a. Tela Home: Enzo e Márcia;
+
+b. Tela Sobre: Márcia;
+
+c. Tela Contato: Caio;
+
+d. Tela Privacidade: Caio;
+
+e. Tela FAQ: Márcia e Rodrigo;
+
+f. Tela Cadastro de Usuário: Fábio;
+
+g. Tela de Login: Enzo;
+
+h. Tela de Recuperação de Senha: Fábio; 
+
+i. GitHub - textos e atualizações: Márcia;
+
+j. Correções e Revisões gerais (Programação e GitHub): Márcia, Fábio, Enzo, Caio e Rodrigo.
+
+
 
 
 *3.3 Evidências:*
 
 Algumas demonstrações das atividades realizadas nessa etapa, estão nas imagens abaixo:
+
+![2-Ata reunião-distribuição de tarefas-OK](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t6-catalogocinematograficodigital/assets/145228139/74388a00-c83a-4790-8fd5-4c03abcce1a4)
+
+Figura 1 - Ata da Reunião da equipe para distribuição de tarefas
+
+![1-Reunião-04-10-4-OK](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t6-catalogocinematograficodigital/assets/145228139/a4bc3d8d-0058-4c71-ae64-9da5b6ac6b70)
+
+Figura 2 - Encontro da equipe para compartilhar tarefas já executadas, dúvidas e avaliação do código.
+
+![3-Tela de programação-VS-Sobre-OK](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t6-catalogocinematograficodigital/assets/145228139/c1900b07-58c6-411a-97ab-ef941a2c0d98)
+
+Figura 3 - Imagem de tela do Visual Studio - programação da tela SOBRE do aplicativo do projeto.
   
+
 ### Ferramentas
 
 Os artefatos do projeto são desenvolvidos a partir de diversas plataformas e a relação dos ambientes com seu respectivo propósito. Abaixo estão as ferramentas empregadas no projeto, bem como os ambientes de trabalho utilizados pela equipe no seu processo de desenvolvimento:
