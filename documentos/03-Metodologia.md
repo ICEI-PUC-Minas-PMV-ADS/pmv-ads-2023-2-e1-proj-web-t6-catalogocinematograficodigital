@@ -73,6 +73,22 @@ Esse processo de desenvolvimento foi sempre auxiliado pela utilização de diver
 
        Referências atualizadas
 
+- **Etapa 3 (Sprint 3)**:
+  
+       Documentação de Contexto
+
+       Especificação do Projeto
+
+       Metodologia
+
+       Projeto de Interface
+  
+       Template da aplicação
+  
+       Programação de Funcionalidades
+
+       Referências atualizadas
+
 
 #### Etapa 1 (Sprint 1):
 
@@ -169,7 +185,39 @@ Figura 5 - Kanban da Etapa 2
 
 Figura 6- Kanban da Etapa 2 - Atividades Executadas
 
+#### Sprint 3:
 
+*3.1 Planejamento:*
+
+Nessa etapa, estavam planejadas os Templates da Aplicação, baseados nos Fluxos de Usuários e Telas da interface, além dos protótipos já planejados anteriormente, a programação das funcionalidades de mais elevada prioridade, em HTML, CSS e Javascript, que são as ferramentas utilizadas e necessárias durante essa etapa. 
+
+
+*3.2 Execução:*
+
+A equipe realizou reuniões semanais, compartilhando o aprendizado nas ferramentas necessárias para essa etapa: HTML, CSS e Javascript. Essas ferramentas são utilizadas para os seguintes objetivos: o HTML é utilizada na programação para estruturar o conteúdo da página web do projeto; o CSS é uma linguagem de estilo usada para controlar a apresentação e o layout do conteúdo HTML; JavaScript é uma linguagem de programação que permite adicionar interatividade e dinamismo às páginas web. 
+
+Essas ferramentas constituíram-se novidades para a naioria dos membros da equipe, tendo sido necessário um grande esforço de aprendizado, para sua efetiva utilização. 
+A equipe trabalhou com grande colaboração entre si, enfatizando que foi construído um modelo base e inicial, pelo integrante Fábio, que permitiu o desenvovimento inicial de algumas páginas da aplicação.
+O Requisitos Funcionais de mais alta prioridade foram implementados. Nesse processo e baseado nos protótipos já planejados na etapa anterior, as atividades foram distribuídas entre os membros da equipe, que facilitou a obtenção do produto final, até essa etapa.
+
+Os modelos-base das especificações no CSS foram construídos e disponibilizados por Fábio, a partir do qual os demais membros desenvolveram suas tarefas.
+As tarefas, nessa etapa, foram assim distribuídas:
+
+a. Tela Home: Enzo e Márcia
+b. Tela Sobre: Márcia
+c. Tela Contato: Caio
+d. Tela Privacidade: Caio
+e. Tela FAQ: Márcia e Rodrigo
+f. Tela Cadastro de Usuário: Fábio
+g. Tela de Login: Enzo
+h. Tela de Recuperação de Senha: Fábio
+i. GitHub - textos e atualizações: Márcia
+j. Correções e Revisões gerais (Programação e GitHub): Márcia, Fábio, Enzo, Caio e Rodrigo
+
+
+*3.3 Evidências:*
+
+Algumas demonstrações das atividades realizadas nessa etapa, estão nas imagens abaixo:
   
 ### Ferramentas
 
@@ -189,7 +237,11 @@ Os artefatos do projeto são desenvolvidos a partir de diversas plataformas e a 
 | Reuniões da equipe                  | GoogleMeet                         | https://meet.google.com/yir-tpvk-npn             |
 | Comunicação da equipe               | WhatsApp                           | web.whatsapp.com                            |
 | Documentação                        | Google Docs                        | https://docs.google.com/document/d/1lkpPL_6YgQeaid9MN030_8_PmYDyrqd1/edit?usp=sharing&ouid=117692585368807082873&rtpof=true&sd=true                       |
-| Protótipo/Fluxo do usuário projeto  | Whimsical                          |  https://whimsical.com/cdu-versao-final-J7Y4yxEUrtedgVnK9AiDs5                           |
+| Protótipo/Fluxo do usuário projeto  | Whimsical                          |  https://whimsical.com/cdu-versao-final-J7Y4yxEUrtedgVnK9AiDs5               |
+| linguagem para estruturar o conteúdo da página web  | HTML                          |  https://...                           |
+|  linguagem de estilo para controlar a apresentação e o layout do conteúdo HTML  | CSS                          |  https://...                           |
+|  linguagem de programação que permite interatividade e dinamismo às páginas web  | JAVASCRIPT                          |  https://...                   |
+
 
 Descrição sucinta das ferramentas utilizadas:
  
