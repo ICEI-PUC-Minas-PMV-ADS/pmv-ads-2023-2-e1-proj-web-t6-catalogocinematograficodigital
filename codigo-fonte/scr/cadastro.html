@@ -1,36 +1,27 @@
 <!-- Indica que o documento é um arquivo HTML. -->
 <!DOCTYPE html>
-
 <!-- Define a linguagem do conteúdo da página. -->
 <html lang="pt-br">
-
 <!-- Armazena informações sobre a página. -->
 <head>
-
 	<!-- Conjunto de caracteres que contém acentuação e ç. -->
 	<meta charset="utf-8">
-
 	<!-- Configuração da janela de visualização (responsividade). -->
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-
 	<!-- Importação do arquivo CSS. -->
 	<link rel="stylesheet" type="text/css" href="assets/css/cadastro.css">
-
 	<!-- Título da aba do navegador -->
-	<title>CCD - Welcome!</title>
+	<title>CCD - Cadastro!</title>
 </head>
 
 <!-- Conteúdo apresentado na tela. -->
 <body>
-
 	<!-- Agrupa os elementos que compõem o cabeçalho. -->
 	<header>
 		<a href="./layout.html" id="logo"></a>
 		<img src="assets/img/logo.png" alt="CCD">
-
 		<!-- botão de 3 traços quando a tela fica menor (ex: Celular), &#9776 é o código para este botão. -->
 		<button id="openMenu" class="top-menu">&#9776;</button>
-
 		<!-- Agrupa links de navegação no site. -->
 		<nav id="menu">
     		<!-- Botão para ocultar a exibição do menu de 3 traços. -->
@@ -49,7 +40,6 @@
         <input type="text" id="nome" required>
         <!-- Div para exibir mensagens de erro relacionadas ao campo Nome -->
         <div id="nomeError" class="error"></div>
-
         <!-- Rótulo e campo de entrada para o Apelido -->
         <label for="apelido">Apelido:</label>
         <input type="text" id="apelido" required>
@@ -61,25 +51,20 @@
         <input type="email" id="email" required>
         <!-- Div para exibir mensagens de erro relacionadas ao campo E-mail -->
         <div id="emailError" class="error"></div>
-
         <!-- Rótulo e campo de entrada para a Senha -->
         <label for="senha">Senha:</label>
         <input type="password" id="senha" required>
         <!-- Div para exibir mensagens de erro relacionadas ao campo Senha -->
         <div id="senhaError" class="error"></div>
-
         <!-- Rótulo e campo de entrada para a Confirmação de Senha -->
         <label for="confirmarSenha">Confirmar Senha:</label>
         <input type="password" id="confirmarSenha" required>
         <!-- Div para exibir mensagens de erro relacionadas ao campo Confirmação de Senha -->
         <div id="confirmarSenhaError" class="error"></div>
-
         <!-- Botão de envio do formulário -->
-        <button type="submit">Cadastrar</button>
+        <button type="submit" id="submitButton">Cadastrar</button>
     </form>
 </main>
-
-
 
 	<!-- Agrupa informações de autoria, direitos autorais, contato, mapa do site, links e documentos relacionados. -->
 	<footer>
