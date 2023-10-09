@@ -25,11 +25,11 @@ Logo, cabeçalho, Main e rodapé.
 
 **Atualização** 06/10/2023
 
-consegui trabalhar com um botão oculto de menu para dispositivos móveis deixando a página responsiva. Agora ela adapta de acordo com a dimensão da tela do usuário. Quando menor que 717px a tela exibe o menu de 3 traços (Curiosidade: O menu de três traços é comumente chamado de "ícone de hambúrguer". Esse termo é utilizado porque os três traços horizontais se assemelham a camadas de um hambúrguer empilhadas verticalmente, dando origem ao nome.)
+- consegui trabalhar com um botão oculto de menu para dispositivos móveis deixando a página responsiva. Agora ela adapta de acordo com a dimensão da tela do usuário. Quando menor que 717px a tela exibe o menu de 3 traços (Curiosidade: O menu de três traços é comumente chamado de "ícone de hambúrguer". Esse termo é utilizado porque os três traços horizontais se assemelham a camadas de um hambúrguer empilhadas verticalmente, dando origem ao nome.)
 
 **Atualização** 07/10/2023
 
-Quando a tela esta pequena o menu do cabeçalho (na vertical) junta com o menu do rodapé (horizontal) agrupando assim todos os comandos do site.
+- Quando a tela esta pequena o menu do cabeçalho (na vertical) junta com o menu do rodapé (horizontal) agrupando assim todos os comandos do site.
 
 **Adicionado** 08/10/2023
 
