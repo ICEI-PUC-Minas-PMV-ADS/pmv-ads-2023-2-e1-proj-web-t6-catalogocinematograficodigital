@@ -16,6 +16,7 @@ O site em HTML/CSS/JS é um projeto estático. É necessário implantá-lo em um
 #### [v2] - 06/10/2023 - Inicio da criação do novo layout que será utilizado.
 ##### Adicionado/Atualizado/Removido
 **Adicionado:** 
+
 - comentários para a maioria das "tags" utilizadas para servir de consulta a equipe.
 - definição das margens para cada parte do layout, sendo elas:
 Logo, cabeçalho, Main e rodapé.
@@ -23,17 +24,25 @@ Logo, cabeçalho, Main e rodapé.
 - criação do menu oculto "icone de hamburguer".
 
 **Atualização** 06/10/2023
+
 consegui trabalhar com um botão oculto de menu para dispositivos móveis deixando a página responsiva. Agora ela adapta de acordo com a dimensão da tela do usuário. Quando menor que 717px a tela exibe o menu de 3 traços (Curiosidade: O menu de três traços é comumente chamado de "ícone de hambúrguer". Esse termo é utilizado porque os três traços horizontais se assemelham a camadas de um hambúrguer empilhadas verticalmente, dando origem ao nome.)
 
 **Atualização** 07/10/2023
+
 Quando a tela esta pequena o menu do cabeçalho (na vertical) junta com o menu do rodapé (horizontal) agrupando assim todos os comandos do site.
 
 **Adicionado** 08/10/2023
+
 - Criação da página de cadastro fazendo salvar no webstorage.
 - Criação do .css basico para a página de cadastro.
 - Criação do .js para responsividade do menu de cadastro e armazenamento na webstorage
 
 **Atualização** 09/10/2023
+
 - Ajuste da responsividade da tela de cadastro para telas abaixo de 717px
+
+**Adicionado** 09/10/2023
+
+- Tela de recuperação de senha
 
 
