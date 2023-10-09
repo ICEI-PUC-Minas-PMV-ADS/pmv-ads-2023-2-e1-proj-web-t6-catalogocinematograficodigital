@@ -274,6 +274,7 @@ Os artefatos do projeto são desenvolvidos a partir de diversas plataformas e a 
 | linguagem para estruturar o conteúdo da página web  | HTML                          |  https://...                           |
 |  linguagem de estilo para controlar a apresentação e o layout do conteúdo HTML  | CSS                          |  https://...                           |
 |  linguagem de programação que permite interatividade e dinamismo às páginas web  | JAVASCRIPT                          |  https://...                   |
+|  linguagem de programação que permite interatividade e dinamismo às páginas web  | Visual Studio                       |  https://code.visualstudio.com   |
 
 
 Descrição sucinta das ferramentas utilizadas:
@@ -293,6 +294,14 @@ Descrição sucinta das ferramentas utilizadas:
 - Kanban: é uma ferramenta da web, utilizada para registro do backlog dos requisitos do projeto, e também dos avanços dos procedimentos que atendem aos requisitos, sendo um recurso útil para o registro dos sprints e das etapas do método Scrum.
 
 - Google Docs: é um processador de texto on-line do Google, que permite criar, editar, formatar e visualizar documentos, além de permitir colaborar com outras pessoas.
+
+- HTML: Sigla para HyperText Markup Language — Linguagem de Marcação de Hipertexto - é uma linguagem de marcação usada para estruturar o conteúdo da página web. Define os elementos e a hierarquia da página, como títulos, parágrafos, listas, imagens, links e muito mais.
+
+- CSS: é uma linguagem de estilo usada para controlar a apresentação e o layout do conteúdo HTML. Ele permite definir cores, fontes, margens, posições e outros estilos visuais.
+
+- JavaScritpt: é uma linguagem de programação de alto nível que permite adicionar interatividade e dinamismo às páginas web. Ele é executado no navegador do usuário e pode responder a eventos, manipular o DOM (Document Object Model) e fazer solicitações à web.
+
+- Visual Studio: é um editor de código-fonte desenvolvido pela Microsoft para Windows, Linux e macOS. Ele inclui suporte para depuração, controle de versionamento Git incorporado, realce de sintaxe, complementação inteligente de código, snippets e refatoração de código. 
 
 
 ### Estratégia de Organização de Codificação 
