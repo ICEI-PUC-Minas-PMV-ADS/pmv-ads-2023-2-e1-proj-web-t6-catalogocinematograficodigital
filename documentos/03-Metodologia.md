@@ -221,7 +221,7 @@ h. Tela de Recuperação de Senha: Fábio;
 
 i. GitHub - textos e atualizações: Márcia;
 
-j. Correções e Revisões gerais (Programação e GitHub): Márcia, Fábio, Enzo, Caio e Rodrigo.
+j. Correções e Revisões gerais (Programação e GitHub): Márcia, Fábio, Enzo, Caio, André e Rodrigo.
 
 
 
