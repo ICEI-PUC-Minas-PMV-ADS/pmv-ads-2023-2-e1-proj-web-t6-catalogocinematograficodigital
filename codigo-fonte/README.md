@@ -33,4 +33,7 @@ Quando a tela esta pequena o menu do cabeçalho (na vertical) junta com o menu d
 - Criação do .css basico para a página de cadastro.
 - Criação do .js para responsividade do menu de cadastro e armazenamento na webstorage
 
+**Atualização** 09/10/2023
+- Ajuste da responsividade da tela de cadastro para telas abaixo de 717px
+
 
