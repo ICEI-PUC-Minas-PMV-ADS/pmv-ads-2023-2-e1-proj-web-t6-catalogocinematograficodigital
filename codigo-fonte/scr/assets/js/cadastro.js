@@ -1,83 +1,51 @@
-// Evento que aguarda o carregamento do DOM antes de executar as ações.
-document.addEventListener("DOMContentLoaded", function () {
-    // Captura os elementos do botão de abrir menu, fechar menu, menu e menu do footer.
-    const openMenuButton = document.getElementById("openMenu");
-    const closeMenuButton = document.getElementById("closeMenu");
-    const menu = document.getElementById("menu");
-    const footerMenu = document.getElementById("footerMenu"); // Elemento de menu do footer
-
-    // Adiciona um ouvinte de evento para o botão de abrir o menu.
-    openMenuButton.addEventListener("click", function () {
-        // Exibe o menu e move-o para a posição certa.
-        menu.style.display = "flex";
-        menu.style.right = "0";
-        openMenuButton.style.display = "none";
-        closeMenuButton.style.display = "block";
-
-        // Move o elemento de menu do footer para dentro do menu principal.
-        menu.appendChild(footerMenu);
-    });
-
-    // Adiciona um ouvinte de evento para o botão de fechar o menu.
-    closeMenuButton.addEventListener("click", function () {
-        // Fecha o menu movendo-o para a esquerda e oculta-o.
-        menu.style.right = "-100%";
-        menu.style.display = "none";
-        openMenuButton.style.display = "block";
-        closeMenuButton.style.display = "none";
-
-        // Move o elemento de menu do footer de volta para o footer.
-        document.querySelector("footer").appendChild(footerMenu);
-    });
-});
-
 /* Ação de eventos sobre o botão menu da tag nav (mobile). */
 /* Parâmetros: Nome do evento, função. */
 openMenu.addEventListener('click', () => {
-    /* Sobrepõe a propriedade display: none aplicada no
-       CSS por display: flex que o torna visível. */
-    menu.style.display = "flex"
 
-    /* Captura o tamanho do menu nav e aplica na posição. */
-    menu.style.right = (menu.offsetWidth * -1) + 'px'
+	/* Sobrepõe a propriedade display: none aplicada no
+	   CSS por display: flex que o torna visível. */ 
+	menu.style.display = "flex"
 
-    /* Após 10 milésimos de segundo, adiciona o atributo style, */
-    /* e adiciona as propriedades CSS.*/
-    setTimeout(()=> {
-        /* Faz o menu nav aparecer na velocidade em que foi
-           determinado na propriedade transition no CSS.*/
-        menu.style.opacity = '1'
+	/* Captura o tamanho do menu nav e aplica na posição. */
+	menu.style.right = (menu.offsetWidth * -1) + 'px'
 
-        /* Move o menu nav para a posição 0 a direita. Utiliza 
-           também a velocidade definida, na propriedade transition 
-           no CSS para realizar o movimento mais suave.*/
-        menu.style.right = "0"
+	/* Após 10 milésimos de segundo, adiciona o atributo style, */
+	/* e adiciona as propriedades CSS.*/
+	setTimeout(()=> {
+		/* Faz o menu nav aparecer na velocidade em que foi
+		   determinado na propriedade transition no CSS.*/
+		menu.style.opacity = '1'
 
-        /* Oculta o botão que torna visível o elemento nav.*/
-        openMenu.style.display = 'none'
-    }, 10);
+		/* Move o menu nav para a posição 0 a direita. Utiliza 
+		   também a velocidade definida, na propriedade transition 
+		   no CSS para realizar o movimento mais suave.*/
+		menu.style.right = "0"
+
+		/* Oculta o botão que torna visível o elemento nav.*/
+		openMenu.style.display = 'none'
+	}, 10);
 })
 
 /* Ação de eventos sobre o botão X da tag nav (mobile). */
 /* Parâmetros: Nome do evento, função. */
 closeMenu.addEventListener('click', () => {
-    /* Faz o menu nav desaparecer na velocidade em que foi
-       determinado na propriedade transition no CSS. */
-    menu.style.opacity = '0'
 
-    /* Captura o tamanho do menu nav e aplica na posição. */
-    menu.style.right = (menu.offsetWidth * -1) + 'px'
+	/* Faz o menu nav desaparecer na velocidade em que foi
+	   determinado na propriedade transition no CSS. */
+	menu.style.opacity = '0'
 
-    /* Torna visível o botão que apresenta o menu nav. */
-    /* openMenu.style.display = 'block'*/
-    
-    /* Após 200 milésimos de 1 segundo, remove o atributo style. */
-    setTimeout(()=> {
-        menu.removeAttribute('style')
-        openMenu.removeAttribute('style')
-    }, 200);
+	/* Captura o tamanho do menu nav e aplica na posição. */
+	menu.style.right = (menu.offsetWidth * -1) + 'px'
+
+	/* Torna visível o botão que apresenta o menu nav. */
+	/* openMenu.style.display = 'block'*/
+	
+	/* Após 200 milésimos de 1 segundo, remove o atributo style. */
+	setTimeout(()=> {
+		menu.removeAttribute('style')
+		openMenu.removeAttribute('style')
+	}, 200);
 })
-
 
 // Aguarde o carregamento completo da página antes de executar o código
 document.addEventListener("DOMContentLoaded", function () {
