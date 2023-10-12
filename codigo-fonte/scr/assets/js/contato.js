@@ -1,29 +1,3 @@
-document.addEventListener("DOMContentLoaded", function () {
-    const openMenuButton = document.getElementById("openMenu");
-    const closeMenuButton = document.getElementById("closeMenu");
-    const menu = document.getElementById("menu");
-    const footerMenu = document.getElementById("footerMenu"); // Elemento de menu do footer
-
-    openMenuButton.addEventListener("click", function () {
-        menu.style.display = "flex";
-        menu.style.right = "0";
-        openMenuButton.style.display = "none";
-        closeMenuButton.style.display = "block";
-
-        // Move o elemento de menu do footer para dentro do menu principal.
-        menu.appendChild(footerMenu);
-    });
-
-    closeMenuButton.addEventListener("click", function () {
-        menu.style.right = "-100%"; // Fecha o menu movendo para a esquerda.
-        menu.style.display = "none";
-        openMenuButton.style.display = "block";
-        closeMenuButton.style.display = "none";
-
-        // Move o elemento de menu do footer de volta para o footer.
-        document.querySelector("footer").appendChild(footerMenu);
-    });
-});
 /* Ação de eventos sobre o botão menu da tag nav (mobile). */
 /* Parâmetros: Nome do evento, função. */
 openMenu.addEventListener('click', () => {
@@ -50,7 +24,6 @@ openMenu.addEventListener('click', () => {
 		/* Oculta o botão que torna visível o elemento nav.*/
 		openMenu.style.display = 'none'
 	}, 10);
-
 })
 
 /* Ação de eventos sobre o botão X da tag nav (mobile). */
