@@ -22,13 +22,23 @@ body {
 	/* flex-basis – Tamanho inicial do item. */
 	flex: 1 1 100vw;
 	/* Margem de todos os lados. */
-	margin: 3px;
+	/* Margem de todos os lados. */
+	margin: 0px;
+
+	/* Imagem de fundo */
+	background-image: url("../img/home.jpg");
+	/* Não repetir a imagem de fundo */
+	background-repeat: no-repeat;
+	/* Cover: adapta a imagem para acompanhar a responsividade da imagem de fundo */
+	background-size: cover;
+	/* Centraliza o meio da imagem com background */
+	background-position: center;
+	/* Faz com que o background permaneça fixo enquanto a página é rolada */
+	background-attachment: fixed;
 }
 
 /* Formatação comum entre os elementos. */
 header, nav, main, footer {
-	/* Cor do fundo. */
-	background: #a1a1a1;
 	/* Exibição flexível. */
 	/* Torna o elemento um flex container */
 	/* e os seus elementos internos em flex-itens. */
