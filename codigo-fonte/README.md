@@ -45,4 +45,10 @@ Logo, cabeçalho, Main e rodapé.
 
 - Tela de recuperação de senha
 
+**Atualização** 12/10/2023
+
+- Todas as páginas que estavam "feitas" foram recriadas para corrigir o bug de responsividade.
+
+
+
 
