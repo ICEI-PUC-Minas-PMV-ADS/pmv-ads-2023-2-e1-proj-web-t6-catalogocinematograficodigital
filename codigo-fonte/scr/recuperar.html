@@ -17,7 +17,7 @@
 	<link rel="stylesheet" type="text/css" href="assets/css/recuperar.css">
 
 	<!-- Título da aba do navegador -->
-	<title>CCD - Recuperar Senha</title>
+	<title>RECUPERAR - CCD</title>
 </head>
 
 <!-- Conteúdo apresentado na tela. -->
@@ -25,47 +25,44 @@
 
 	<!-- Agrupa os elementos que compõe o cabeçalho. -->
 	<header>
-		<!-- Link para a página "./layout.html" com o ID "logo" -->
-		<a href="./layout.html" id="logo"></a>
-		<!-- Imagem do logotipo com src apontando para "assets/img/logo.png" e texto alternativo "CCD" -->
-		<img src="assets/img/logo.png" alt="CCD">
+		<a href="./home.html" id="logo"></a>
+		<img src="assets/img/logo.png" alt="logo">
 
-		<!-- botão de 3 traços quando a tela ficar menor (ex: Celular), &#9776; é o código para este botão.-->
-		<button id="openMenu" class="top-menu">&#9776;</button>
+		<button id="openMenu">&#9776;</button>
 
 		<!-- Agrupa links de navegação no site. -->
 		<nav id="menu">
-    		<!-- botão para ocultar a exibição do menu de 3 traços.-->
-    		<button id="closeMenu">X</button>
-    		<a href="#">Sobre</a>
-   
+			<button id="closeMenu">X</button>
+
+			<a href="home.html">HOME</a>
+			<a href="login.html">LOGIN</a>
+			<a href="cadastro.html">CADASTRO</a>
+			<a href="sobre.html">SOBRE</a>
+			
 		</nav>
-		<!-- Colocar aqui o botão de busca-->
 	</header>
 
-	<!-- Agrupa o conteúdo principal (Meio da página) da página ou aplicação. -->
+	<!-- Agrupa o conteúdo principal da página ou aplicação. -->
 	<main>
+
 		<form id="recuperar">
 			<label for="email">E-mail de cadastro:</label>
 			<input type="email" id="email" required>
 			<button type="submit">Enviar E-mail de Recuperação</button>
 		</form>
-		<script src="assets/js/recuperar.js"></script>
-
+	
 	</main>
 
-	<!-- Agrupa informações de autoria, direitos autorais, contato, mapa do site, links e documento relacionados. -->
+	<!-- Agrupa itens no rodapé -->
 	<footer>
-		<!-- Agrupa links de navegação do rodapé. -->
-		
-		 <ul id="footerMenu">
-			<li><a href="./layout.html">Home</a></li>
-			<li><a href="#">Privacidade</a></li>
-			<li><a href="#">FAQ</a></li>
-			<li><a href="#">Contato</a></li>
+		<ul id="footerMenu">
+			<li><a href="faq.html">FAQ</a></li>
+			<li><a href="contato.html">CONTATO</a></li>
+			<li><a href="termos.html">TERMOS</a></li>
+			<li><a href="privacidade.html">PRIVACIDADE</a></li>
 		</ul>
 	</footer>
 
 	<!-- Importação do arquivo JavaScript. -->
-	<script type="text/javascript" src="assets/js/modelo.js"></script>
+	<script type="text/javascript" src="assets/js/recuperar.js"></script>
 </body>
