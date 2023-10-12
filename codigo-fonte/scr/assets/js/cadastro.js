@@ -92,6 +92,9 @@ document.addEventListener("DOMContentLoaded", function () {
         }
         document.getElementById("emailError").textContent = "";
 
+        // Armazenar o e-mail cadastrado no Web Storage com a chave "registeredEmail"
+        localStorage.setItem("registeredEmail", email);
+
         // Validar senha
         const senhaRegex = /^(?=.*[a-z])(?=.*[A-Z])(?=.*\d)(?=.*[@#$!%^&*])[A-Za-z\d@#$!%^&*]{5,}$/;
         // Verificando se a senha não corresponde ao padrão definido na expressão regular
@@ -109,7 +112,7 @@ document.addEventListener("DOMContentLoaded", function () {
         }
         document.getElementById("confirmarSenhaError").textContent = "";
 
-        // Armazenar os dados no Web Storage
+        // Armazenar os dados do usuário no Web Storage
         const usuario = {
             nome,
             apelido,
