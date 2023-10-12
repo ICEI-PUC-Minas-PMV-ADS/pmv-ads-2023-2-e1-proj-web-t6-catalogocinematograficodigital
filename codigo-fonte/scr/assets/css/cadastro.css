@@ -156,13 +156,14 @@ form {
     display: flex; /* Torna o <form> um container flexível */
     flex-direction: column; /* Define a direção dos elementos filhos como coluna (vertical) */
     width: 350px; /* Define a largura do <form> como 100% da largura do container pai */
-    margin-top: 150px;
+    margin-top: 120px;
 }
 
 /* Define uma margem superior de 10 pixels para os elementos <label>. Isso cria um espaço entre o elemento anterior e o rótulo. */
 label {
     margin-top: 10px;
     text-align: left; /* Alinha o texto do rótulo à esquerda. */
+	font-size: 20px;
 }
 
 /* Adiciona preenchimento interno de 5 pixels a todos os elementos <input>. */
@@ -183,7 +184,7 @@ button {
     border: none; /* Remove a borda do botão. */
     border-radius: 5px; /* Adiciona cantos arredondados de 5 pixels. */
     cursor: pointer; /* Muda o cursor para uma mão quando paira sobre o botão. */
-	margin-bottom: 150px;
+	margin-bottom: 140px;
 }
 
 /* Define o estilo do botão quando o cursor está sobre ele. Neste caso, muda a cor de fundo para um tom mais escuro de azul (#0056b3). */
