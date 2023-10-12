@@ -1,124 +1,125 @@
 @charset "UTF-8";
-
 /* Propriedades que se aplicam a todos os elementos da página. */
 * {
-    /* Remove a margem externa de todos os lados do elemento. */
-    margin: 0;
-
-    /* Remove o espaçamento interno de todos os lados do elemento. */
-    padding: 0;
-
-    /* Inclui o preenchimento e a borda na largura e altura. */
-    box-sizing: border-box;
+	/* Remove a margem externa de todos os lados do elemento. */
+	margin: 0;
+	/* Remove o espaçamento interno de todos os lados do elemento. */
+	padding: 0;
+	/* Inclui o preenchimento e a borda na largura e altura. */
+	box-sizing: border-box;
 }
 
 body {
-    /* Exibição flexível.                          */
-    /* Torna o elemento um flex container          */
-    /* e os seus elementos internos em flex-itens. */
-    display: flex;
-
-    /* Quebra de linha quando os itens não couberem na largura da tela. */
-    flex-wrap: wrap;
-
-    /* Junção de flex-grow, flex-shrink e flex-basis.  */
-    /* flex-grow – Habilidade de um flex item crescer. */
-    /* flex-shrink - Capacidade de redução do item.    */
-    /* flex-basis – Tamanho inicial do item.           */
-    flex: 1 1 100vw;
-
-    /* Margem de todos os lados. */
-    margin: 0px;
-
-    /*Imagem de fundo*/
-    background-image: url("../img/home.jpg");
-    /*Não repetir a imagem de fundo*/
-    background-repeat: no-repeat;
-    /*Cover: adapta a imagem para acompanhar a responsividade da imagem de fundo*/
-    background-size: cover;
-    /*Centraliza o meio da imagem com backgraund*/
-    background-position: center;
-    /* Faz com que o background permaneça fixo enquanto a página é rolada */
-    background-attachment: fixed;
+	/* Exibição flexível. */
+	/* Torna o elemento um flex container */
+	/* e os seus elementos internos em flex-itens. */
+	display: flex;
+	/* Quebra de linha quando os itens não couberem na largura da tela. */
+	flex-wrap: wrap;
+	/* Junção de flex-grow, flex-shrink e flex-basis. */
+	/* flex-grow – Habilidade de um flex item crescer. */
+	/* flex-shrink - Capacidade de redução do item. */
+	/* flex-basis – Tamanho inicial do item. */
+	flex: 1 1 100vw;
+	/* Margem de todos os lados. */
+	margin: 3px;
 }
 
 /* Formatação comum entre os elementos. */
-header, nav, footer {
-    /* Exibição flexível.                          */
-    /* Torna o elemento um flex container          */
-    /* e os seus elementos internos em flex-itens. */
-    display: flex;
-
-    /* Margem externa de todos os lados. */
-    margin: 3px;
+header, nav, main, footer {
+	/* Cor do fundo. */
+	background: #a1a1a1;
+	/* Exibição flexível. */
+	/* Torna o elemento um flex container */
+	/* e os seus elementos internos em flex-itens. */
+	display: flex;
+	/* Margem externa de todos os lados. */
+	margin: 3px;
 }
 
 /* Seletores para formatação individual. */
-
 header {
-    /* Altura do elemento. */
-    height: 100px;
-
-    /* Junção de flex-grow, flex-shrink e flex-basis.  */
-    /* flex-grow – Habilidade de um flex item crescer. */
-    /* flex-shrink - Capacidade de redução do item.    */
-    /* flex-basis – Tamanho inicial do item.           */
-    flex: 1 1 100vw;
+	/* Altura do elemento. */
+	height: 100px;
+	/* Junção de flex-grow, flex-shrink e flex-basis. */
+	/* flex-grow – Habilidade de um flex item crescer. */
+	/* flex-shrink - Capacidade de redução do item. */
+	/* flex-basis – Tamanho inicial do item. */
+	flex: 1 1 100vw;
 }
 
-header #CCD {
-    /* Exibição flexível.                          */
-    /* Torna o elemento um flex container          */
-    /* e os seus elementos internos em flex-itens. */
-    display: flex;
-
-    /* Junção de flex-grow, flex-shrink e flex-basis.  */
-    /* flex-grow – Habilidade de um flex item crescer. */
-    /* flex-shrink - Capacidade de redução do item.    */
-    /* flex-basis – Tamanho inicial do item.           */
-    flex: 0 1 200px;
-
-    /* Alinha os itens na vertical. */
-    justify-content: center;
-
-    /* Alinha os itens na horizontal. */
-    align-items: center;
-
-    /*Ajuste da logo*/
-    #logo img {
-        width: 100px; /* Defina o tamanho desejado */
-        height: auto; /* Para manter a proporção original */
-        margin: 10px; /* Adicione margens conforme necessário */
-    }
+header #logo {
+	/* Exibição flexível. */
+	/* Torna o elemento um flex container */
+	/* e os seus elementos internos em flex-itens. */
+	display: flex;
+	/* Junção de flex-grow, flex-shrink e flex-basis. */
+	/* flex-grow – Habilidade de um flex item crescer. */
+	/* flex-shrink - Capacidade de redução do item. */
+	/* flex-basis – Tamanho inicial do item. */
+	flex: 0 1 auto;
+	/* Alinha os itens na vertical. */
+	justify-content: flex-start;
+	/* Alinha os itens na horizontal. */
+	align-items: center;
 }
 
+#menu {
+    justify-content: flex-end; /* Alinhar à direita */
+}
+
+header #menu a {
+    margin-left: 25px;
+	margin: 10px;
+	justify-content: flex-start;
+	
+}
+
+header #logo img {
+	max-width: 200px;
+	height: auto; /* Mantém a proporção da imagem */
+}
+
+/* Estilos para o botão de menu (aberto e fechado) */
 #openMenu, #closeMenu {
-    /* Remove a borda. */
+	font-size: 25px;
+	font-weight: bold;
+	background-color: #007bff; /* Cor de fundo do botão */
+	color: white; /* Cor do texto do botão */
+	border: none;
+	/* Margem ao redor do elemento              */
+	/* (superior, direito, inferior e esquerdo) */
+	padding: 0px 5px 0px 5px;
+	border-radius: 5px; /* Cantos arredondados */
+	/* Muda o cursor do mouse para ponteiro.*/
+	cursor: pointer;
+	/* Oculta o elemento. */
+	display: none;
+	
+}
+  
+#openMenu:hover, #closeMenu:hover {
+	background-color: #0056b3; /* Cor de fundo quando passa o mouse */
+}
+
+#menu a {
+    text-align: center; /* Alinha o texto à direita */
+    margin-left: 10px; /* Adicione margem à esquerda para criar espaçamento de 10px */
+    background-color: #007bff;
+    color: white;
     border: none;
+    padding: 10px 15px;
+    border-radius: 5px;
+    text-decoration: none;
+}
 
-    /* Remove a cor de fundo. */
-    background: none;
-
-    /* Tamanho do botão de 3 traços. */
-    font-size: 25px;
-
-    /* Espessura da forte. */
-    font-weight: bold;
-
-    /* Margem ao redor do elemento              */
-    /* (superior, direito, inferior e esquerdo) */
-    padding: 0px 5px 0px 5px;
-
-    /* Muda o cursor do mouse para ponteiro.*/
-    cursor: pointer;
-
-    /* Oculta o elemento. */
-    display: none;
+#menu a:hover {
+    background-color: #0056b3;
 }
 
 nav {
     /* Alinha os itens na vertical. */
-    justify-content: flex-end;
+    justify-content: center; /*flex-end*/
 
     /* Alinha os itens na horizontal. */
     align-items: center;
@@ -128,14 +129,6 @@ nav {
     /* flex-shrink - Capacidade de redução do item.    */
     /* flex-basis – Tamanho inicial do item.           */
     flex: 1 1 200px;
-}
-
-nav a {
-    /* Margem de todos os lados. */
-    margin: 0 3%;
-
-    /* Tamanho da fonte. */
-    font-size: 15pt;
 }
 
 main {
@@ -152,10 +145,8 @@ main {
 form {
     display: flex; /* Torna o <form> um container flexível */
     flex-direction: column; /* Define a direção dos elementos filhos como coluna (vertical) */
-    width: 100%; /* Define a largura do <form> como 100% da largura do container pai */
-}
-button{
-    margin-top: 30px;
+    width: 350px; /* Define a largura do <form> como 100% da largura do container pai */
+    margin-top: 150px;
 }
 
 /* Define uma margem superior de 10 pixels para os elementos <label>. Isso cria um espaço entre o elemento anterior e o rótulo. */
@@ -178,9 +169,11 @@ button {
     padding: 10px;
     background-color: #007bff;
     color: #fff;
+    margin-top: 30px;
     border: none; /* Remove a borda do botão. */
     border-radius: 5px; /* Adiciona cantos arredondados de 5 pixels. */
     cursor: pointer; /* Muda o cursor para uma mão quando paira sobre o botão. */
+	margin-bottom: 150px;
 }
 
 /* Define o estilo do botão quando o cursor está sobre ele. Neste caso, muda a cor de fundo para um tom mais escuro de azul (#0056b3). */
@@ -188,26 +181,34 @@ button:hover {
     background-color: #0056b3;
 }
 
-
 footer {
-    /* Altura do elemento. */
-    height: 100px; /* Garanta que o footer ocupe toda a altura da janela */
+	/* Altura do elemento. */
+	height: 100px;
+	/* Junção de flex-grow, flex-shrink e flex-basis. */
+	/* flex-grow – Habilidade de um flex item crescer. */
+	/* flex-shrink - Capacidade de redução do item. */
+	/* flex-basis – Tamanho inicial do item. */
+	flex: 1 1 100vw;
+	justify-content: center; /* Centraliza horizontalmente */
+	align-items: center; /* Centraliza verticalmente */
+}
 
-    /* Junção de flex-grow, flex-shrink e flex-basis.  */
-    /* flex-grow – Habilidade de um flex item crescer. */
-    /* flex-shrink - Capacidade de redução do item.    */
-    /* flex-basis – Tamanho inicial do item.           */
-    flex: 1 1 90vw;
+footer a {
+	display: inline-block;
+	font-size: 15px;
+	padding: 10px 20px;
+	background-color: #007bff; /* Cor de fundo do botão */
+	color: white; /* Cor do texto do botão */
+	text-decoration: none; /* Remover sublinhado do link */
+	margin: 5px; /* Espaçamento entre os botões */
+	border: 2px solid #007bff; /* Adiciona uma borda sólida à volta do botão */
+	border-radius: 5px; /* Cantos arredondados */
+	text-align: center; /* Centraliza o texto */
+}
 
-    /* Centralize verticalmente e alinhe horizontalmente */
-    justify-content: center;
-    align-items: center;
-
-    /* Fixe o rodapé na parte inferior da janela */
-    position: fixed;
-    bottom: 0;
-    left: 0;
-    right: 0;
+footer a:hover {
+	background-color: #0056b3; /* Cor de fundo quando passa o mouse */
+	border-color: #0056b3; /* Cor da borda quando passa o mouse */
 }
 
 /* Estilize o elemento de menu do footer como vertical */
@@ -228,93 +229,50 @@ footer {
 /* Estilize os links no menu do footer */
 #footerMenu a {
     text-decoration: none; /* Remova sublinhados dos links */
-    color: black; /* Defina a cor do texto */
+    color: white; /* Defina a cor do texto */
 }
 
-a {
-    /* Remove a decoração padrão do elemento. */
-    text-decoration: none;
-
-    /* Definir a cor da fonte para o padrão do elemento pai. */
-    color: inherit;
-}
-
-/* Altera o estilo dos elementos para serem apresentados */ 
+/* Altera o estilo dos elementos para serem apresentados */
 /* em telas menores que 717px. */
 @media only screen and (max-width: 717px) {
-    #openMenu, #closeMenu {
-        /* Retorna a visibilidade padrão. */
-        display: block;
-    }
+	#openMenu, #closeMenu {
+	  	display: block;
+		position: fixed;
+	}
+  
+	#openMenu {
+	  	margin-left: auto;
+		height: 100px;
+		top: 6px;
+		right: 6px;
+		margin: 0;
+	}
+  
+	#closeMenu {
+	  	position: fixed;
+	  	right: 15px;
+	  	top: 15px;
+	}
+  
+	nav {
+	  	position: fixed;
+	  	width: 100vw;
+	  	height: 100vh;
+	  	background: rgba(255, 255, 255, 0.8);
+	  	flex-direction: column;
+	  	align-items: center;
+	  	justify-content: center;
+	  	margin: 0;
+	  	display: none;
+	  	opacity: 0;
+	  	transition: 0.3s;
+	}
 
-    #openMenu {
-        /* Espaço a esquerda será preenchido automaticamente
-           colocando os itens a direita. */
-        margin-left: auto;
-    }
+	#menu {
+		justify-content: center; /* Alinhar à direita */
+	}
 
-    #closeMenu {
-        /* Torna a posição do elemento fixa. */
-        position: fixed;
-
-        /* Dispõe o elemento a 15px da esquerda. */
-        right: 15px;
-
-        /* Dispõe o elemento a 15px do topo. */
-        top: 15px;
-    }
-
-    nav {
-        /* Torna a posição do elemento fixa. */
-        position: fixed;
-
-        /* Ocupa 100% da largura da tela de exibição. */
-        width: 100vw;
-
-        /* Ocupa 100% da altura da tela de exibição. */
-        height: 100vh;
-
-        /* Cor em RGB, mais transparência. */
-        background: rgba(255, 255, 255, 0.720);
-
-        /* Dispõe os itens em coluna. */
-        flex-direction: column;
-
-        /* Alinha os itens na horizontal. */
-        align-items: center;
-
-        /* Alinha os itens na vertical. */
-        justify-content: center;
-
-        /* Remove a margem externa de todos os lados do elemento. */
-        margin: 0;
-
-        /* Oculta o elemento. */
-        display: none;
-
-        /* Invisivel */
-        opacity: 0;
-
-        /* Velocidade de transição de um estado para outro. */
-        transition: 0.3s;
-    }
-
-    nav a {
-        /* Margem de todos os lados. */
-        margin: 3%;
-    }
-
-    main {
-        /* Definindo a altura do elemento principal subtraindo 330px */
-        /* da altura total da janela de visualização (100vh). Isso leva */
-        /* em consideração a altura dos elementos (300px) e suas margens */
-        /* (30px) que estão contidos dentro do elemento principal. */
-        height: calc(100vh - 330px);
-        margin: 70px auto; /* Define margens automáticas entre cabeçalho e rodapé em página menor que 717px*/
-
-        /* Aplica uma transformação de escala para encolher o formulário. */
-        transform: scale(0.8); /* Ajuste o valor conforme necessário para controlar o encolhimento. */
-        transform-origin: top center; /* Define o ponto de origem da transformação. */
-    }
-
+	footer {
+		display: flex;
+	}
 }
