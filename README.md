@@ -48,7 +48,7 @@ Esse projeto visa criar uma plataforma online usável para cinéfilos e amantes 
 
 # Código-Fonte
 
-* <a href="[codigo-fonte/README.md](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t6-catalogocinematograficodigital/tree/main/codigo-fonte/scr)https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t6-catalogocinematograficodigital/tree/main/codigo-fonte/scr">Código Fonte</a>
+* <a href="codigo-fonte/README.md">Código Fonte</a>
 
 # Apresentação
 
