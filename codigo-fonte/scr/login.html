@@ -14,12 +14,10 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 	<!-- Importação do arquivo CSS. -->
-	<link rel="stylesheet" type="text/css" href="assets/css/telausuario.css">
-	<!--biblioteca jQuery-->	
-	<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+	<link rel="stylesheet" type="text/css" href="assets/css/login.css">
 
 	<!-- Título da aba do navegador -->
-	<title>MINHA TELA - CCD</title>
+	<title>LOGIN - CCD</title>
 </head>
 
 <!-- Conteúdo apresentado na tela. -->
@@ -36,7 +34,9 @@
 		<nav id="menu">
 			<button id="closeMenu">X</button>
 
-			<a href="sair.html">SAIR</a>
+			<a href="index.html">HOME</a>
+			<a href="recuperar.html">RECUPERAR</a>
+			<a href="cadastro.html">CADASTRO</a>
 			<a href="sobre.html">SOBRE</a>
 			
 		</nav>
@@ -44,8 +44,23 @@
 
 	<!-- Agrupa o conteúdo principal da página ou aplicação. -->
 	<main>
-		
 
+		<h1>Login</h1>
+    	<form id="loginForm">
+        	<div>
+            	<label for="apelidoOuEmail">Apelido ou E-mail:</label>
+            	<input type="text" id="apelidoOuEmail" required>
+        	</div>
+       	 	<div>
+            	<label for="senha">Senha:</label>
+            	<input type="password" id="senha" required>
+        	</div>
+			
+        	<div id="loginError" style="color: red;"></div>
+        	
+			<button type="submit" id="loginButton">Entrar</button>
+
+    	</form>
 		
 	</main>
 
@@ -60,5 +75,5 @@
 	</footer>
 
 	<!-- Importação do arquivo JavaScript. -->
-	<script type="text/javascript" src="assets/js/telausuario.js"></script>
+	<script type="text/javascript" src="assets/js/login.js"></script>
 </body>
