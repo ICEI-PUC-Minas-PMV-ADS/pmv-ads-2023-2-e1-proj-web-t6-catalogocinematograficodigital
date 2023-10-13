@@ -26,7 +26,7 @@ body {
 	margin: 0px;
 
 	/* Imagem de fundo */
-	background-image: url(".../img/home.jpg");
+	background-image: url("../img/home.jpg");
 	/* Não repetir a imagem de fundo */
 	background-repeat: no-repeat;
 	/* Cover: adapta a imagem para acompanhar a responsividade da imagem de fundo */
