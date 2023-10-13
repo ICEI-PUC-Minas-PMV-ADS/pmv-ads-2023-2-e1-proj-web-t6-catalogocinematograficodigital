@@ -44,7 +44,7 @@ Esse projeto visa criar uma plataforma online usável para cinéfilos e amantes 
 
 # Hospedagem
 
-[[* Insira o endereço eletrônico público de acesso ao conteúdo publicado.](https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2023-2-e1-proj-web-t6-catalogocinematograficodigital/) ](https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2023-2-e1-proj-web-t6-catalogocinematograficodigital/)
+[[* CATALOGO CINEMATOGRAFICO DIGITAL.](https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2023-2-e1-proj-web-t6-catalogocinematograficodigital/) ](https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2023-2-e1-proj-web-t6-catalogocinematograficodigital/)
 
 # Código-Fonte
 
