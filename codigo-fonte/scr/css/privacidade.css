@@ -139,21 +139,14 @@ nav {
 }
 
 main {
-	/* Realizar a subtração de 100% da altura vertical menos a soma */
-    /* da altura dos elementos (200px) com as suas margens (47px). */
-    height: calc(100vh - 247px);
-	/* Junção de flex-grow, flex-shrink e flex-basis. */
-	/* flex-grow – Habilidade de um flex item crescer. */
-	/* flex-shrink - Capacidade de redução do item. */
-	/* flex-basis – Tamanho inicial do item. */
-	flex: 20 1 500px;
-
-    justify-content: center; /* Alinha o conteúdo horizontalmente ao centro */
-	align-items: center; /* Alinha verticalmente ao centro */
-	flex-direction: column;
-	max-height: 1000px;
-	margin: 0 auto;
-  	padding: 20px;
+    /* Altura da tela menos a soma das alturas dos elementos no topo e no rodapé */
+    min-height: 100px; /* Ajuste conforme necessário */
+    display: flex; /* Torna a <main> um container flexível */
+    flex-direction: column; /* Define a direção dos elementos filhos como coluna (vertical) */
+    justify-content: center; /* Centraliza verticalmente os elementos filhos */
+    align-items: center; /* Centraliza horizontalmente os elementos filhos */
+    margin: 0 auto; /* Define margens automáticas entre cabeçalho e rodapé */
+    text-align: center; /* Centraliza o texto dentro da <main> */
 }
 
 /* Estilos para centralizar os títulos */
