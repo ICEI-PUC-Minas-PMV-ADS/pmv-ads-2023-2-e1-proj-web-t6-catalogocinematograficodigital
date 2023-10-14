@@ -151,14 +151,20 @@ main {
 /* Estilo para os parágrafos */
 #paragrafos p {
     font-size: 26px; /* Define o tamanho da fonte para o texto dentro de <main> */
-    margin-bottom: 10px; /* Adiciona espaço vertical entre os parágrafos */
+    margin-bottom: 0; /* 0 tira o espaço vertical entre os parágrafos */
     text-align: center; /* Centraliza o texto horizontalmente */
 }
+
+#p1 {
+margin-top: 8vw;
+}
+
+
 
 /* Estilo para os botões */
 ul#button {
     list-style-type: none; /* Remove a marcação de lista */
-    padding: 50px; /* Remove o espaço interno da lista */
+    padding: 50px; /* distancia entre o botão e o texto */
 }
 
 ul#button li {
@@ -220,6 +226,7 @@ footer a:hover {
     align-items: center; /* Centralize os elementos horizontalmente */
     list-style: none; /* Remova os marcadores de lista */
     padding: 3px; /* Remova o preenchimento padrão da lista */
+	margin-top: 15vw;
 }
 
 /* Estilize os itens do menu do footer (links) */
