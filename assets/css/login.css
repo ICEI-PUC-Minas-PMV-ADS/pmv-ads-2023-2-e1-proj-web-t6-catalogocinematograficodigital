@@ -148,6 +148,10 @@ main {
     text-align: center; /* Centraliza o texto dentro da <main> */
 }
 
+#h1 {
+	margin-top: 8vw;
+}
+
 form {
     display: flex; /* Torna o <form> um container flexível */
     flex-direction: column; /* Define a direção dos elementos filhos como coluna (vertical) */
@@ -181,6 +185,11 @@ button {
     border-radius: 5px; /* Adiciona cantos arredondados de 5 pixels. */
     cursor: pointer; /* Muda o cursor para uma mão quando paira sobre o botão. */
 	margin-bottom: 140px;
+}
+
+/* Define o estilo do botão quando o cursor está sobre ele. Neste caso, muda a cor de fundo para um tom mais escuro de azul (#0056b3). */
+button:hover {
+    background-color: #0056b3;
 }
 
 footer {
@@ -220,6 +229,7 @@ footer a:hover {
     align-items: center; /* Centralize os elementos horizontalmente */
     list-style: none; /* Remova os marcadores de lista */
     padding: 3px; /* Remova o preenchimento padrão da lista */
+	margin-top: 15vw;
 }
 
 /* Estilize os itens do menu do footer (links) */
