@@ -1,3 +1,18 @@
+// Capturando o elemento do botão de envio pelo seu ID "submitButton"
+const submitButton = document.getElementById("submitButton");
+// Capturando os valores dos campos de entrada
+const nome = document.getElementById("nome");
+const apelido = document.getElementById("apelido");
+const email = document.getElementById("email");
+const senha = document.getElementById("senha");
+const confirmarSenha = document.getElementById("confirmarSenha");
+//validação de todos os campos
+let validNome = validApelido = validEmail = validSenha = validConfirmarSenha = false;
+//inserção de mensagem "usuário cadastrado" ou  "erro no cadastro"
+const cadastrado = document.getElementById("cadastrado");
+const naoCadastrado = document.getElementById("naoCadastrado");
+
+
 /* Ação de eventos sobre o botão menu da tag nav (mobile). */
 /* Parâmetros: Nome do evento, função. */
 openMenu.addEventListener('click', () => {
@@ -47,85 +62,98 @@ closeMenu.addEventListener('click', () => {
 	}, 200);
 })
 
-// Aguarde o carregamento completo da página antes de executar o código
-document.addEventListener("DOMContentLoaded", function () {
-    // Capturando o elemento do botão de envio pelo seu ID "submitButton"
-    const submitButton = document.getElementById("submitButton");
-
-    // Adicionando um evento de clique ao botão de envio
-    submitButton.addEventListener("click", function (event) {
-        // Impedindo o comportamento padrão de envio do formulário
-        event.preventDefault();
-
-        // Capturando os valores dos campos de entrada
-        const nome = document.getElementById("nome").value;
-        const apelido = document.getElementById("apelido").value;
-        const email = document.getElementById("email").value;
-        const senha = document.getElementById("senha").value;
-        const confirmarSenha = document.getElementById("confirmarSenha").value;
-
-        // Validar nome
-        const nomeRegex = /^[A-Za-z\s]+$/;
-        // Verificando se o nome não corresponde ao padrão definido na expressão regular
-        if (!nome.match(nomeRegex)) {
-            // Exibindo uma mensagem de erro abaixo do campo "nome"
-            document.getElementById("nomeError").textContent = "Nome inválido";
-            return; // Saindo da função para impedir o envio do formulário
-        }
-        // Limpando a mensagem de erro se o nome for válido
+nome.addEventListener("keyup", () => {
+    // Validar nome
+    const nomeRegex = /^[A-Za-z\s]+$/;
+    // Verificando se o nome não corresponde ao padrão definido na expressão regular
+    if (!nome.value.match(nomeRegex)) {
+        // Exibindo uma mensagem de erro abaixo do campo "nome"
+        document.getElementById("nomeError").textContent = "Nome inválido";
+        validNome = false;
+    } else {
         document.getElementById("nomeError").textContent = "";
+        validNome = true;
+    }
+})
 
-        // Validar apelido
-        // Verificando se o apelido é apenas espaços em branco
-        if (apelido.trim() === "") {
-            document.getElementById("apelidoError").textContent = "Apelido inválido";
-            return;
-        }
+// Validar apelido
+// Verificando se o apelido é apenas espaços em branco
+apelido.addEventListener("keyup", () => {
+    if (apelido.value.trim() === "") {
+        document.getElementById("apelidoError").textContent = "Apelido inválido";
+        validApelido = false;
+    } else {
         document.getElementById("apelidoError").textContent = "";
+        validApelido = true;
+    }  
+})
 
-        // Validar email
-        const emailRegex = /^[a-zA-Z0-9._-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,4}$/;
-        // Verificando se o email não corresponde ao padrão definido na expressão regular
-        if (!email.match(emailRegex)) {
-            document.getElementById("emailError").textContent = "E-mail inválido";
-            return;
-        }
+//validar email
+email.addEventListener("keyup", () => {
+     const emailRegex = /^[a-zA-Z0-9._-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,4}$/;
+     //Verificando se o email não corresponde ao padrão definido na expressão regular
+    if (!email.value.match(emailRegex)) {
+        document.getElementById("emailError").textContent = "E-mail inválido";
+        validEmail = false;
+    } else {
         document.getElementById("emailError").textContent = "";
+        validEmail = true;
+    }
+    // Armazenar o e-mail cadastrado no Web Storage com a chave "registeredEmail"
+    localStorage.setItem("registeredEmail", email.value);
+})
 
-        // Armazenar o e-mail cadastrado no Web Storage com a chave "registeredEmail"
-        localStorage.setItem("registeredEmail", email);
-
-        // Validar senha
-        const senhaRegex = /^(?=.*[a-z])(?=.*[A-Z])(?=.*\d)(?=.*[@#$!%^&*])[A-Za-z\d@#$!%^&*]{5,}$/;
-        // Verificando se a senha não corresponde ao padrão definido na expressão regular
-        if (!senha.match(senhaRegex)) {
-            document.getElementById("senhaError").textContent = "Senha inválida";
-            return;
-        }
+//validar senha
+senha.addEventListener("keyup", () => {
+    const senhaRegex = /^(?=.*[a-z])(?=.*[A-Z])(?=.*\d)(?=.*[@#$!%^&*])[A-Za-z\d@#$!%^&*]{5,}$/;
+    // Verificando se a senha não corresponde ao padrão definido na expressão regular
+    if (!senha.value.match(senhaRegex)) {
+        document.getElementById("senhaError").textContent = "A senha deve conter no mínimo 1 algarismo numérico, 1 símbolo, 1 letra maiúscula e 1 letra minúscula";
+        validSenha = false;
+    } else {
         document.getElementById("senhaError").textContent = "";
+        validSenha = true;
+    }
+})
 
-        // Confirmar senha
-        // Verificando se a senha e a confirmação de senha são iguais
-        if (senha !== confirmarSenha) {
-            document.getElementById("confirmarSenhaError").textContent = "Senhas não coincidem";
-            return;
-        }
+// Verificando se a senha e a confirmação de senha são iguais
+confirmarSenha.addEventListener("change", () => {
+    if (senha.value !== confirmarSenha.value) {
+        document.getElementById("confirmarSenhaError").textContent ="Senhas não coincidem";
+        validConfirmarSenha = false;
+    } else  {
         document.getElementById("confirmarSenhaError").textContent = "";
-
-        // Armazenar os dados do usuário no Web Storage
-        const usuario = {
-            nome,
-            apelido,
-            email,
-            senha
-        };
-        // Convertendo o objeto "usuario" em uma string JSON e armazenando no Web Storage com a chave "usuario"
-        localStorage.setItem("usuario", JSON.stringify(usuario));
-
-        // Exibindo um alerta de sucesso
-        alert("Cadastro realizado com sucesso!");
-
-        // Resetando o formulário para limpar os campos
-        document.getElementById("cadastroForm").reset();
-    });
+        validConfirmarSenha = true;
+    }
+})
+//cadastrar usuario
+submitButton.addEventListener("click", function cadastrar(e) {
+    //caso todos os campos estejam corretos, cadastra usuário
+    if (validNome && validApelido && validEmail && validSenha && validConfirmarSenha) {
+        //cria lista de usuarios utilizando um array
+        let listaUsuario = JSON.parse(localStorage.getItem("listaUsuario") || "[]");
+       //atualiza lista de usuarios, com um array de objetos
+        listaUsuario.push(
+            {
+                nomeCadastrado: nome.value,
+                apelidoCadastrado: apelido.value,
+                emailCadastrado: email.value,
+                senhaCadastrado: senha.value,
+            }
+        );
+        //adiciona o usuario ao localStorage
+        localStorage.setItem("listaUsuario", JSON.stringify(listaUsuario));
+        //Aviso de "usuário cadastrado"
+        cadastrado.setAttribute("style", "display: block");
+        cadastrado.innerText = "Usuário  Cadastrado";
+        naoCadastrado.innerText = "";
+        naoCadastrado.setAttribute("style", "display:none");
+    } else { //quando algum campo está incorreto
+        naoCadastrado.setAttribute("style", "display: block");
+        naoCadastrado.innerText = "Erro, campo preenchido incorretamente";
+        cadastrado.innerText = "";
+        cadastrado.setAttribute("style", "display:none");
+    }
+    //previne o push do formulário
+    e.preventDefault();
 });
