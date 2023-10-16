@@ -1,4 +1,4 @@
-@charset "UTF-8";
+@@charset "UTF-8";
 /* Propriedades que se aplicam a todos os elementos da página. */
 * {
 	/* Remove a margem externa de todos os lados do elemento. */
@@ -24,6 +24,7 @@ body {
 	/* Margem de todos os lados. */
 	/* Margem de todos os lados. */
 	margin: 0px;
+	height: 100%;
 
 	/* Imagem de fundo */
 	background-image: url("../img/home.jpg");
@@ -74,6 +75,18 @@ header #logo {
 	align-items: center;
 }
 
+header a {
+	font-size: 20px;
+	font-family: serif,  sans-serif, "Times New Roman";
+	font-style: italic;
+	text-decoration:none;
+	color: #000;
+}
+
+a:visited {
+	text-decoration: none;
+}
+
 #menu {
     justify-content: flex-end; /* Alinhar à direita */
 }
@@ -86,8 +99,9 @@ header #menu a {
 }
 
 header #logo img {
-	max-width: 200px;
+	max-width: 5rem;
 	height: auto; /* Mantém a proporção da imagem */
+	padding-left: 5px;
 }
 
 /* Estilos para o botão de menu (aberto e fechado) */
@@ -152,11 +166,33 @@ main {
     text-align: center; /* Centraliza o texto dentro da <main> */
 }
 
+h1 {
+	margin-bottom: 20px;
+}
+
+#cadastrado {
+	background-color: #87bea9;
+	font-size: 20px;
+	padding: 5px;
+	border-radius: 4px;
+	display: none;
+}
+
+#naoCadastrado {
+	background-color: #e79797;
+	font-size: 20px;
+	padding: 5px;
+	border-radius: 4px;
+	display: none;
+}
+
 form {
     display: flex; /* Torna o <form> um container flexível */
     flex-direction: column; /* Define a direção dos elementos filhos como coluna (vertical) */
-    width: 350px; /* Define a largura do <form> como 100% da largura do container pai */
-    margin-top: 120px;
+    width: 500px; /* Define a largura do <form> como 100% da largura do container pai */
+    margin-top: 50px;
+	background-color:#E3E3E395;
+	padding: 20px;
 }
 
 /* Define uma margem superior de 10 pixels para os elementos <label>. Isso cria um espaço entre o elemento anterior e o rótulo. */
@@ -184,7 +220,7 @@ button {
     border: none; /* Remove a borda do botão. */
     border-radius: 5px; /* Adiciona cantos arredondados de 5 pixels. */
     cursor: pointer; /* Muda o cursor para uma mão quando paira sobre o botão. */
-	margin-bottom: 140px;
+	margin-bottom: 20px;
 }
 
 /* Define o estilo do botão quando o cursor está sobre ele. Neste caso, muda a cor de fundo para um tom mais escuro de azul (#0056b3). */
@@ -194,7 +230,7 @@ button:hover {
 
 footer {
 	/* Altura do elemento. */
-	height: 100px;
+	height: 100%;
 	/* Junção de flex-grow, flex-shrink e flex-basis. */
 	/* flex-grow – Habilidade de um flex item crescer. */
 	/* flex-shrink - Capacidade de redução do item. */
