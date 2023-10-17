@@ -48,75 +48,57 @@ closeMenu.addEventListener('click', () => {
 })
 
 
-//página de login
-// Verifica se o usuário está logado ao carregar a página
-document.addEventListener("DOMContentLoaded", function () {
-    const storedUsername = localStorage.getItem("username");
-    const storedPassword = localStorage.getItem("password");
+//variável para botão  de entrar
+const botaoEntrar = document.getElementById("loginButton");
+//variável para id apelidoOuEmail
+const apelidoOuEmail = document.getElementById("apelidoOuEmail");
+//variável para id senha
+const senha = document.getElementById("senha");
+//variável  para preencher campo "usuário não cadastrado"
+const naoCadastrado = document.getElementById("naoCadastrado");
 
-    if (storedUsername && storedPassword) {
-        // Defina os valores dos campos com base no que está armazenado no local storage
-        document.getElementById("username").value = storedUsername;
-        document.getElementById("password").value = storedPassword;
-    }
-});
 
-// Manipulador de evento para o botão de login
-document.getElementById("loginButton").addEventListener("click", function (e) {
+
+
+botaoEntrar.addEventListener("click", function entrar(e) {
+    //prevenir que formulário seja submetido - evitar push
     e.preventDefault();
-
-    // Obtenha os valores dos campos de entrada
-    const username = document.getElementById("username").value;
-    const password = document.getElementById("password").value;
-
-    // Verifique se o usuário e a senha correspondem ao que está armazenado no local storage
-    const storedUsername = localStorage.getItem("username");
-    const storedPassword = localStorage.getItem("password");
-
-    if (username === storedUsername && password === storedPassword) {
-        // Login bem-sucedido
-        window.location.href = "perfil_do_usuario.html"; // Redirecione para a página do perfil do usuário
-    } else {
-        // Login falhou
-        alert("Nome de usuário ou senha incorretos. Tente novamente.");
+    //array que trará os dados do local Storage
+    let listaUsuario = [];
+    //objeto vazio que servirá para achar os dados do local storage
+    let listaObjeto = {
+        apelidoCadastrado:  "",
+        emailCadastrado: "",
+        senhaCadastrado: "",
     }
-});
 
-
-//Para login
-
-document.addEventListener("DOMContentLoaded", function () {
-    // Capturando o elemento do botão de envio de login pelo seu ID "loginButton"
-    const loginButton = document.getElementById("loginButton");
-
-    // Adicionando um evento de clique ao botão de envio de login
-    loginButton.addEventListener("click", function (event) {
-        // Impedindo o comportamento padrão de envio do formulário
-        event.preventDefault();
-
-        // Capturando os valores dos campos de entrada
-        const apelidoOuEmail = document.getElementById("apelidoOuEmail").value;
-        const senha = document.getElementById("senha").value;
-
-        // Recuperando o email cadastrado do Web Storage
-        const registeredEmail = localStorage.getItem("registeredEmail");
-
-        // Recuperando os dados do usuário do Web Storage
-        const usuarioJSON = localStorage.getItem("usuario");
-        const usuario = JSON.parse(usuarioJSON);
-
-        // Verificando se o apelido ou email corresponde ao cadastrado
-        if (apelidoOuEmail === usuario.apelido || apelidoOuEmail === registeredEmail) {
-            // Verificando se a senha corresponde à senha cadastrada
-            if (senha === usuario.senha) {
-                // Senha e apelido/email corretos, exibir mensagem de sucesso
-                document.getElementById("loginError").textContent = "Login bem-sucedido!";
-				window.location.href = "telausuario.html"; // Redireciona para a página "telausuario.html"
-            } else {
-                document.getElementById("loginError").textContent = "Senha incorreta";
+    //trazendo o array de objetos que está no local storage
+    listaUsuario = JSON.parse(localStorage.getItem("listaUsuario"));
+    //para cada item dentro de cada objeto do array, procurará se a senha E o email OU o apelido estão cadastrados
+    listaUsuario.forEach(item => {
+        if ( senha.value == item.senhaCadastrado && (apelidoOuEmail.value == item.apelidoCadastrado || apelidoOuEmail.value == item.emailCadastrado)) {
+            listaObjeto  = {
+                apelidoCadastrado: item.apelidoCadastrado,
+                emailCadastrado: item.emailCadastrado,
+                senhaCadastrado: item.senhaCadastrado
             }
-        } else {
-            document.getElementById("loginError").textContent = "Apelido ou E-mail não cadastrados";
-        }
+        };
     });
-});
+
+
+
+    //se os dados estão cadastrados, faça login
+    if (senha.value == listaObjeto.senhaCadastrado && (apelidoOuEmail.value == listaObjeto.apelidoCadastrado || apelidoOuEmail.value == listaObjeto.emailCadastrado)) {
+        //para haver o controle de que o usuário está logado ou não, utilizaremos um token que ficará guardado no local storage
+        let token = Math.random().toString(16).substring(2)
+        localStorage.setItem("token", token);
+        //salva os dados do usuário logado no local storage
+        localStorage.setItem("usuarioLogado", JSON.stringify(listaObjeto));
+        // Redirecione para a página do perfil do usuário
+        window.location.href = "./telausuario.html";
+    } else {
+        naoCadastrado.setAttribute("style", "display:  block");
+        naoCadastrado.textContent = "Usuário não cadastrado"
+        apelidoOuEmail.focus()
+    }
+})
