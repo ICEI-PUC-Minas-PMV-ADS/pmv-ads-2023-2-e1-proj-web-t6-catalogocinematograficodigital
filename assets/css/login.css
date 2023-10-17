@@ -148,8 +148,24 @@ main {
     text-align: center; /* Centraliza o texto dentro da <main> */
 }
 
-#h1 {
-	margin-top: 8vw;
+h1 {
+	margin-bottom: 20px;
+}
+
+#cadastrado {
+	background-color: #87bea9;
+	font-size: 20px;
+	padding: 5px;
+	border-radius: 4px;
+	display: none;
+}
+
+#naoCadastrado {
+	background-color: #e79797;
+	font-size: 20px;
+	padding: 5px;
+	border-radius: 4px;
+	display: none;
 }
 
 form {
@@ -185,11 +201,6 @@ button {
     border-radius: 5px; /* Adiciona cantos arredondados de 5 pixels. */
     cursor: pointer; /* Muda o cursor para uma mão quando paira sobre o botão. */
 	margin-bottom: 140px;
-}
-
-/* Define o estilo do botão quando o cursor está sobre ele. Neste caso, muda a cor de fundo para um tom mais escuro de azul (#0056b3). */
-button:hover {
-    background-color: #0056b3;
 }
 
 footer {
@@ -229,7 +240,6 @@ footer a:hover {
     align-items: center; /* Centralize os elementos horizontalmente */
     list-style: none; /* Remova os marcadores de lista */
     padding: 3px; /* Remova o preenchimento padrão da lista */
-	margin-top: 15vw;
 }
 
 /* Estilize os itens do menu do footer (links) */
