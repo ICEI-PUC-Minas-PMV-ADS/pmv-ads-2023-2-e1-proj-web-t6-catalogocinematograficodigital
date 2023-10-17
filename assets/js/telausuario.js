@@ -1,3 +1,10 @@
+//variável  que chama botão SAIR
+const sair = document.getElementById("sair");
+//variável que vai receber objeto "usuário logado" do local storage
+const usuarioLogado = JSON.parse(localStorage.getItem("usuarioLogado"));
+//variável que recebe id  #logado
+const logado = document.getElementById("logado");
+
 /* Ação de eventos sobre o botão menu da tag nav (mobile). */
 /* Parâmetros: Nome do evento, função. */
 openMenu.addEventListener('click', () => {
@@ -47,3 +54,21 @@ closeMenu.addEventListener('click', () => {
 	}, 200);
 })
 
+//mensagem de saudação ao usuário logado
+logado.innerHTML = "Olá " + usuarioLogado.apelidoCadastrado + "!"
+
+//Se não houver um token de usuário cadastrado no local storage, não deixa você entrar na página de usuário
+if (localStorage.getItem("token") === null) {
+	alert("Você precisa estar logado para acessar esta página");
+	window.location.href="./login.html";
+}
+
+//função para sair da tela do usuário
+function saia() {
+	localStorage.removeItem("token");
+	localStorage.removeItem("usuarioLogado");
+	window.location.href="./login.html";
+}
+
+//evento para sair da tela do usuário
+sair.addEventListener("click", saia);
