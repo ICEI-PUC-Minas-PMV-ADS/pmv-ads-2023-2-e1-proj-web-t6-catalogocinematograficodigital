@@ -242,9 +242,9 @@ Figura 2 - Encontro da equipe para compartilhar tarefas já executadas, dúvidas
 
 Figura 3 - Imagem de tela do Visual Studio - programação da tela SOBRE do aplicativo do projeto.
 
-![6-Tela de Cadastro](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t6-catalogocinematograficodigital/assets/145228139/dd41f6f9-3a4c-4d14-a7b4-72ce6992b329)
+![15-Telas Home e Cadastro-Etapa 3](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t6-catalogocinematograficodigital/assets/145228139/1ce7a8e3-98cf-4c95-adec-0dd261fe1e57)
 
-Figura 4 - Tela do Cadastro do Aplicativo CCD
+Figura 4 - Tela Home e Tela de Cadastro do Aplicativo CCD
 
 ![8-Kanban-desenvolvimento Etapa 3](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t6-catalogocinematograficodigital/assets/145228139/22c1f6cd-ddbb-4537-bfcc-3897d92e00fa)
 
