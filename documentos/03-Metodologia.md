@@ -189,7 +189,7 @@ Figura 6- Kanban da Etapa 2 - Atividades Executadas
 
 *3.1 Planejamento:*
 
-O planejamento dessa etapa consistiu dos Templates da Aplicação, baseados nos Fluxos de Usuários e Telas da interface, além dos protótipos já planejados anteriormente, a programação das funcionalidades de mais elevada prioridade, em HTML, CSS e Javascript, que são as ferramentas utilizadas e necessárias durante essa etapa. 
+O planejamento dessa etapa consistiu dos Templates da Aplicação, baseados nos Fluxos de Usuários e Telas da interface, além dos protótipos já planejados anteriormente, a programação das funcionalidades de mais elevada prioridade, em HTML, CSS e Javascript, que são as ferramentas utilizadas e necessárias durante essa etapa. Para essa etapa, foi planejado a implemenação do Requisito Funcional RF-01
 
 
 *3.2 Execução:*
