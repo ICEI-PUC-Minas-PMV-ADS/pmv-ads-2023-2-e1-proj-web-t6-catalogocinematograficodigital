@@ -6,7 +6,7 @@ A construção e implementação da aplicação, como um todo, partiu do process
 **Tela Inicial**
 
 Para construção e implementação da Tela Inicial, foram planejadas as telas bases de acesso ao aplicativo: Layout da Tela e Tela de Login. 
-- Para a Tela de Login, pensou-se, inicialmente, na necessidade de cadastrar o Usuário e a Senha de acesso.  Como a implementação consiste em uma ferramenta Front End,  foi implementado .... da seguinte forma...
+- Para a Tela de Login, pensou-se, inicialmente, na necessidade de cadastrar o Usuário e a Senha de acesso.  Como a implementação consiste em uma ferramenta Front End,  foi implementado **_.... da seguinte forma..._** 
 - O Layout do aplicativo foi pensado de forma minimalista, mas ao mesmo tempo moderno e que representasse profissionalismo. Foi escolhido um background já construído para a apresentação do projeto, desde a Etapa 1 de sua construção, que servirá de base para o design de todas as telas da aplicação.
 
 ![9-Tela Home- Etapa 3](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t6-catalogocinematograficodigital/assets/145228139/e2ff8241-23c8-44f6-a982-f987db8068ee)
