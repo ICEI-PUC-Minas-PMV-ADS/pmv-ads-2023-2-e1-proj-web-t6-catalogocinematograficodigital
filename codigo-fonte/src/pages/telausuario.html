@@ -14,9 +14,9 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 	<!-- Importação do arquivo CSS. -->
-	<link rel="stylesheet" type="text/css" href="assets/css/telausuario.css">
+	<link rel="stylesheet" type="text/css" href="../css/telausuario.css">
 	<!-- Importação do arquivo JavaScript. -->
-	<script type="text/javascript" src="assets/js/telausuario.js" defer></script>
+	<script type="text/javascript" src="../js/telausuario.js" defer></script>
 	<!--biblioteca jQuery-->	
 	<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
 
@@ -29,17 +29,20 @@
 
 	<!-- Agrupa os elementos que compõe o cabeçalho. -->
 	<header>
-		<a href="./index.html" id="logo"></a>
-		<img src="./assets/img/logo.png" alt="logo">
+		<a href="./index.html" id="logo">
+			<img src="../img/logo.png" alt="logo">
+			<p>Catálogo Cinematográfico Digital</p>
+		</a>
 
 		<button id="openMenu">&#9776;</button>
 
 		<!-- Agrupa links de navegação no site. -->
 		<nav id="menu">
 			<button id="closeMenu">X</button>
-
 			<button id="sair">SAIR</button>
-			<a href="sobre.html">SOBRE</a>
+			<a href="./cadastro.html">CADASTRE-SE</a>
+			<a href="./login.html">LOGIN</a>
+			<a href="./sobre.html">SOBRE</a>
 			
 		</nav>
 	</header>
