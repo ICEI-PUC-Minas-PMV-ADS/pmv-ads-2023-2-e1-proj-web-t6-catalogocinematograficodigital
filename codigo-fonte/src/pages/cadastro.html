@@ -14,7 +14,9 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 	<!-- Importação do arquivo CSS. -->
-	<link rel="stylesheet" type="text/css" href="../css/cadastro.css">
+	<link rel="stylesheet" type="text/css" href="assets/css/cadastro.css">
+	<!--Arquivo Javascript-->
+	<script type="text/javascript" src="assets/js/cadastro.js" defer></script>
 
 	<!-- Título da aba do navegador -->
 	<title>CADASTRO - CCD</title>
@@ -25,8 +27,10 @@
 
 	<!-- Agrupa os elementos que compõe o cabeçalho. -->
 	<header>
-		<a href="./../..index.html" id="logo"></a>
-		<img src="../img/logo.png" alt="logo">
+		<a href="./index.html" id="logo">
+			<img src="./assets/img/logo.png" alt="logo">
+			<p>Catálogo Cinematográfico Digital</p>
+		</a>
 
 		<button id="openMenu">&#9776;</button>
 
@@ -34,7 +38,7 @@
 		<nav id="menu">
 			<button id="closeMenu">X</button>
 
-			<a href="./../..index.html">HOME</a>
+			<a href="./cadastro.html">CADASTRE-SE</a>
 			<a href="login.html">LOGIN</a>
 			<a href="sobre.html">SOBRE</a>
 			
@@ -45,6 +49,10 @@
 	<main>
 		<!-- Define um formulário de cadastro com um ID "cadastroForm". -->
 		<form id="cadastroForm">
+			<!--Títuo página e campo para mensagem posterior de usuário cadastrado-->
+			<h1>Cadastre-se:</h1>
+			<div id="cadastrado"></div>
+			<div id="naoCadastrado"></div>
 			<!-- Rótulo e campo de entrada para o Nome -->
 			<label for="nome">Nome:</label>
 			<input type="text" id="nome" required>
@@ -87,6 +95,4 @@
 		</ul>
 	</footer>
 
-	<!-- Importação do arquivo JavaScript. -->
-	<script type="text/javascript" src="../js/cadastro.js"></script>
 </body>
