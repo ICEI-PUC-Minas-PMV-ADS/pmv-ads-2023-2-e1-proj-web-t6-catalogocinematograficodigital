@@ -85,10 +85,10 @@ header #menu a {
 }
 
 header #logo img {
-	max-width: 200px;
+	max-width: 5rem;
 	height: auto; /* Mantém a proporção da imagem */
+	padding-left: 5px;
 }
-
 /* Estilos para o botão de menu (aberto e fechado) */
 #openMenu, #closeMenu {
 	font-size: 25px;
