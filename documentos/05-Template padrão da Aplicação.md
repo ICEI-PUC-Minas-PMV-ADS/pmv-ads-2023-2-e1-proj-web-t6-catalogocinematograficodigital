@@ -9,7 +9,7 @@ Para construção e implementação das páginas do aplicativo, foram planejadas
 
 - O Layout do aplicativo foi pensado de forma minimalista, mas ao mesmo tempo moderno e que representasse profissionalismo. Foi escolhido um background já construído para a apresentação do projeto, desde a Etapa 1 de sua construção, que servirá de base para o design de todas as telas da aplicação.
 - O template padrão do projeto, que irá aparecer nas páginas do projeto, foi planejado por ter um menu de contexto, no canto superior direito, e um menu de navegação geral no rodapé, com conteúdo centralizado na página.
-- Em relação às fonte, optamos, inicialmente, utilizar a fonte Time News Roman, cor branca, para os botões de menus, e fonte Serif, cor preta, para os textos das páginas. Os botões de menus, tanto de contexto e navegação geral, são da cor azul.
+- Em relação às fontes, optamos, inicialmente, utilizar a fonte Time News Roman, cor branca, para os botões de menus, e fonte Serif, cor preta, para os textos das páginas. Os botões de menus, tanto de contexto e navegação geral, são da cor azul.
   
 As Figuras abaixo ilustram um layout modelo, mostrando como foi essa organização.
 
