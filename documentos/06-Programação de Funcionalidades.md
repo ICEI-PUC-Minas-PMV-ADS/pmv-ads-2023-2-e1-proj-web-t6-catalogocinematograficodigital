@@ -2,7 +2,7 @@
 
 Implementação da aplicação descritas por meio dos requisitos codificados. 
 
-Etapa 3:
+*Etapa 3* (_Sprint 3_):
 
 ### Cadastro de usuário
 Tela inicial: 
