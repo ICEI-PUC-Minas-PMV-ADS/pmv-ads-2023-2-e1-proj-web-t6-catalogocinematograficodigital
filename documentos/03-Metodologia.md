@@ -197,7 +197,7 @@ O planejamento dessa etapa consistiu dos Templates da Aplicação, baseados nos 
 A equipe realizou reuniões semanais, definindo o Requisito Funcional RF-01: Cadastro do Usuário, a ser implementado nessa etapa. 
 Houve o compartilhamento do aprendizado nas ferramentas necessárias para essa etapa: HTML, CSS e Javascript, entre os membros da equipe. Essas ferramentas são utilizadas para os seguintes objetivos: o HTML é utilizada na programação para estruturar o conteúdo da página web do projeto; o CSS é uma linguagem de estilo usada para controlar a apresentação e o layout do conteúdo HTML; JavaScript é uma linguagem de programação que permite adicionar interatividade e dinamismo às páginas web. 
 
-Essas ferramentas constituíram-se novidades para a naioria dos membros da equipe, tendo sido necessário um grande esforço de aprendizado, para sua efetiva utilização. 
+Essas ferramentas constituíram-se novidades para a maioria dos membros da equipe, tendo sido necessário um grande esforço de aprendizado, para sua efetiva utilização. 
 A equipe trabalhou com grande colaboração entre si, enfatizando que foi construído um modelo base e inicial, pelo integrante Fábio, que permitiu o desenvovimento inicial das demais páginas da aplicação, pelo restante da equipe.
 Foram implementadas as Telas Inicial, Cadastro, Login de Usuário e Recuperação de Senha, Tela de Contato e Privacidade, FAQ, Sobre o aplicativo CCD. Todas essas telas são relativas ao Requisito Funcional RF-01 de alta prioridade para a funcionalidade do aplicativo.
 Nesse processo e baseado nos protótipos já planejados na etapa anterior, as atividades foram distribuídas entre os membros da equipe, que facilitou a obtenção do produto final, até essa etapa.
@@ -209,11 +209,11 @@ a. Tela Home: Enzo e Márcia;
 
 b. Tela Sobre: Márcia;
 
-c. Tela Contato: Caio;
+c. Tela Contato: Caio e Fábio;
 
 d. Tela Privacidade: Caio;
 
-e. Tela FAQ: Márcia e Rodrigo;
+e. Tela FAQ: Márcia;
 
 f. Tela Cadastro de Usuário: Fábio;
 
@@ -226,6 +226,7 @@ i. GitHub - textos e atualizações: Márcia;
 j. Correções e Revisões gerais (Programação e GitHub): Márcia, Fábio, Enzo, Caio, André e Rodrigo.
 
 
+Foi planejado o template padrão do projeto, que irá aparecer nas páginas do projeto, com um menu de contexto, no canto superior direito, um menu de navegação geral no rodapé, e conteúdo centralizado na página. Optamos por utilizar, inicialmente, a fonte Time News Roman, cor branca, para os botões de menus, e fonte Serif, cor preta, para os textos das páginas. Os botões de menus, tanto de contexto e navegação geral, são da cor azul.
 
 
 *3.3 Evidências:*
