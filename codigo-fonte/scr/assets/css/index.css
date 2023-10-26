@@ -1,0 +1,239 @@
+@charset "UTF-8";
+* {                                          /* Propriedades que se aplicam a todos os elementos da página. */
+	margin: 0;                            /* Remove a margem externa de todos os lados do elemento. */
+	padding: 0;                           /* Remove o espaçamento interno de todos os lados do elemento. */
+	box-sizing: border-box;               /* Inclui o preenchimento e a borda na largura e altura. */
+}
+
+
+/*--CSS do corpo da página--*/
+body {
+	font-family: Arial, sans-serif; /*novo*/
+	display: flex;                                  /* Torna o elemento um flex container */
+	flex-wrap: wrap;                                /* Junção de flex-grow(Crescer), flex-shrink(redução) e flex-basis(tamanho original). */
+	flex: 1 1 100vw;
+	margin: 0px;                                    /* Margem de todos os lados. */
+	background-image: url("../img/ImagemDeFundo.jpg");       /* Mudar Imagem de fundo */
+	background-repeat: no-repeat;                   /* Não repetir a imagem de fundo */
+	background-size: cover;                         /* Cover: adapta a imagem para acompanhar a responsividade da imagem de fundo */
+	background-position: center;                    /* Centraliza o meio da imagem com background */
+	background-attachment: fixed;                   /* Faz com que o background permaneça fixo enquanto a página é rolada */
+	height: 100vh;                  /*novo*/        /* Ajusta para que o corpo complete a pagina*/
+	min-height: 100vh;              /*novo*/
+
+}
+
+
+header, nav, main, footer {             /* Formatação comum entre os elementos. */
+	display: flex;                        /* Torna o elemento um flex container */
+	margin: 3px;                          /* Margem externa de todos os lados. */
+}
+
+
+
+
+/* ---------Seletores para formatação individual---------- */
+
+
+/*--CSS do Container Do Cabeçalho--*/
+header {                                                                                
+	height: 100px;                          /* Mudar altura do elemento. */
+	flex: 1 1 100vw;                        /* Junção de flex-grow(Crescer), flex-shrink(redução) e flex-basis(tamanho original). */
+}
+/*--Css do logo--*/
+header #logo {                          
+	display: flex;                          /* Exibição flexível. */
+	flex: 0 1 auto;                         /* Junção de flex-grow, flex-shrink e flex-basis. */
+	justify-content: flex-start;            /* Alinha os itens na vertical. */
+	align-items: center;                    /* Alinha os itens na horizontal. */
+}
+/*--CSS do container de links (Login e cadastro)--*/
+#menu {                                  
+    justify-content: flex-end;               /* Alinhar à direita */
+}
+/*--CSS dos Links (cadastro e login)--*/
+header #menu a {                         
+    margin-left: 25px;
+	margin: 10px;
+	justify-content: flex-start;
+}
+/*--Imagem CCD do canto esquerdo--*/
+header #logo img {                       
+	max-width: 200px;
+	height: auto;              /* Mantém a proporção da imagem */
+}
+
+
+/*--Estilos para o botão de menu (aberto e fechado)--*/
+#openMenu, #closeMenu {
+	font-size: 25px;
+	font-weight: bold;
+	background-color: #ff0000;             /* Cor de fundo do botão */
+	color: white;                          /* Cor do texto do botão */
+	border: none;                            /* Margem ao redor do elemento*/
+	padding: 0px 5px 0px 5px;                /* (superior, direito, inferior e esquerdo) */
+	border-radius: 5px;                      /* Cantos arredondados */
+	cursor: pointer;                         /* Muda o cursor do mouse para ponteiro.*/
+	display: none;                           /* Oculta o elemento. */
+}
+  
+#openMenu:hover, #closeMenu:hover {
+	background-color: #0056b3; /* Cor de fundo quando passa o mouse */
+}
+
+/*CSS dos Botoes: SOBRE, RECUPERAR SENHA*/
+#menu a {
+    text-align: center;                /* Alinha o texto à direita */
+    margin-left: 10px;                 /* Adicione margem à esquerda para criar espaçamento de 10px */
+    background-color: #0261df;       /* Mudar Cor do fundo dos Botões*/
+    color: white;                    /* Mudar Cor do Texto Dos Botões*/
+    border: none;
+    padding: 10px 15px;                /* Tamanho do Background dos botões (Largura e Altura)*/
+    border-radius: 5px;                /* Mudar o quão arredondado é a borda*/
+    text-decoration: none;             /* Mudar decoração do texto*/
+}
+/*Quando o mouse passar em cima de: SOBRE, RECUPERAR SENHA*/
+#menu a:hover {
+    background-color: #013983;      /* Mudar a cor de fundo*/
+}
+
+nav {
+	justify-content: center;  /* Alinha os itens na vertical. */
+	align-items: center;      /* Alinha os itens na horizontal. */
+	flex: 1 1 200px;          /* Junção de flex-grow, flex-shrink e flex-basis. */
+}
+/*contem cadastro login e os paragrafos*/
+main {
+    min-height: 100px;          /* Ajuste conforme necessário */
+    display: flex;              /* Torna a <main> um container flexível */
+    flex-direction: column;     /* Define a direção dos elementos filhos como coluna (vertical) */
+    justify-content: center;    /* Centraliza verticalmente os elementos filhos */
+    align-items: center;        /* Centraliza horizontalmente os elementos filhos */
+    margin: 0 auto;             /* Define margens automáticas entre cabeçalho e rodapé */
+    text-align: center;         /* Centraliza o texto dentro da <main> */
+
+
+	background-color: rgb(199, 165, 238, 0.2);      /*novo*/
+	padding: 20px;                                    /*novo*/
+    border-radius: 10px;                              /*novo*/
+    box-shadow: 0 0 10px #0000001a;                 /*novo*/
+}
+
+/* Estilo para os parágrafos */
+#paragrafos p {
+    font-size: 26px; /* Define o tamanho da fonte para o texto dentro de <main> */
+    margin-bottom: 10px; /* Adiciona espaço vertical entre os parágrafos */
+    text-align: center; /* Centraliza o texto horizontalmente */
+}
+/* Estilo para os botões */
+ul#button {
+    list-style-type: none; /* Remove a marcação de lista */
+    padding: 50px; /* Remove o espaço interno da lista */
+}
+ul#button li {
+    margin-bottom: 10px; /* Adiciona espaço vertical entre os botões */
+}
+/* Estilo para os links dos botões */
+ul#button a {
+    display: block;               /* Transforma os links em blocos, fazendo-os ficar um abaixo do outro */
+    text-decoration: none;        /* Remove a decoração padrão dos links */
+    background: linear-gradient(to right, #ff3c00, #bb0000);  /* Define uma cor de fundo para os botões */
+    color: white;               /* Define a cor do texto dos botões */
+    padding: 10px 30px;           /* Adiciona espaço interno aos botões */
+    border-radius: 5px;           /* Adiciona cantos arredondados aos botões */
+	width: 100%;                  /* Faz o texto ocupar todo o espaço horizontal disponível */
+    text-align: center;           /* Centraliza o texto horizontalmente */
+	align-items: center;
+}
+/* Estilo para tornar os links dos botões responsivos em hover (quando passar o mouse) */
+ul#button a:hover {
+    background: linear-gradient(to right, #c70000, #5e0101); /* Altera a cor de fundo em hover */
+}
+
+
+
+footer {
+	/*height: 100px;               Altura do elemento. */
+	flex: 1 1 100vw; 			/* Junção de flex-grow, flex-shrink e flex-basis. */
+	justify-content: center;    /* Centraliza horizontalmente */
+	align-items: center;        /* Centraliza verticalmente */
+	margin-top: auto; /*novo*/  /* Coloca um espaçamento no topo do footer para ele ficar preenchido em baixo da pagina*/
+}
+footer a {
+	display: inline-block;
+	font-size: 15px;
+	padding: 10px 20px;
+	background-color: #ff0000;           /* Cor de fundo do botão */
+	color: white;                        /* Cor do texto do botão */
+	text-decoration: none;                 /* Remover sublinhado do link */
+	margin: 5px;                           /* Espaçamento entre os botões */
+	border: 2px solid #d80000;           /* Adiciona uma borda sólida à volta do botão */
+	border-radius: 5px;                    /* Cantos arredondados */
+	text-align: center;                    /* Centraliza o texto */
+}
+footer a:hover {
+	background-color: #0056b3;           /* Cor de fundo quando passa o mouse */
+	border-color: #0056b3;               /* Cor da borda quando passa o mouse */
+}
+/* Estilize o elemento de menu do footer como vertical */
+#footerMenu {
+    display: flex;
+    justify-content: center;               /* Centralize os elementos verticalmente */
+    align-items: center;                   /* Centralize os elementos horizontalmente */
+    list-style: none;                      /* Remova os marcadores de lista */
+    padding: 3px;                          /* Remova o preenchimento padrão da lista */
+}
+/* Estilize os itens do menu do footer (links) */
+#footerMenu li {
+    margin: 50px 10px;                     /* Adicione margens para separar os links */
+    font-size: 20px;
+}
+/* Estilize os links no menu do footer */
+#footerMenu a {
+    text-decoration: none;                 /* Remova sublinhados dos links */
+    color: white;                        /* Defina a cor do texto */
+}
+
+
+
+
+
+/* Altera o estilo dos elementos para serem apresentados */
+/* em telas menores que 717px. */
+@media only screen and (max-width: 717px) {
+	#openMenu, #closeMenu {
+	  	display: block;
+	}
+  
+	#openMenu {
+	  	margin-left: auto;
+	}
+  
+	#closeMenu {
+	  	position: fixed;
+	  	right: 15px;
+	  	top: 15px;
+	}
+  
+	nav {
+	  	position: fixed;
+	  	width: 100vw;
+	  	height: 100vh;
+	  	background: rgba(255, 255, 255, 0.8);
+	  	flex-direction: column;
+	  	align-items: center;
+	  	justify-content: center;
+	  	margin: 0;
+	  	display: none;
+	  	opacity: 0;
+	  	transition: 0.3s;
+	}
+
+	#menu {
+		justify-content: center; /* Alinhar à direita */
+	}
+
+	footer {
+		display: flex;
+	}
+}
