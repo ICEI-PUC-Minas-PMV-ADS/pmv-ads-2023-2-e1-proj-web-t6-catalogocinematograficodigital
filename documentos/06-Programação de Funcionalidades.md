@@ -4,7 +4,7 @@ Implementação da aplicação descritas por meio dos requisitos codificados.
 
 *Etapa 3* (_Sprint 3_):
 
-### Cadastro de usuário
+## Título da Funcionalidade: Cadastro de usuário
 Tela inicial: 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t6-catalogocinematograficodigital/assets/95872126/5a147d27-b3b9-4e6f-bdf7-db80d5b277ee)
 
@@ -22,17 +22,35 @@ Tela usuário:
 RF-01: Permitir que os usuários criem e mantenham contas individuais; Coletar dados de usuário, como nome, senha, endereço de e-mail, etc.
 
 #### Artefatos da funcionalidade
-Os arquivos que correspondem a funcionalidade de cadastro estão presentes na pasta código-fonte, sendo eles: 
-cadastro.html, cadastro.css, cadastro.js, login.html, login.css, login.js, telausuario.html, telausuario.css e telausuario.js.
+Os arquivos que correspondem à funcionalidade de cadastro estão presentes na pasta código-fonte, são eles: 
+- cadastro.html,
+- cadastro.css,
+- cadastro.js,
+- login.html,
+- login.css,
+- login.js,
+- telausuario.html,
+- telausuario.css e
+- telausuario.js.
 
 #### Estrutura de Dados
 
-Os dados que estão sendo salvos no localStorage que possibilitam o cadastro e login são:
-nomeCadastrado, apelidoCadastrado, emailCadastrado, senhaCadastrado e token
+Os dados que estão sendo salvos no localStorage que possibilitam o cadastro e login, apresentando a seguinte estrutura de dados:
+- nomeCadastrado, 
+- apelidoCadastrado, 
+- emailCadastrado, 
+- senhaCadastrado e 
+- token
 
 #### Instruções de acesso
 
-Na página inicial, usuário clica em "Cadastre-se" ou "Crie sua conta". Na tela de cadastro, irá preencher todos os campos, sendo que as validações são feitas assim que usuário preenche e sai do campo. Cadastrado, irá automaticamente para a tela de login. Lá preencherá os dados usando ou o apelido ou o email cadastrado e a senha. 
+Para o usuário utilizar o aplicativo CCD, deve, basicamente, seguir os seguintes passos:
+- A partir da página inicial, usuário clica em "Cadastre-se" ou "Crie sua conta".
+- Na tela de cadastro, irá preencher todos os campos. São realizadas as devidas validações, logo que o usuário preenche cada campo.
+- Após realizar o Cadastro, será dirigido, automaticamente, para a tela de Login. Nessa tela, deverá preencher os dados, podendo utilizar o apelido ou o email cadastrado, seguido da senha.
+- Caso necessite, o usuário poderá acessar a informações de FAQ (Perguntas frequentes do aplicativo), Termos e Condições de Uso, Política de Privacidade e requisitar Contato com suporte da página, disponibilizados em botões no Menu do Rodapé, constante nas páginas do aplicativo.
+
+As telas de acesso, referenciadas, estão ilustradas acima, no início dessa Sessão.
 
 #### Responsáveis
 
