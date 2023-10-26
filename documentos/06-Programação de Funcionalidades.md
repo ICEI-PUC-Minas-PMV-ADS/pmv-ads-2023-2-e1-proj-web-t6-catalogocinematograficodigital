@@ -54,7 +54,7 @@ As telas de acesso, referenciadas, estão ilustradas acima, no início dessa Ses
 
 #### Responsáveis
 
-Fábio Barros e Enzo Wilker.
+Fábio Barros, Enzo Wilker, Márcia Miranda, Caio Costa.
 
 
 
