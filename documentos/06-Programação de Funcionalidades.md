@@ -46,8 +46,8 @@ Os dados que estão sendo salvos no localStorage que possibilitam o cadastro e l
 
 Para o usuário utilizar o aplicativo CCD, deve, basicamente, seguir os seguintes passos:
 - A partir da página inicial, usuário clica em "Cadastre-se" ou "Crie sua conta".
-- Na tela de cadastro, irá preencher todos os campos. São realizadas as devidas validações, logo que o usuário preenche cada campo.
-- Após realizar o Cadastro, será dirigido, automaticamente, para a tela de Login. Nessa tela, deverá preencher os dados, podendo utilizar o apelido ou o email cadastrado, seguido da senha.
+- Na Tela de Cadastro, irá preencher todos os campos disponíveis na página. São realizadas as devidas validações, logo que o usuário preencher cada campo.
+- Após realizar o Cadastro, será dirigido, automaticamente, para a Tela de Login. Nessa tela, deverá preencher os dados, podendo utilizar o apelido ou o email cadastrado, seguido da senha.
 - Caso necessite, o usuário poderá acessar a informações de FAQ (Perguntas frequentes do aplicativo), Termos e Condições de Uso, Política de Privacidade e requisitar Contato com suporte da página, disponibilizados em botões no Menu do Rodapé, constante nas páginas do aplicativo.
 
 As telas de acesso, referenciadas, estão ilustradas acima, no início dessa Sessão.
