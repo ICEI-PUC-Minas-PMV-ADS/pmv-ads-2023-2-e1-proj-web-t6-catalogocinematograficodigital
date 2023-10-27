@@ -157,7 +157,7 @@ footer {
 	flex: 1 1 100vw; 			/* Junção de flex-grow, flex-shrink e flex-basis. */
 	justify-content: center;    /* Centraliza horizontalmente */
 	align-items: center;        /* Centraliza verticalmente */
-	margin-top: auto; /*novo*/  /* Coloca um espaçamento no topo do footer para ele ficar preenchido em baixo da pagina*/
+	margin-top: auto; /*novo*/  /* Coloca um espaçamento no topo do footer para ele ficar em baixo da pagina*/
 }
 footer a {
 	display: inline-block;
@@ -172,8 +172,8 @@ footer a {
 	text-align: center;                    /* Centraliza o texto */
 }
 footer a:hover {
-	background-color: #0056b3;           /* Cor de fundo quando passa o mouse */
-	border-color: #0056b3;               /* Cor da borda quando passa o mouse */
+	background-color: #d10000;           /* Cor de fundo quando passa o mouse */
+	border-color: #bd0101;               /* Cor da borda quando passa o mouse */
 }
 /* Estilize o elemento de menu do footer como vertical */
 #footerMenu {
