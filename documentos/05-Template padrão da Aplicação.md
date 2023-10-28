@@ -20,14 +20,14 @@ Figura 1 - Layout modelo do projeto
 
 ![11-Tela Login-Etapa 3](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t6-catalogocinematograficodigital/assets/145228139/203c7e09-86ac-4bac-be99-4aecd13c248f)
 
-Figura 2 - Tela de Login do aplicativo CDC
+Figura 2 - Tela de Login do aplicativo CCD
 
 
 Para a Tela de Login (Figura 2 acima), pensou-se, inicialmente, na necessidade de cadastrar o Usuário e a Senha de acesso.  Como a implementação consiste em uma ferramenta Front End, foi implementado um código javascript para armazenar os dados do cadastro no localstorage.
   
 ![9-Tela Home- Etapa 3](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t6-catalogocinematograficodigital/assets/145228139/e2ff8241-23c8-44f6-a982-f987db8068ee)
 
-Figura 3 - Tela Inicial do aplicativo CDC
+Figura 3 - Tela Inicial do aplicativo CCD
 
 O código HTML do projeto pode ser encontrado em:
 
