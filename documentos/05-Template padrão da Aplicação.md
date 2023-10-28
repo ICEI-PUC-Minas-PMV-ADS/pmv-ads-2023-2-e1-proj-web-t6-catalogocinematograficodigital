@@ -31,7 +31,7 @@ Figura 3 - Tela Inicial do aplicativo CDC
 
 O código HTML do projeto pode ser encontrado em:
 
-https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t6-catalogocinematograficodigital/tree/main/codigo-fonte
+https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t6-catalogocinematograficodigital/tree/main/codigo-fonte/src/pages
 
 O Código CSS pode ser encontrado em:
 
