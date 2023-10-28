@@ -17,4 +17,4 @@ A equipe também deverá gravar um vídeo de, no máximo, três minutos, com a a
 
 ## Hospedagem
 
-[[Catalogo Cinematográfico Digital.]](https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2023-2-e1-proj-web-t6-catalogocinematograficodigital/codigo-fonte/src/pages/index.html)https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2023-2-e1-proj-web-t6-catalogocinematograficodigital/codigo-fonte/src/pages/index.html
+[[Catalogo Cinematográfico Digital.]](https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2023-2-e1-proj-web-t6-catalogocinematograficodigital/codigo-fonte/src/pages/index.html)
