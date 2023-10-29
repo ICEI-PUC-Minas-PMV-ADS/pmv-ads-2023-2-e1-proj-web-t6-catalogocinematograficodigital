@@ -81,13 +81,12 @@ header #logo {
 }
 
 header #menu a {
-    margin-left: 25px;
+  margin-left: 25px;
 	margin: 10px;
 	justify-content: flex-start;
 	font-size: 20px;
 	font-family: serif,  sans-serif, "Times New Roman";
 	text-decoration:none;
-	
 }
 
 header #logo img {
@@ -153,8 +152,8 @@ main {
     align-items: center; /* Centraliza horizontalmente os elementos filhos */
     margin: 0 auto; /* Define margens automáticas entre cabeçalho e rodapé */
     text-align: center; /* Centraliza o texto dentro da <main> */
-	background-color: rgb(199, 165, 238, 0.2);      /*plano de fundo*/
-	padding: 20px;                                    
+  	background-color: rgb(199, 165, 238, 0.2);      /*plano de fundo*/
+	  padding: 20px;                                    
     border-radius: 10px;                              
     box-shadow: 0 0 10px #0000001a;                 /*sombra ao plano de fundo*/
 }

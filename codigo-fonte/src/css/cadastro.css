@@ -1,4 +1,6 @@
+
 @charset "UTF-8";
+
 /* Propriedades que se aplicam a todos os elementos da página. */
 * {
 	/* Remove a margem externa de todos os lados do elemento. */
@@ -28,6 +30,7 @@ body {
 
 	/* Imagem de fundo */
 	background-image: url("../img/ImagemDeFundo.jpg");
+
 	/* Não repetir a imagem de fundo */
 	background-repeat: no-repeat;
 	/* Cover: adapta a imagem para acompanhar a responsividade da imagem de fundo */
@@ -41,6 +44,7 @@ body {
 	min-height: 100vh;              
 	/* --Fonte dos textos do website--*/
 	font-family: 'Poppins', sans-serif; 
+
 }
 
 /* Formatação comum entre os elementos. */
@@ -83,6 +87,9 @@ header #logo {
 header a {
 	font-size: 20px;
 	font-family: serif,  sans-serif, "Times New Roman";
+
+	font-style: italic;
+
 	text-decoration:none;
 	color: #000;
 }
@@ -196,9 +203,10 @@ form {
     width: 500px; /* Define a largura do <form> como 100% da largura do container pai */
     margin-top: 50px;
     background-color: rgb(199, 165, 238, 0.2);      /*plano de fundo*/
-	padding: 20px;                                    
+	  padding: 20px;                                    
     border-radius: 10px;                              
     box-shadow: 0 0 10px #0000001a;                 /*sombra ao plano de fundo*/
+
 }
 
 /* Define uma margem superior de 10 pixels para os elementos <label>. Isso cria um espaço entre o elemento anterior e o rótulo. */
@@ -226,6 +234,7 @@ input {
 	font-size: 15px;
 	color: rgb(0, 0, 0);
 	transition: all 0.4s ease;
+
 }
 
 /* Estiliza o botão com um preenchimento interno de 10 pixels, fundo azul (#007bff), texto branco (#fff), sem borda, borda arredondada de 5 pixels e cursor de apontar. */
@@ -243,11 +252,11 @@ button {
 /* Define o estilo do botão quando o cursor está sobre ele. Neste caso, muda a cor de fundo para um tom mais escuro de azul (#0056b3). */
 button:hover {
 	background: linear-gradient(to right, #c70000, #5e0101); /* Altera a cor de fundo em hover */
+
 }
 
 footer {
 	/* Altura do elemento. */
-	/*height: 100%;*/
 	/* Junção de flex-grow, flex-shrink e flex-basis. */
 	/* flex-grow – Habilidade de um flex item crescer. */
 	/* flex-shrink - Capacidade de redução do item. */
@@ -256,6 +265,7 @@ footer {
 	justify-content: center; /* Centraliza horizontalmente */
 	align-items: center; /* Centraliza verticalmente */
 	margin-top: auto; /*novo*/  /* Coloca um espaçamento no topo do footer para ele ficar em baixo da pagina*/
+
 }
 
 footer a {

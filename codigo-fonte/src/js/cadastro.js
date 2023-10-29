@@ -151,7 +151,6 @@ submitButton.addEventListener("click", function cadastrar(e) {
         //ir para a página login diretamente, porém com um delay de 1 segundos
         setTimeout(()=> {
             window.location.href="login.html"
-            
         }, 1000);	
     } else { //quando algum campo está incorreto
         naoCadastrado.setAttribute("style", "display: block");
