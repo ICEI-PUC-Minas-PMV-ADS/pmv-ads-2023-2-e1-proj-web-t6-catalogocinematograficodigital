@@ -141,7 +141,7 @@ Figura 5 – Kanban da Etapa 1
 
 *2.1 Planejamento:*
 
-Nessa etapa, estavam planejadas a descrição da metodologia, com as definições dos papeis atribuídos a cada membro da equipe (segundo a metodologia SCRUM) a ser desenvolvida no projeto,  as ferramentas utilizadas durante essas etapas e o desenho do Fluxo dos Usuário e os protótipos das interfaces a serem construídas.
+O planejamento dessa etapa consistiu da descrição da metodologia, com as definições dos papeis atribuídos a cada membro da equipe (segundo a metodologia SCRUM) a ser desenvolvida no projeto,  as ferramentas utilizadas durante essas etapas e o desenho do Fluxo dos Usuário e os protótipos das interfaces a serem construídas.
 
 
 *2.2 Execução:*
@@ -189,16 +189,18 @@ Figura 6- Kanban da Etapa 2 - Atividades Executadas
 
 *3.1 Planejamento:*
 
-Nessa etapa, estavam planejadas os Templates da Aplicação, baseados nos Fluxos de Usuários e Telas da interface, além dos protótipos já planejados anteriormente, a programação das funcionalidades de mais elevada prioridade, em HTML, CSS e Javascript, que são as ferramentas utilizadas e necessárias durante essa etapa. 
+O planejamento dessa etapa consistiu dos Templates da Aplicação, baseados nos Fluxos de Usuários e Telas da interface, além dos protótipos já planejados anteriormente, a programação das funcionalidades de mais elevada prioridade, em HTML, CSS e Javascript, que são as ferramentas utilizadas e necessárias durante essa etapa. Para essa etapa, foi planejado a implemenação do Requisito Funcional RF-01: Cadastro do Usuário.
 
 
 *3.2 Execução:*
 
-A equipe realizou reuniões semanais, compartilhando o aprendizado nas ferramentas necessárias para essa etapa: HTML, CSS e Javascript. Essas ferramentas são utilizadas para os seguintes objetivos: o HTML é utilizada na programação para estruturar o conteúdo da página web do projeto; o CSS é uma linguagem de estilo usada para controlar a apresentação e o layout do conteúdo HTML; JavaScript é uma linguagem de programação que permite adicionar interatividade e dinamismo às páginas web. 
+A equipe realizou reuniões semanais, definindo o Requisito Funcional RF-01: Cadastro do Usuário, a ser implementado nessa etapa. 
+Houve o compartilhamento do aprendizado nas ferramentas necessárias para essa etapa: HTML, CSS e Javascript, entre os membros da equipe. Essas ferramentas são utilizadas para os seguintes objetivos: o HTML é utilizada na programação para estruturar o conteúdo da página web do projeto; o CSS é uma linguagem de estilo usada para controlar a apresentação e o layout do conteúdo HTML; JavaScript é uma linguagem de programação que permite adicionar interatividade e dinamismo às páginas web. 
 
-Essas ferramentas constituíram-se novidades para a naioria dos membros da equipe, tendo sido necessário um grande esforço de aprendizado, para sua efetiva utilização. 
-A equipe trabalhou com grande colaboração entre si, enfatizando que foi construído um modelo base e inicial, pelo integrante Fábio, que permitiu o desenvovimento inicial de algumas páginas da aplicação.
-O Requisitos Funcionais de mais alta prioridade foram implementados. Nesse processo e baseado nos protótipos já planejados na etapa anterior, as atividades foram distribuídas entre os membros da equipe, que facilitou a obtenção do produto final, até essa etapa.
+Essas ferramentas constituíram-se novidades para a maioria dos membros da equipe, tendo sido necessário um grande esforço de aprendizado, para sua efetiva utilização. 
+A equipe trabalhou com grande colaboração entre si, enfatizando que foi construído um modelo base e inicial, pelo integrante Fábio, que permitiu o desenvovimento inicial das demais páginas da aplicação, pelo restante da equipe.
+Foram implementadas as Telas Inicial, Cadastro, Login de Usuário e Recuperação de Senha, Tela de Contato e Privacidade, FAQ, Sobre o aplicativo CCD. Todas essas telas são relativas ao Requisito Funcional RF-01 de alta prioridade para a funcionalidade do aplicativo.
+Nesse processo e baseado nos protótipos já planejados na etapa anterior, as atividades foram distribuídas entre os membros da equipe, que facilitou a obtenção do produto final, até essa etapa.
 
 Os modelos-base das especificações no CSS foram construídos e disponibilizados por Fábio, a partir do qual os demais membros desenvolveram suas tarefas.
 As tarefas, nessa etapa, foram assim distribuídas:
@@ -207,11 +209,11 @@ a. Tela Home: Enzo e Márcia;
 
 b. Tela Sobre: Márcia;
 
-c. Tela Contato: Caio;
+c. Tela Contato: Caio e Fábio;
 
 d. Tela Privacidade: Caio;
 
-e. Tela FAQ: Márcia e Rodrigo;
+e. Tela FAQ: Márcia;
 
 f. Tela Cadastro de Usuário: Fábio;
 
@@ -224,7 +226,9 @@ i. GitHub - textos e atualizações: Márcia;
 j. Correções e Revisões gerais (Programação e GitHub): Márcia, Fábio, Enzo, Caio, André e Rodrigo.
 
 
+Foi planejado o template padrão do projeto, que irá aparecer nas páginas do projeto, com um menu de contexto, no canto superior direito, um menu de navegação geral no rodapé, e conteúdo centralizado na página. Optamos por utilizar, inicialmente, a fonte Time News Roman, cor branca, para os botões de menus, e fonte Serif, cor preta, para os textos das páginas. Os botões de menus, tanto de contexto e navegação geral, são da cor azul.
 
+Ademais, a equipe se focou na construção, desde a fase de planejamento até a execução, de um padrão de responsividade, pelo programa, que fosse congruente com as necessidades dos usuários, já desenvolvendo a visualização dos elementos do programa para o desktop, o tablet e dispositivos móveis. Tais funcionalidades foram desenvolvidas, revisadas e aprimoradas do decorrer da fase de revisão do sprint. 
 
 *3.3 Evidências:*
 
@@ -242,9 +246,9 @@ Figura 2 - Encontro da equipe para compartilhar tarefas já executadas, dúvidas
 
 Figura 3 - Imagem de tela do Visual Studio - programação da tela SOBRE do aplicativo do projeto.
 
-![6-Tela de Cadastro](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t6-catalogocinematograficodigital/assets/145228139/dd41f6f9-3a4c-4d14-a7b4-72ce6992b329)
+![15-Telas Home e Cadastro-Etapa 3](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t6-catalogocinematograficodigital/assets/145228139/1ce7a8e3-98cf-4c95-adec-0dd261fe1e57)
 
-Figura 4 - Tela do Cadastro do Aplicativo CCD
+Figura 4 - Tela Home e Tela de Cadastro do Aplicativo CCD
 
 ![8-Kanban-desenvolvimento Etapa 3](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t6-catalogocinematograficodigital/assets/145228139/22c1f6cd-ddbb-4537-bfcc-3897d92e00fa)
 
@@ -271,9 +275,9 @@ Os artefatos do projeto são desenvolvidos a partir de diversas plataformas e a 
 | Comunicação da equipe               | WhatsApp                           | web.whatsapp.com                            |
 | Documentação                        | Google Docs                        | https://docs.google.com/document/d/1lkpPL_6YgQeaid9MN030_8_PmYDyrqd1/edit?usp=sharing&ouid=117692585368807082873&rtpof=true&sd=true                       |
 | Protótipo/Fluxo do usuário projeto  | Whimsical                          |  https://whimsical.com/cdu-versao-final-J7Y4yxEUrtedgVnK9AiDs5               |
-| linguagem para estruturar o conteúdo da página web  | HTML                          |  https://...                           |
-|  linguagem de estilo para controlar a apresentação e o layout do conteúdo HTML  | CSS                          |  https://...                           |
-|  linguagem de programação que permite interatividade e dinamismo às páginas web  | JAVASCRIPT                          |  https://...                   |
+| linguagem para estruturar o conteúdo da página web  | HTML                          |                            |
+|  linguagem de estilo para controlar a apresentação e o layout do conteúdo HTML  | CSS                          |                            |
+|  linguagem de programação que permite interatividade e dinamismo às páginas web  | JAVASCRIPT                          |                     |
 |  linguagem de programação que permite interatividade e dinamismo às páginas web  | Visual Studio                       |  https://code.visualstudio.com   |
 
 

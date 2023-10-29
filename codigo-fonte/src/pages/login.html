@@ -1,0 +1,82 @@
+<!-- Indica que o documento é um arquivo HTML. -->
+<!DOCTYPE html>
+
+<!-- Define a linguagem do conteúdo da página. -->
+<html lang="pt-br">
+
+<!-- Armazena informações sobre a página. -->
+<head>
+
+	<!-- Conjunto de caracteres que contém acentuação e ç. -->
+	<meta charset="utf-8">
+
+	<!-- Configuração da janela de visualização ( responsividade ). -->
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+	<!-- Importação do arquivo CSS. -->
+	<link rel="stylesheet" type="text/css" href="../css/login.css">
+	<!-- Importação do arquivo JavaScript. -->
+	<script type="text/javascript" src="../js/login.js" defer></script>
+	<!-- Título da aba do navegador -->
+	<title>LOGIN - CCD</title>
+</head>
+
+<!-- Conteúdo apresentado na tela. -->
+<body>
+
+	<!-- Agrupa os elementos que compõe o cabeçalho. -->
+	<header>
+		<a href="./index.html" id="logo">
+			<img src="../img/logo.png" alt="logo">
+			<p>Catálogo Cinematográfico Digital</p>
+		</a>
+
+		<button id="openMenu">&#9776;</button>
+
+		<!-- Agrupa links de navegação no site. -->
+		<nav id="menu">
+			<button id="closeMenu">X</button>
+
+			<a href="./cadastro.html">CADASTRE-SE</a>
+			<a href="./login.html">LOGIN</a>
+			<a href="./sobre.html">SOBRE</a>
+		</nav>
+	</header>
+
+	<!-- Agrupa o conteúdo principal da página ou aplicação. -->
+	<main>
+		
+    	<form id="loginForm">
+			<div id="cadastrado"></div>
+			<h1>Login</h1>
+			<div id="naoCadastrado"></div>
+        	<div>
+            	<label for="apelidoOuEmail">Apelido ou E-mail:</label>
+            	<input type="text" id="apelidoOuEmail" required>
+        	</div>
+       	 	<div>
+            	<label for="senha">Senha:</label>
+            	<input type="password" id="senha" required>
+        	</div>
+			
+        	<div id="loginError" style="color: red;"></div>
+        	
+			<button type="submit" id="loginButton">Entrar</button>
+
+    	</form>
+		
+	</main>
+
+	<!-- Agrupa itens no rodapé -->
+	<footer>
+		<ul id="footerMenu">
+			<li><a href="faq.html">FAQ</a></li>
+			<li><a href="contato.html">CONTATO</a></li>
+			<li><a href="termos.html">TERMOS</a></li>
+			<li><a href="privacidade.html">PRIVACIDADE</a></li>
+		</ul>
+	</footer>
+
+	
+</body>
+</html>
