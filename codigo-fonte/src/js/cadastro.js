@@ -148,12 +148,10 @@ submitButton.addEventListener("click", function cadastrar(e) {
         cadastrado.innerText = "Usuário  Cadastrado";
         naoCadastrado.innerText = "";
         naoCadastrado.setAttribute("style", "display:none");
-        //apagar os campos
-        quadro.reset();
-        //ir para a página login diretamente, porém com um delay de 2 segundos
+        //ir para a página login diretamente, porém com um delay de 1 segundos
         setTimeout(()=> {
-            window.location.href="./login.html"
-        }, 2000);	
+            window.location.href="login.html"
+        }, 1000);	
     } else { //quando algum campo está incorreto
         naoCadastrado.setAttribute("style", "display: block");
         naoCadastrado.innerText = "Erro, campo preenchido incorretamente";
