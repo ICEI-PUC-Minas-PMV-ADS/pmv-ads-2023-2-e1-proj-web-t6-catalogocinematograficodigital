@@ -26,7 +26,7 @@ body {
 	margin: 0px;
 
 	/* Imagem de fundo */
-	background-image: url("../img/home.jpg");
+	background-image: url("../img/ImagemDeFundo.jpg");
 	/* Não repetir a imagem de fundo */
 	background-repeat: no-repeat;
 	/* Cover: adapta a imagem para acompanhar a responsividade da imagem de fundo */
@@ -35,6 +35,8 @@ body {
 	background-position: center;
 	/* Faz com que o background permaneça fixo enquanto a página é rolada */
 	background-attachment: fixed;
+	/* --Fonte dos textos do website--*/
+	font-family: 'Poppins', sans-serif; 
 }
 
 /* Formatação comum entre os elementos. */
@@ -82,7 +84,9 @@ header #menu a {
     margin-left: 25px;
 	margin: 10px;
 	justify-content: flex-start;
-	
+	font-size: 20px;
+	font-family: serif,  sans-serif, "Times New Roman";
+	text-decoration:none;	
 }
 
 header #logo img {
@@ -147,17 +151,21 @@ main {
     align-items: center; /* Centraliza horizontalmente os elementos filhos */
     margin: 0 auto; /* Define margens automáticas entre cabeçalho e rodapé */
     text-align: center; /* Centraliza o texto dentro da <main> */
+	  background-color: rgb(199, 165, 238, 0.2);      /*plano de fundo*/
+	  padding: 20px;                                    
+    border-radius: 10px;                              
+    box-shadow: 0 0 10px #0000001a;                 /*sombra ao plano de fundo*/
 }
 
 /* Estilo para os parágrafos */
 #paragrafos p {
     font-size: 26px; /* Define o tamanho da fonte para o texto dentro de <main> */
-    margin-bottom: 0; /* 0 tira o espaço vertical entre os parágrafos */
+    margin-bottom: 10px; /* 0 tira o espaço vertical entre os parágrafos */
     text-align: center; /* Centraliza o texto horizontalmente */
 }
 
 #p1 {
-margin-top: 8vw;
+    margin-top: 3vw;
 }
 
 
@@ -165,7 +173,7 @@ margin-top: 8vw;
 /* Estilo para os botões */
 ul#button {
     list-style-type: none; /* Remove a marcação de lista */
-    padding: 50px; /* distancia entre o botão e o texto */
+    padding: 30px; /* distancia entre o botão e o texto */
 }
 
 ul#button li {
@@ -174,20 +182,20 @@ ul#button li {
 
 /* Estilo para os links dos botões */
 ul#button a {
-    display: block; /* Transforma os links em blocos, fazendo-os ficar um abaixo do outro */
-    text-decoration: none; /* Remove a decoração padrão dos links */
-    background-color: #007bff; /* Define uma cor de fundo para os botões */
-    color: white; /* Define a cor do texto dos botões */
-    padding: 10px 30px; /* Adiciona espaço interno aos botões */
-    border-radius: 5px; /* Adiciona cantos arredondados aos botões */
-	width: 100%; /* Faz o texto ocupar todo o espaço horizontal disponível */
-    text-align: center; /* Centraliza o texto horizontalmente */
-	align-items: center;
+    display: block;               /* Transforma os links em blocos, fazendo-os ficar um abaixo do outro */
+    text-decoration: none;        /* Remove a decoração padrão dos links */
+    background: linear-gradient(to right, #ff3c00, #bb0000);  /* Define uma cor de fundo para os botões */
+    color: white;               /* Define a cor do texto dos botões */
+    padding: 10px 30px;           /* Adiciona espaço interno aos botões */
+    border-radius: 5px;           /* Adiciona cantos arredondados aos botões */
+	  width: 100%;                  /* Faz o texto ocupar todo o espaço horizontal disponível */
+    text-align: center;           /* Centraliza o texto horizontalmente */
+	  align-items: center;
 }
 
 /* Estilo para tornar os links dos botões responsivos em hover (quando passar o mouse) */
 ul#button a:hover {
-    background-color: #0056b3; /* Altera a cor de fundo em hover */
+    background: linear-gradient(to right, #c70000, #5e0101); /* Altera a cor de fundo em hover */
 }
 
 footer {
@@ -206,18 +214,18 @@ footer a {
 	display: inline-block;
 	font-size: 15px;
 	padding: 10px 20px;
-	background-color: #007bff; /* Cor de fundo do botão */
-	color: white; /* Cor do texto do botão */
-	text-decoration: none; /* Remover sublinhado do link */
-	margin: 5px; /* Espaçamento entre os botões */
-	border: 2px solid #007bff; /* Adiciona uma borda sólida à volta do botão */
-	border-radius: 5px; /* Cantos arredondados */
-	text-align: center; /* Centraliza o texto */
+	background-color: #ff0000;           /* Cor de fundo do botão */
+	color: white;                        /* Cor do texto do botão */
+	text-decoration: none;                 /* Remover sublinhado do link */
+	margin: 5px;                           /* Espaçamento entre os botões */
+	border: 2px solid #d80000;           /* Adiciona uma borda sólida à volta do botão */
+	border-radius: 5px;                    /* Cantos arredondados */
+	text-align: center;                    /* Centraliza o texto */
 }
 
 footer a:hover {
-	background-color: #0056b3; /* Cor de fundo quando passa o mouse */
-	border-color: #0056b3; /* Cor da borda quando passa o mouse */
+	background-color: #d10000;           /* Cor de fundo quando passa o mouse */
+	border-color: #bd0101;               /* Cor da borda quando passa o mouse */
 }
 
 /* Estilize o elemento de menu do footer como vertical */
