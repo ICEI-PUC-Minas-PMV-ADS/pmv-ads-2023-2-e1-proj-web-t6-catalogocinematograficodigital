@@ -5,17 +5,24 @@ Implementação da aplicação descritas por meio dos requisitos codificados.
 *Etapa 3* (_Sprint 3_):
 
 ## Título da Funcionalidade: Cadastro de usuário
+
 Tela inicial: 
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t6-catalogocinematograficodigital/assets/95872126/5a147d27-b3b9-4e6f-bdf7-db80d5b277ee)
+
+![1-Tela Home](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t6-catalogocinematograficodigital/assets/145228139/011d8184-37f5-4855-8e62-ad6eb46b1484)
 
 Tela de cadastro:
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t6-catalogocinematograficodigital/assets/95872126/294b326d-3eee-457a-8a21-87560b63f027)
+
+![2-Tela Cadastro](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t6-catalogocinematograficodigital/assets/145228139/7a214cba-968e-401a-8ee1-eeb384936d11)
 
 Tela de login:
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t6-catalogocinematograficodigital/assets/95872126/28740151-2989-4260-8315-cb70919fd97c)
 
-Tela usuário:
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t6-catalogocinematograficodigital/assets/95872126/76c283c7-a0dc-49aa-b686-a35a24c76c30)
+![3-Tela Login](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t6-catalogocinematograficodigital/assets/145228139/78d9d46a-43ee-4de2-918c-e3a492a7ed1b)
+
+Tela Contato:
+
+![8-Tela Contato](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t6-catalogocinematograficodigital/assets/145228139/ffb5e286-b3e7-4d17-a2e5-66d9b757f895)
+
+
 
 #### Requisito atendido
 
