@@ -14,7 +14,7 @@ Para construção e implementação das páginas do aplicativo, foram planejadas
 As Figuras abaixo ilustram um layout modelo, mostrando como foi essa organização.
 
 
-![Figura-Layout geral do site-OK](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t6-catalogocinematograficodigital/assets/145228139/654ce932-576c-46c5-aa15-eaafd27a1615)
+![Figura-Layout geral do site-OK](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t6-catalogocinematograficodigital/assets/145228139/2a831506-f4fd-4193-ab27-ac46f711558b)
 
 Figura 1 - Layout modelo do projeto
 
