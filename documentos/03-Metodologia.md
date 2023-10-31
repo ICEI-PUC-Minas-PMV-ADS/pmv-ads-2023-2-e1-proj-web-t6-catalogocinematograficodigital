@@ -226,9 +226,9 @@ i. GitHub - textos e atualizações: Márcia;
 j. Correções e Revisões gerais (Programação e GitHub): Márcia, Fábio, Enzo, Caio, André e Rodrigo.
 
 
-Foi planejado o template padrão do projeto, que irá aparecer nas páginas do projeto, com um menu de contexto, no canto superior direito, um menu de navegação geral no rodapé, e conteúdo centralizado na página. Optamos por utilizar, inicialmente, a fonte Time News Roman, cor branca, para os botões de menus, e fonte Serif, cor preta, para os textos das páginas. Os botões de menus, tanto de contexto e navegação geral, são da cor azul.
+Foi planejado o template padrão do projeto, que irá aparecer nas páginas do projeto, com um menu de contexto, no canto superior direito, um menu de navegação geral no rodapé, e conteúdo centralizado na página. Optamos por utilizar, inicialmente, a fonte Time News Roman, cor branca, para os botões de menus, e fonte Serif, cor preta, para os textos das páginas. Os botões de menus de navegação superior são da cor azul e os botões do rodapé são da cor vermelha.
 
-Ademais, a equipe se focou na construção, desde a fase de planejamento até a execução, de um padrão de responsividade, pelo programa, que fosse congruente com as necessidades dos usuários, já desenvolvendo a visualização dos elementos do programa para o desktop, o tablet e dispositivos móveis. Tais funcionalidades foram desenvolvidas, revisadas e aprimoradas do decorrer da fase de revisão do sprint. 
+Ademais, a equipe focou na construção, desde a fase de planejamento até a execução, de um padrão de responsividade, pelo programa, que fosse congruente com as necessidades dos usuários, já desenvolvendo a visualização dos elementos do programa para o desktop, o tablet e dispositivos móveis. Tais funcionalidades foram desenvolvidas, revisadas e aprimoradas do decorrer da fase de revisão do sprint. 
 
 *3.3 Evidências:*
 
