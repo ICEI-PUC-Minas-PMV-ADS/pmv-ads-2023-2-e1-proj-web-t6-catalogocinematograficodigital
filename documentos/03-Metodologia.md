@@ -230,6 +230,8 @@ Foi planejado o template padrão do projeto, que irá aparecer nas páginas do p
 
 Ademais, a equipe focou na construção, desde a fase de planejamento até a execução, de um padrão de responsividade, pelo programa, que fosse congruente com as necessidades dos usuários, já desenvolvendo a visualização dos elementos do programa para o desktop, o tablet e dispositivos móveis. Tais funcionalidades foram desenvolvidas, revisadas e aprimoradas do decorrer da fase de revisão do sprint. 
 
+Quanto à correções relativa à implementação da Funcionalidade do Cadastro do usuário (RF-01), foi especificada a estrutura de dados para os dados cadastrais dos usuários. Conforme observa-se na Figura 6, ilustra-se a implementação dessa funcionalidade, exibindo-se a estrutura de dados utilizada no projeto, além dos dados armazenados no Local Storage.
+
 *3.3 Evidências:*
 
 Algumas demonstrações das atividades realizadas nessa etapa, estão nas imagens abaixo:
@@ -254,8 +256,10 @@ Figura 4 - Tela Home e Tela de Cadastro do Aplicativo CCD
 ![8-Kanban-desenvolvimento Etapa 3](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t6-catalogocinematograficodigital/assets/145228139/22c1f6cd-ddbb-4537-bfcc-3897d92e00fa)
 
 Figura 5- Kanban da Etapa 3 - tarefas em desenvolvimento e executadas
-  
 
+![Estrutura de Dados - Local Storage](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t6-catalogocinematograficodigital/assets/145228888/c1020d29-3c10-4fba-961e-357460f181ba)
+
+Figura 6 - Estrutura de Dados do Cadastro de Usuários no Local Storage
 
 ### Ferramentas
 
