@@ -17,9 +17,7 @@ Como mencionado anteriormente, o Scrum é uma abordagem ágil e colaborativa que
 
 ## Gerenciamento de Projeto
 
-A metodologia ágil escolhida para o desenvolvimento deste projeto foi o SCRUM, pois como citam Amaral, Fleury e Isoni (2019, p. 68), seus benefícios são a
-
-“visão clara dos resultados a entregar; ritmo e disciplina necessários à execução; definição de papéis e responsabilidades dos integrantes do projeto (Scrum Owner, Scrum Master e Team); empoderamento dos membros da equipe de projetos para atingir o desafio; conhecimento distribuído e compartilhado de forma colaborativa; ambiência favorável para crítica às ideias e não às pessoas.”
+A metodologia ágil escolhida para o desenvolvimento deste projeto foi o SCRUM, pois como citam Amaral, Fleury e Isoni (2019, p. 68), seus benefícios são a visão clara dos resultados a entregar; ritmo e disciplina necessários à execução; definição de papéis e responsabilidades dos integrantes do projeto (Scrum Owner, Scrum Master e Team); empoderamento dos membros da equipe de projetos para atingir o desafio; conhecimento distribuído e compartilhado de forma colaborativa; ambiência favorável para crítica às ideias e não às pessoas.”
 
 
 ### Divisão de Papéis
@@ -39,9 +37,9 @@ Os papéis, na Equipe 4, foram distribuídos da seguinte maneira:
 
 ●	**Scrum Master**: Márcia Verônica Costa Miranda.
 
-●	**Equipe de Design**: _Fábio Ribeiro de Barros_, Caio Costa Miranda, Enzo Wilker Alves Félix.
+●	**Equipe de Design**: _Enzo Wilker Alves Félix_, Caio Costa Miranda, Márcia V. Costa Miranda, Fábio Ribeiro de Barros (saiu do curso).
 
-●	**Equipe de Desenvolvimento**: _Fábio Ribeiro de Barros, Enzo Wilker Alves Félix_, Márcia Verônica Costa Miranda, Caio Costa Miranda, Rodrigo e André Lucas Corrêa de Andrade e Florio.
+●	**Equipe de Desenvolvimento**: _Enzo Wilker Alves Félix_, Márcia Verônica Costa Miranda, Caio Costa Miranda, Rodrigo e André Lucas Corrêa de Andrade e Florio, Fábio Ribeiro de Barros (saiu do curso).
 
 As tarefas são organizadas nos backlog do produto, e, em todo processo de construção da aplicação, a equipe reuniu-se semanalmente para definição e planejamento das tarefas, distribuição das atividades, revisão e planejamento dos próximos passos.
 Esse processo de desenvolvimento foi sempre auxiliado pela utilização de diversas ferramentas de comunicação, documentação e construção de softwares.
@@ -89,7 +87,29 @@ Esse processo de desenvolvimento foi sempre auxiliado pela utilização de diver
 
        Referências atualizadas
 
+- **Etapa 4 (Sprint 4)**:
+  
+       Documentação de Contexto
 
+       Especificação do Projeto
+
+       Metodologia
+
+       Projeto de Interface
+  
+       Template da aplicação
+  
+       Programação de Funcionalidades
+  
+       Programação das demais Funcionalidades
+  
+       Plano de Testes de Software
+
+       Registro de Testes de Software
+
+       Referências atualizadas
+
+  
 #### Etapa 1 (Sprint 1):
 
 *1.1 Planejamento:*
@@ -185,14 +205,15 @@ Figura 5 - Kanban da Etapa 2
 
 Figura 6- Kanban da Etapa 2 - Atividades Executadas
 
-#### Sprint 3:
 
-*3.1 Planejamento:*
+#### Sprint 4:
 
-O planejamento dessa etapa consistiu dos Templates da Aplicação, baseados nos Fluxos de Usuários e Telas da interface, além dos protótipos já planejados anteriormente, a programação das funcionalidades de mais elevada prioridade, em HTML, CSS e Javascript, que são as ferramentas utilizadas e necessárias durante essa etapa. Para essa etapa, foi planejado a implemenação do Requisito Funcional RF-01: Cadastro do Usuário.
+*4.1 Planejamento:*
+
+O planejamento dessa etapa consistiu na especificação e codificação das demais telas da Aplicação, baseados nos Fluxos de Usuários e Telas da interface - já apresentadas na Sessão 04. Foram programadas os Requisitos Funcionais restantes, com suas funcionalidades básicas, em HTML, CSS e Javascript, que são as ferramentas utilizadas em todo o projeto. Para essa etapa, foi planejado a implemenação do Requisito Funcional RF-01: Cadastro do Usuário.
 
 
-*3.2 Execução:*
+*4.2 Execução:*
 
 A equipe realizou reuniões semanais, definindo o Requisito Funcional RF-01: Cadastro do Usuário, a ser implementado nessa etapa. 
 Houve o compartilhamento do aprendizado nas ferramentas necessárias para essa etapa: HTML, CSS e Javascript, entre os membros da equipe. Essas ferramentas são utilizadas para os seguintes objetivos: o HTML é utilizada na programação para estruturar o conteúdo da página web do projeto; o CSS é uma linguagem de estilo usada para controlar a apresentação e o layout do conteúdo HTML; JavaScript é uma linguagem de programação que permite adicionar interatividade e dinamismo às páginas web. 
@@ -260,6 +281,59 @@ Figura 5- Kanban da Etapa 3 - tarefas em desenvolvimento e executadas
 ![Estrutura de Dados - Local Storage](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t6-catalogocinematograficodigital/assets/145228888/c1020d29-3c10-4fba-961e-357460f181ba)
 
 Figura 6 - Estrutura de Dados do Cadastro de Usuários no Local Storage
+
+
+#### Sprint 3:
+
+*3.1 Planejamento:*
+
+O planejamento dessa etapa consistiu dos Templates da Aplicação, baseados nos Fluxos de Usuários e Telas da interface, além dos protótipos já planejados anteriormente, a programação das funcionalidades de mais elevada prioridade, em HTML, CSS e Javascript, que são as ferramentas utilizadas e necessárias durante essa etapa. Para essa etapa, foi planejado a implemenação do Requisito Funcional RF-01: Cadastro do Usuário.
+
+
+*3.2 Execução:*
+
+A equipe realizou reuniões semanais, definindo o Requisito Funcional RF-01: Cadastro do Usuário, a ser implementado nessa etapa. 
+Houve o compartilhamento do aprendizado nas ferramentas necessárias para essa etapa: HTML, CSS e Javascript, entre os membros da equipe. Essas ferramentas são utilizadas para os seguintes objetivos: o HTML é utilizada na programação para estruturar o conteúdo da página web do projeto; o CSS é uma linguagem de estilo usada para controlar a apresentação e o layout do conteúdo HTML; JavaScript é uma linguagem de programação que permite adicionar interatividade e dinamismo às páginas web. 
+
+Essas ferramentas constituíram-se novidades para a maioria dos membros da equipe, tendo sido necessário um grande esforço de aprendizado, para sua efetiva utilização. 
+A equipe trabalhou com grande colaboração entre si, enfatizando que foi construído um modelo base e inicial, pelo integrante Fábio, que permitiu o desenvovimento inicial das demais páginas da aplicação, pelo restante da equipe.
+Foram implementadas as Telas Inicial, Cadastro, Login de Usuário e Recuperação de Senha, Tela de Contato e Privacidade, FAQ, Sobre o aplicativo CCD. Todas essas telas são relativas ao Requisito Funcional RF-01 de alta prioridade para a funcionalidade do aplicativo.
+Nesse processo e baseado nos protótipos já planejados na etapa anterior, as atividades foram distribuídas entre os membros da equipe, que facilitou a obtenção do produto final, até essa etapa.
+
+Os modelos-base das especificações no CSS foram construídos e disponibilizados por Fábio, a partir do qual os demais membros desenvolveram suas tarefas.
+As tarefas, nessa etapa, foram assim distribuídas:
+
+a. Tela Home: Enzo e Márcia;
+
+b. Tela Sobre: Márcia;
+
+c. Tela Contato: Caio e Fábio;
+
+d. Tela Privacidade: Caio;
+
+e. Tela FAQ: Márcia;
+
+f. Tela Cadastro de Usuário: Fábio;
+
+g. Tela de Login: Enzo;
+
+h. Tela de Recuperação de Senha: Fábio; 
+
+i. GitHub - textos e atualizações: Márcia;
+
+j. Correções e Revisões gerais (Programação e GitHub): Márcia, Fábio, Enzo, Caio, André e Rodrigo.
+
+
+Foi planejado o template padrão do projeto, que irá aparecer nas páginas do projeto, com um menu de contexto, no canto superior direito, um menu de navegação geral no rodapé, e conteúdo centralizado na página. Optamos por utilizar, inicialmente, a fonte Time News Roman, cor branca, para os botões de menus, e fonte Serif, cor preta, para os textos das páginas. Os botões de menus de navegação superior são da cor azul e os botões do rodapé são da cor vermelha.
+
+Ademais, a equipe focou na construção, desde a fase de planejamento até a execução, de um padrão de responsividade, pelo programa, que fosse congruente com as necessidades dos usuários, já desenvolvendo a visualização dos elementos do programa para o desktop, o tablet e dispositivos móveis. Tais funcionalidades foram desenvolvidas, revisadas e aprimoradas do decorrer da fase de revisão do sprint. 
+
+Quanto à correções relativa à implementação da Funcionalidade do Cadastro do usuário (RF-01), foi especificada a estrutura de dados para os dados cadastrais dos usuários. Conforme observa-se na Figura 6, ilustra-se a implementação dessa funcionalidade, exibindo-se a estrutura de dados utilizada no projeto, além dos dados armazenados no Local Storage.
+
+*3.3 Evidências:*
+
+Algumas demonstrações das atividades realizadas nessa etapa, estão nas imagens abaixo:
+
 
 ### Ferramentas
 
