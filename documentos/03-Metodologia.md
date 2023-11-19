@@ -326,9 +326,9 @@ d. Tela de Filmes Assistidos: : Caio;
 
 e. Comentários e Avaliação dos Filmes Assistidos: Caio e Márcia; 
 
-f. GitHub - textos e atualizações: Márcia;
+f. GitHub - textos e atualizações: Márcia, Caio e Enzo;
 
-g. Correções e Revisões gerais (Programação e GitHub): Márcia, Enzo, Caio.
+g. Correções e Revisões gerais (Programação e GitHub): Márcia, Enzo e Caio.
 
 
 Foram utilizadas janelas Pop-up (modais) para implementação de algumas ações de telas, como opções de inserção na lista de Assistidos ou A Assistir, Remover filmes da lista, mensagens de ação realizada com sucesso, etc.
