@@ -110,7 +110,7 @@ Esse processo de desenvolvimento foi sempre auxiliado pela utilização de diver
        Referências atualizadas
 
   
-#### Etapa 1 (Sprint 1):
+### Etapa 1 (Sprint 1):
 
 *1.1 Planejamento:*
 
@@ -157,7 +157,7 @@ Figura 4 – Construção da apresentação do projeto – Etapa 1
 Figura 5 – Kanban da Etapa 1
 
 
-#### Sprint 2:
+### Sprint 2:
 
 *2.1 Planejamento:*
 
@@ -206,7 +206,7 @@ Figura 5 - Kanban da Etapa 2
 Figura 6- Kanban da Etapa 2 - Atividades Executadas
 
 
-#### Sprint 3:
+### Sprint 3:
 
 
 *3.1 Planejamento:*
@@ -283,7 +283,7 @@ Figura 5- Kanban da Etapa 3 - tarefas em desenvolvimento e executadas
 Figura 6 - Estrutura de Dados do Cadastro de Usuários no Local Storage
 
 
-#### Sprint 4:
+### Sprint 4:
 
 *4.1 Planejamento:*
 
