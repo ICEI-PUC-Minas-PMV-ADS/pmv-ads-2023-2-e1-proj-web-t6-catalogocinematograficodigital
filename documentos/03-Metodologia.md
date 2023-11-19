@@ -206,14 +206,14 @@ Figura 5 - Kanban da Etapa 2
 Figura 6- Kanban da Etapa 2 - Atividades Executadas
 
 
-#### Sprint 4:
-
-*4.1 Planejamento:*
-
-O planejamento dessa etapa consistiu na especificação e codificação das demais telas da Aplicação, baseados nos Fluxos de Usuários e Telas da interface - já apresentadas na Sessão 04. Foram programadas os Requisitos Funcionais restantes, com suas funcionalidades básicas, em HTML, CSS e Javascript, que são as ferramentas utilizadas em todo o projeto. Para essa etapa, foi planejado a implemenação do Requisito Funcional RF-01: Cadastro do Usuário.
+#### Sprint 3:
 
 
-*4.2 Execução:*
+*3.1 Planejamento:*
+
+O planejamento dessa etapa consistiu dos Templates da Aplicação, baseados nos Fluxos de Usuários e Telas da interface, além dos protótipos já planejados anteriormente, a programação das funcionalidades de mais elevada prioridade, em HTML, CSS e Javascript, que são as ferramentas utilizadas e necessárias durante essa etapa. Para essa etapa, foi planejado a implemenação do Requisito Funcional RF-01: Cadastro do Usuário.
+
+*3.2 Execução:*
 
 A equipe realizou reuniões semanais, definindo o Requisito Funcional RF-01: Cadastro do Usuário, a ser implementado nessa etapa. 
 Houve o compartilhamento do aprendizado nas ferramentas necessárias para essa etapa: HTML, CSS e Javascript, entre os membros da equipe. Essas ferramentas são utilizadas para os seguintes objetivos: o HTML é utilizada na programação para estruturar o conteúdo da página web do projeto; o CSS é uma linguagem de estilo usada para controlar a apresentação e o layout do conteúdo HTML; JavaScript é uma linguagem de programação que permite adicionar interatividade e dinamismo às páginas web. 
@@ -283,57 +283,85 @@ Figura 5- Kanban da Etapa 3 - tarefas em desenvolvimento e executadas
 Figura 6 - Estrutura de Dados do Cadastro de Usuários no Local Storage
 
 
-#### Sprint 3:
+#### Sprint 4:
 
-*3.1 Planejamento:*
+*4.1 Planejamento:*
 
-O planejamento dessa etapa consistiu dos Templates da Aplicação, baseados nos Fluxos de Usuários e Telas da interface, além dos protótipos já planejados anteriormente, a programação das funcionalidades de mais elevada prioridade, em HTML, CSS e Javascript, que são as ferramentas utilizadas e necessárias durante essa etapa. Para essa etapa, foi planejado a implemenação do Requisito Funcional RF-01: Cadastro do Usuário.
+O planejamento dessa etapa consistiu na especificação e codificação das demais funcionalidades da Aplicação, consistindo na programação das demais telas, que podem ser visualizadas nos Fluxos de Usuários e Telas da interface - já apresentadas na Sessão 04. Foram programadas os Requisitos Funcionais restantes, com suas funcionalidades básicas, em HTML, CSS e Javascript, que são as ferramentas utilizadas em todo o projeto. 
+
+Para essa etapa, foram planejadas as implemenaões dos seguintes Requisitos Funcionais:
+RF-02: Cadastro de Filmes e Séries
+RF-03: Manutenção, Edição e Exclusão de Filmes / séries cadastrados.
+RF-04: Pesquisa de filmes por palavras-chaves.
+RF-05: Listagem de filmes/séries A Assistir e Assistidos
+RF-06: Avaliações e Comentários
 
 
-*3.2 Execução:*
+*4.2 Execução:*
 
-A equipe realizou reuniões semanais, definindo o Requisito Funcional RF-01: Cadastro do Usuário, a ser implementado nessa etapa. 
-Houve o compartilhamento do aprendizado nas ferramentas necessárias para essa etapa: HTML, CSS e Javascript, entre os membros da equipe. Essas ferramentas são utilizadas para os seguintes objetivos: o HTML é utilizada na programação para estruturar o conteúdo da página web do projeto; o CSS é uma linguagem de estilo usada para controlar a apresentação e o layout do conteúdo HTML; JavaScript é uma linguagem de programação que permite adicionar interatividade e dinamismo às páginas web. 
+No início dessa etapa, o componente da equipe, Fábio Ribeiro de Barros, por motivos pessoais, solicitou cancelamento de sua matrícula no curso.
 
-Essas ferramentas constituíram-se novidades para a maioria dos membros da equipe, tendo sido necessário um grande esforço de aprendizado, para sua efetiva utilização. 
-A equipe trabalhou com grande colaboração entre si, enfatizando que foi construído um modelo base e inicial, pelo integrante Fábio, que permitiu o desenvovimento inicial das demais páginas da aplicação, pelo restante da equipe.
-Foram implementadas as Telas Inicial, Cadastro, Login de Usuário e Recuperação de Senha, Tela de Contato e Privacidade, FAQ, Sobre o aplicativo CCD. Todas essas telas são relativas ao Requisito Funcional RF-01 de alta prioridade para a funcionalidade do aplicativo.
-Nesse processo e baseado nos protótipos já planejados na etapa anterior, as atividades foram distribuídas entre os membros da equipe, que facilitou a obtenção do produto final, até essa etapa.
+A equipe continuou com a metodologia de realização de reuniões semanais, para planejamento e distribuição das atividades relativas à etapa, bem como apresentar ao grupo a atualização do que já foi implementado e atualizado, em cada Requisito Funcional implementado.
 
-Os modelos-base das especificações no CSS foram construídos e disponibilizados por Fábio, a partir do qual os demais membros desenvolveram suas tarefas.
+Faz-se necessário relatar as dificuldades encontradas, no processo de programação, notadamente na utilização do recurso API, para busca de informações sobre filmes e séries. Esse recurso foi novidade para os membros do grupo, necessitando esforço de aprendizado e utilização.
+Em todo processo, foram compartilhados aprendizados das linguagens utilizadas (HTML, CSS e JavaScript), entre os membros da equipe que participaram da implemetação efetiva do aplicativo. 
+
+Houve intensa colaboração da equipe, durante todas as dificuldades de programação.
+Os integrantes Enzo especificou a Tela do Usuário, que permite a busca de filmes/séries, utilizado pelas demais Telas. Os integrantes Márcia e Caio atualizaram esse código, na medida que programavam as demais telas.
+
+Foram implementadas as Telas de Usuário / Pesquisa e Cadastro de Filmes, Tela de Filmes Assistidos, Tela de Filmes a Assistir e Tela de Avaliação de Filmes com comentários, do aplicativo CCD. 
+Todas essas telas são relativas ao Requisito Funcional RF-02, RF-03, RF-04, RF-05 e RF-06, constituindo na conclusão dos Requisitos Funcionais propostos.
+
+Nesse processo e baseado nos protótipos já planejados na etapa anterior, as atividades foram distribuídas entre os membros da equipe, que facilitou a obtenção do produto final.
+
 As tarefas, nessa etapa, foram assim distribuídas:
 
-a. Tela Home: Enzo e Márcia;
+a. Tela do Usuário e Busca: Enzo e Márcia;
 
-b. Tela Sobre: Márcia;
+b. Tela de Cadastro de Filmes/Séries: Enzo;
 
-c. Tela Contato: Caio e Fábio;
+c. Tela de Filmes A Assistir: Márcia;
 
-d. Tela Privacidade: Caio;
+d. Tela de Filmes Assistidos: : Caio;
 
-e. Tela FAQ: Márcia;
+e. Comentários e Avaliação dos Filmes Assistidos: Caio e Márcia; 
 
-f. Tela Cadastro de Usuário: Fábio;
+f. GitHub - textos e atualizações: Márcia;
 
-g. Tela de Login: Enzo;
-
-h. Tela de Recuperação de Senha: Fábio; 
-
-i. GitHub - textos e atualizações: Márcia;
-
-j. Correções e Revisões gerais (Programação e GitHub): Márcia, Fábio, Enzo, Caio, André e Rodrigo.
+g. Correções e Revisões gerais (Programação e GitHub): Márcia, Enzo, Caio.
 
 
-Foi planejado o template padrão do projeto, que irá aparecer nas páginas do projeto, com um menu de contexto, no canto superior direito, um menu de navegação geral no rodapé, e conteúdo centralizado na página. Optamos por utilizar, inicialmente, a fonte Time News Roman, cor branca, para os botões de menus, e fonte Serif, cor preta, para os textos das páginas. Os botões de menus de navegação superior são da cor azul e os botões do rodapé são da cor vermelha.
+Foram utilizadas janelas Pop-up (modais) para implementação de algumas ações de telas, como opções de inserção na lista de Assistidos ou A Assistir, Remover filmes da lista, mensagens de ação realizada com sucesso, etc.
+O padrao de template, fontes e cores, especificados na etapa anterior, continuou a ser utilizado nesssa etapa, para complementação da programação do Aplicativo CCD.
 
-Ademais, a equipe focou na construção, desde a fase de planejamento até a execução, de um padrão de responsividade, pelo programa, que fosse congruente com as necessidades dos usuários, já desenvolvendo a visualização dos elementos do programa para o desktop, o tablet e dispositivos móveis. Tais funcionalidades foram desenvolvidas, revisadas e aprimoradas do decorrer da fase de revisão do sprint. 
+A equipe procurou manter o padrão de responsividade, já utilizada na etapa anterior, congruente com as necessidades dos usuários. Tais funcionalidades foram desenvolvidas, revisadas e aprimoradas do decorrer da fase de revisão do sprint. 
 
-Quanto à correções relativa à implementação da Funcionalidade do Cadastro do usuário (RF-01), foi especificada a estrutura de dados para os dados cadastrais dos usuários. Conforme observa-se na Figura 6, ilustra-se a implementação dessa funcionalidade, exibindo-se a estrutura de dados utilizada no projeto, além dos dados armazenados no Local Storage.
+A estrutura de dados utilizada, para os dados obtidos dos filmes/séries, está ilustrada na Figura 6. Essas informações foram obtidas a partir da utilização da API do TMDb, estão armazenadas no Local Storage.
 
-*3.3 Evidências:*
+
+*4.3 Evidências:*
 
 Algumas demonstrações das atividades realizadas nessa etapa, estão nas imagens abaixo:
 
+
+![10-Reunião e Resumo-16-11-2023](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t6-catalogocinematograficodigital/assets/145228139/5801927a-93fc-4234-912c-dd0b3b49a642)
+
+Figura 1 - Ata da Reunião da equipe para distribuição de tarefas e Encontro de parte da equipe para planejamento, atualização de ações e avaliação de atividades.
+
+
+![11-Telas e Busca e Resultado da busca](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t6-catalogocinematograficodigital/assets/145228139/9de92984-6ebb-47c9-968d-7e837125af57)
+
+Figura 2 - Tela do Usuário: Busca de Filmes e Resultado da Busca.
+
+![12-Telas de Filmes assistidos-Modal avaliação e comentários](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t6-catalogocinematograficodigital/assets/145228139/76878521-d9e0-4c5c-9e49-0f144e5b5bc5)
+
+Figura 3 - Telas de Lista de Filmes/séries Assistidos e Tela para Avaliação e Comentários de Filmes/série assistido
+
+![8-Estrutura de dados do filme-informações da API](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t6-catalogocinematograficodigital/assets/145228139/3a556810-ef9a-497e-8b14-2cc57470490a)
+
+Figura 4 - Estrutura de Dados com informações dos filmes pesquisados pela API TMDb.
+
+Figura 5 - Kanban da Etapa 4 - tarefas em desenvolvimento e executadas.
 
 ### Ferramentas
 
