@@ -361,6 +361,8 @@ Figura 3 - Telas de Lista de Filmes/séries Assistidos e Tela para Avaliação e
 
 Figura 4 - Estrutura de Dados com informações dos filmes pesquisados pela API TMDb.
 
+![13-Kanban - Etapa 4](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t6-catalogocinematograficodigital/assets/145228139/f531dd6a-afe7-45bd-be98-f7bbc84cab0b)
+
 Figura 5 - Kanban da Etapa 4 - tarefas em desenvolvimento e executadas.
 
 ### Ferramentas
