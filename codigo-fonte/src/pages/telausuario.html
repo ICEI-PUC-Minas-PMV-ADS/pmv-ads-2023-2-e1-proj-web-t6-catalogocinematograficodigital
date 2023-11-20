@@ -39,20 +39,33 @@
 		<!-- Agrupa links de navegação no site. -->
 		<nav id="menu">
 			<button id="closeMenu">X</button>
-			<button id="sair">SAIR</button>
-			<a href="./cadastro.html">CADASTRE-SE</a>
-			<a href="./login.html">LOGIN</a>
-			<a href="./sobre.html">SOBRE</a>
-			
+			<a href="./telausuario.html">TELA DO USUÁRIO</a>
+			<a href="./sobre.html">SOBRE</a>	
+			<a id="sair">SAIR</a>
 		</nav>
 	</header>
 
 	<!-- Agrupa o conteúdo principal da página ou aplicação. -->
 	<main>
 		<h1 id="logado"></h1>
-
-		
+		<div class="container">
+			<div class="pesquisa">
+				<input type="text" placeholder="Pesquisar Filme...">
+				<button>Pesquisar</button>
+			</div>
+		</div>
+		<div class="movies-container assistidos">
+            <h1></h1>
+            <div class="movies-grid">
+                              
+            </div>
+		</div>	
+		<ul id="botoesListas">
+			<li><a href="./listaAssistidos.html">ASSISTIDOS</a></li>
+			<a href="./listaAssistir.html">PARA ASSISTIR</a>
+		</ul>
 	</main>
+	
 
 	<!-- Agrupa itens no rodapé -->
 	<footer>
@@ -64,6 +77,26 @@
 		</ul>
 	</footer>
 
+	<!-- Modal -->
+	<div id="myModal" class="modal">
+		<div class="modal-content">
+		<span class="close" onclick="fecharModal()">&times;</span>
+
+		<div class="title">
+			<h2 id="modalTitle"></h2>
+		</div>
+		<h2 id="modalTitle"></h2>
+		<div id="modalBody">
+			<!-- As informações detalhadas do filme serão exibidas aqui -->
+		</div>
+		<div id="actions">
+		</div>
+		<div id="modalFooter">
+			<!-- Adicione a área para avaliação e comentários aqui -->
+		</div>
+		</div>
+	</div>
+  
 
 </body>
 </html>
