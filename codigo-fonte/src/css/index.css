@@ -24,7 +24,6 @@ body {
 	/* Margem de todos os lados. */
 	/* Margem de todos os lados. */
 	margin: 0px;
-
 	/* Imagem de fundo */
 	background-image: url("../img/ImagemDeFundo.jpg");
 	/* Não repetir a imagem de fundo */
@@ -36,7 +35,7 @@ body {
 	/* Faz com que o background permaneça fixo enquanto a página é rolada */
 	background-attachment: fixed;
 	/* --Fonte dos textos do website--*/
-	font-family: 'Poppins', sans-serif; 
+	font-family: 'Poppins', sans-serif;
 }
 
 /* Formatação comum entre os elementos. */
@@ -74,6 +73,11 @@ header #logo {
 	justify-content: flex-start;
 	/* Alinha os itens na horizontal. */
 	align-items: center;
+}
+
+a { /*Padroniza o título Catálogo Cinematográfico Digital para a cor branca*/
+	color:#fff;
+	text-decoration: none;
 }
 
 #menu {

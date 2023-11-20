@@ -24,9 +24,7 @@ body {
 	/* Margem de todos os lados. */
 	/* Margem de todos os lados. */
 	margin: 0px;
-
 	/* Imagem de fundo */
-
 	background-image: url("../img/ImagemDeFundo.jpg");
 	/* Não repetir a imagem de fundo */
 	background-repeat: no-repeat;
@@ -37,7 +35,7 @@ body {
 	/* Faz com que o background permaneça fixo enquanto a página é rolada */
 	background-attachment: fixed;
 	/* --Fonte dos textos do website--*/
-	font-family: 'Poppins', sans-serif; 
+	font-family: 'Poppins', sans-serif;
 }
 
 /* Formatação comum entre os elementos. */
@@ -75,6 +73,11 @@ header #logo {
 	justify-content: flex-start;
 	/* Alinha os itens na horizontal. */
 	align-items: center;
+}
+
+a {
+	color:#fff;
+	text-decoration: none;
 }
 
 #menu {
@@ -153,8 +156,8 @@ main {
     align-items: center; /* Centraliza horizontalmente os elementos filhos */
     margin: 0 auto; /* Define margens automáticas entre cabeçalho e rodapé */
     text-align: center; /* Centraliza o texto dentro da <main> */
-	  background-color: rgb(199, 165, 238, 0.2);      /*plano de fundo*/
-	  padding: 20px;                                    
+	background-color: rgb(199, 165, 238, 0.2);      /*plano de fundo*/
+	padding: 20px;                                    
     border-radius: 10px;                              
     box-shadow: 0 0 10px #0000001a;                 /*sombra ao plano de fundo*/
 }
@@ -166,12 +169,12 @@ h2.centered {
 }
 
 h1 {
-	font-size: 40px;
+	font-size: 30px;
 	margin-bottom: 25px;
 }
 
 h2 {
-	font-size: 30px;
+	font-size: 20px;
 }
 
 /* Estilos para alinhar os parágrafos à esquerda */
@@ -179,12 +182,10 @@ p.left-aligned {
   	text-align: left;
 	margin-bottom: 20px;
   	max-width: 1000px;
-  	font-size: 25px;
+  	font-size: 18px;
 }
 
 footer {
-	/* Altura do elemento. */
-	height: 100px;
 	/* Junção de flex-grow, flex-shrink e flex-basis. */
 	/* flex-grow – Habilidade de um flex item crescer. */
 	/* flex-shrink - Capacidade de redução do item. */
@@ -192,6 +193,7 @@ footer {
 	flex: 1 1 100vw;
 	justify-content: center; /* Centraliza horizontalmente */
 	align-items: center; /* Centraliza verticalmente */
+	margin-top: auto; /*novo*/  /* Coloca um espaçamento no topo do footer para ele ficar em baixo da pagina*/
 }
 
 footer a {
@@ -288,5 +290,4 @@ footer a:hover {
 	footer {
 		display: flex;
 	}
-	
 }

@@ -76,17 +76,22 @@ header #logo {
 	align-items: center;
 }
 
+a { /*Padroniza o título Catálogo Cinematográfico Digital para a cor branca*/
+	color:#fff;
+	text-decoration: none;
+}
+
 #menu {
     justify-content: flex-end; /* Alinhar à direita */
 }
 
 header #menu a {
-  margin-left: 25px;
+    margin-left: 25px;
 	margin: 10px;
 	justify-content: flex-start;
 	font-size: 20px;
 	font-family: serif,  sans-serif, "Times New Roman";
-	text-decoration:none;
+	text-decoration:none;	
 }
 
 header #logo img {
@@ -144,7 +149,6 @@ nav {
 }
 
 main {
-    /* Altura da tela menos a soma das alturas dos elementos no topo e no rodapé */
     min-height: 100px; /* Ajuste conforme necessário */
     display: flex; /* Torna a <main> um container flexível */
     flex-direction: column; /* Define a direção dos elementos filhos como coluna (vertical) */
@@ -152,12 +156,52 @@ main {
     align-items: center; /* Centraliza horizontalmente os elementos filhos */
     margin: 0 auto; /* Define margens automáticas entre cabeçalho e rodapé */
     text-align: center; /* Centraliza o texto dentro da <main> */
-  	background-color: rgb(199, 165, 238, 0.2);      /*plano de fundo*/
+	  background-color: rgb(199, 165, 238, 0.2);      /*plano de fundo*/
 	  padding: 20px;                                    
     border-radius: 10px;                              
     box-shadow: 0 0 10px #0000001a;                 /*sombra ao plano de fundo*/
 }
 
+/* Estilo para os parágrafos */
+#paragrafos p {
+    font-size: 26px; /* Define o tamanho da fonte para o texto dentro de <main> */
+    margin-bottom: 10px; /* 0 tira o espaço vertical entre os parágrafos */
+    text-align: center; /* Centraliza o texto horizontalmente */
+}
+
+#p1 {
+    margin-top: 3vw;
+}
+
+
+
+/* Estilo para os botões */
+ul#button {
+    list-style-type: none; /* Remove a marcação de lista */
+    padding: 30px; /* distancia entre o botão e o texto */
+}
+
+ul#button li {
+    margin-bottom: 10px; /* Adiciona espaço vertical entre os botões */
+}
+
+/* Estilo para os links dos botões */
+ul#button a {
+    display: block;               /* Transforma os links em blocos, fazendo-os ficar um abaixo do outro */
+    text-decoration: none;        /* Remove a decoração padrão dos links */
+    background: linear-gradient(to right, #ff3c00, #bb0000);  /* Define uma cor de fundo para os botões */
+    color: white;               /* Define a cor do texto dos botões */
+    padding: 10px 30px;           /* Adiciona espaço interno aos botões */
+    border-radius: 5px;           /* Adiciona cantos arredondados aos botões */
+	  width: 100%;                  /* Faz o texto ocupar todo o espaço horizontal disponível */
+    text-align: center;           /* Centraliza o texto horizontalmente */
+	  align-items: center;
+}
+
+/* Estilo para tornar os links dos botões responsivos em hover (quando passar o mouse) */
+ul#button a:hover {
+    background: linear-gradient(to right, #c70000, #5e0101); /* Altera a cor de fundo em hover */
+}
 
 footer {
 	/* Altura do elemento. */
@@ -196,6 +240,7 @@ footer a:hover {
     align-items: center; /* Centralize os elementos horizontalmente */
     list-style: none; /* Remova os marcadores de lista */
     padding: 3px; /* Remova o preenchimento padrão da lista */
+	margin-top: 15vw;
 }
 
 /* Estilize os itens do menu do footer (links) */
@@ -206,6 +251,255 @@ footer a:hover {
 
 /* Estilize os links no menu do footer */
 #footerMenu a {
+    text-decoration: none; /* Remova sublinhados dos links */
+    color: white; /* Defina a cor do texto */
+}
+
+/*Estiliza a barra de busca*/
+.pesquisa { 
+    display: flex;
+    justify-content: center; /*Centraliza a informação*/
+    column-gap: 1rem; /*Espaço entre os itnes que compõem a sessão*/
+    margin-top: 2rem; 
+    padding: 2rem 0 1rem;
+}
+/*Pega os dois elementos da sessão e os estiliza*/
+.pesquisa input,
+.pesquisa button {
+    padding: .5rem 1rem;
+    font-size: 1rem;
+    background-color: transparent;
+    border: none; 
+    outline: none;
+    border: 2px solid rgba(255, 0, 0, .6); /*Cria uma borda específica para os itens*/
+    color: #fff;
+}
+.pesquisa button {
+    cursor: pointer;
+}
+.pesquisa button:hover { 
+    background-color: rgba(255, 0, 0, .6); /*Ao colocar o mouse no botão ele fica vermelho*/
+}
+.pesquisa button:active { 
+    transform: scale(.9); /*Dá o efeito de clique do botão*/
+}
+/*Estiliza o texto do input da pesquisa*/
+.pesquisa input::placeholder{
+	color: #fff;
+	font-style: italic;
+}
+/*Cria um quadrado que armazena as principais informações do filme exibido quando pesquisado*/
+.card {
+    width: clamp(150px, 95vw, 250px); 
+    box-shadow: 0 0 .5rem rgba(255, 0, 0, 1);
+    outline: 2px solid rgba(255, 0, 0, .6);
+    overflow: hidden;
+    color: #fff;
+    cursor: pointer;
+    border-radius: .5rem;
+}
+/*Posiciona a imagem do poster do filme no card*/
+.img {
+    width: 100%;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+    transition: 200ms ease-in-out transform;
+}
+/*Redimensiona a imagem do filme para se encaixar no card*/
+.img img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+/*Definição da imagem e coloca um fundo preto na mesma*/
+.img::before {
+    content: '';
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 30%;
+    background-image: linear-gradient(to top, #151515, transparent);
+}
+/*Ao passar o mouse na imagem dá sensação de aproximação*/
+.card:hover .img {
+    transform: scale(1.1);
+}
+/*Define o posicionamento do texto*/
+.info {
+    padding: 2rem 1rem 1rem;
+}
+/*Define o posicionamento do título no card*/
+.info h2 {
+    margin-bottom: 0.5rem;
+    font-size: 1.3rem;
+}
+/*Define a disposição das demais informações no card*/
+.single-info {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    font-size: .8rem;
+    margin: .2rem 0;
+}
+/*Define as dimensões do grid de filmes que será retornado quando houver a pesquisa*/
+.movies-grid {
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 2rem;
+    padding: 1rem;
+}
+/*Centraliza o posicionamento do título da div no caso, Assistidos*/
+.movies-container {
+    padding: 1rem;
+    text-align: center;
+    color: #fff;
+}
+
+/* Estilizando o Modal */
+.modal {
+	display: none;
+	position: fixed;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	background-color: rgba(0, 0, 0, 0.7);
+}
+  
+.modal-content {
+	background-color: #fefefe;
+	margin: 10% auto;
+	padding: 20px;
+	border: 1px solid #888;
+	width: 80%;
+	background-size: cover;
+	background-position: center;
+	border-radius: 8px;
+}
+  
+.close {
+	color: #aaa;
+	float: right;
+	font-size: 28px;
+	font-weight: bold;
+}
+  
+.close:hover,
+.close:focus {
+	color: black;
+	text-decoration: none;
+	cursor: pointer;
+	transform: scale(1.3);
+}
+
+.close:active {
+	transform: scale(1);
+}
+
+h2 {
+	text-align: center;
+}
+
+.title {
+	max-width: 550px; /* Defina o tamanho máximo desejado */
+    margin: 0 auto; /* Centraliza o elemento horizontalmente */
+	border: #151515 solid 3px ;
+	border-radius: 8px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	align-items: center;
+	text-justify: center;
+}
+
+#modalBody {
+	margin-top: 2%;
+}
+
+p {
+	line-height: 25px;
+}
+
+#actions {
+	width: 100%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.btn-1 {
+	margin-top: 2%;
+	margin-right: 20px;
+	padding: 20px;
+	font-size: 20px;
+	cursor: pointer;
+	border-radius: 35px;
+	font-weight: bold;
+	background-color: rgba(250, 250, 250, 0.178);
+}
+
+.btn-2 {
+	margin-top: 2%;
+	margin-left: 20px;
+	padding: 20px;
+	font-size: 20px;
+	cursor: pointer;
+	border-radius: 35px;
+	font-weight: bold;
+	background-color: rgba(250, 250, 250, 0.178);
+}
+
+.btn-1:hover {
+	background-color: rgba(255, 0, 0, .6); /*Ao colocar o mouse no botão ele fica vermelho*/
+}
+.btn-1 button:active { 
+    transform: scale(.9); /*Dá o efeito de clique do botão*/
+}
+
+.btn-2:hover {
+	background-color: rgba(255, 0, 0, .6); /*Ao colocar o mouse no botão ele fica vermelho*/
+}
+.btn-2 button:active { 
+    transform: scale(.9); /*Dá o efeito de clique do botão*/
+}
+
+#botoesListas a {
+	display: inline-block;
+	font-size: 15px;
+	padding: 10px 20px;
+	background-color: #ff0000;           /* Cor de fundo do botão */
+	color: white;                        /* Cor do texto do botão */
+	text-decoration: none;                 /* Remover sublinhado do link */
+	margin: 20px;                           /* Espaçamento entre os botões */
+	border: 2px solid #d80000;           /* Adiciona uma borda sólida à volta do botão */
+	border-radius: 5px;                    /* Cantos arredondados */
+	text-align: center;                    /* Centraliza o texto */
+}
+
+#botoesListas a:hover {
+	background-color: #d10000;           /* Cor de fundo quando passa o mouse */
+	border-color: #bd0101;               /* Cor da borda quando passa o mouse */
+}
+
+/* Estilize o elemento de menu do footer como vertical */
+#botoesListas {
+    display: flex;
+    justify-content: center; /* Centralize os elementos verticalmente */
+    align-items: center; /* Centralize os elementos horizontalmente */
+    list-style: none; /* Remova os marcadores de lista */
+    padding: 3px; /* Remova o preenchimento padrão da lista */
+}
+
+/* Estilize os itens do menu do footer (links) */
+#botoesListas li {
+    font-size: 20px;
+}
+
+/* Estilize os links no menu do footer */
+#botoesListas a {
     text-decoration: none; /* Remova sublinhados dos links */
     color: white; /* Defina a cor do texto */
 }
