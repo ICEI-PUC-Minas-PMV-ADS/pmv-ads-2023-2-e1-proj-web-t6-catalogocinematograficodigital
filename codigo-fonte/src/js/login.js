@@ -71,6 +71,22 @@ botaoEntrar.addEventListener("click", function entrar(e) {
         emailCadastrado: "",
         senhaCadastrado: "",
     }
+    //constante para capturar o valor inserido no input da senha
+    const senhaInput = senha.value.trim();
+    //constante para capturar o valor inserido no input do apelido ou email 
+    const apelidoOuEmailInput = apelidoOuEmail.value.trim();
+
+    /*
+        Essa função pega os valores que foram capturados pelas constantes acima.
+        E os compara se o primeiro ou o segundo input estão vazios, caso algum deles esteja vazio,
+        reutiliza a constante naoCadastrado e o style aplicado nela, para imprimir o texto solicitando
+        que os campos sejam preenchidos.
+    */
+    if (senhaInput === '' || apelidoOuEmailInput === '') {
+        naoCadastrado.setAttribute("style", "display: block");
+        naoCadastrado.textContent = "Por favor, preencha todos os campos";
+        return;
+    }
 
     //trazendo o array de objetos que está no local storage
     listaUsuario = JSON.parse(localStorage.getItem("listaUsuario"));
