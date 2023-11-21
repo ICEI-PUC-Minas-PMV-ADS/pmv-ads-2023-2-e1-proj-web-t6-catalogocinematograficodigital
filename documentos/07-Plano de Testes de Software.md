@@ -67,8 +67,12 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir. 
 | Requisitos Associados | RF-02 |
 | Objetivo do Teste | Verificar se o sistema de busca e entrega o resultado esperado, a partir das palavras chaves informadas pelo usuário. |
 | Passos | 1. Fazer Login no sistema. |
-| |2. Após o Login, o usuário já está na Tela do Usuário, digitar palavras chaves do filme/série que deseja ser encontrada.  |
-| |3. Após busca no banco de Dados da API utilizada (TMDb), mostra os resultados, em forma de imagens representativas dos filmes, na área de Busca. |
+| |2. Após o Login, o usuário realiza a busca do filmes/série, através da digitação de palavras-chaves, na linha de pesquisa.  |
+| |3. Aparece, na tela de busca, o resultado da pesquisa. |
+| |4. O usuário, clica no filme/série desejado.  |
+| |5. Aparece um pop-up com as informações da escolha, como: sinopse, data, etc.  |
+| |6. O usuário pode clicar em um dos botões para Opção Assistidos ou Para Assistir.  |
+| |7. Aparece a mensagem de cadastro com Sucesso.  |
 | Critérios de êxito | 	A(s) palavra(s) chave(s) pesquisadas foram entregues em forma de opções de filmes/séries no resultado da busca. |
 | Responsável pela elaborar do caso de Teste | Márcia e Enzo |
 
