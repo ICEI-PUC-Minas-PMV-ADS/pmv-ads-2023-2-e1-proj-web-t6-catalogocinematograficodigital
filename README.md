@@ -20,7 +20,6 @@ Esse projeto visa criar uma plataforma online usável para cinéfilos e amantes 
 * André Lucas Corrêa de Andrade e Florio
 * Caio Costa Miranda
 * Enzo Wilker Alves Félix
-* Fábio Ribeiro de Barros
 * Márcia Verônica Costa Miranda
 * Rodrigo Pimentel do Nascimento
 
