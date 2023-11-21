@@ -44,6 +44,21 @@ Os arquivos que correspondem à funcionalidade de cadastro estão presentes na p
 - telausuario.css e
 - telausuario.js.
 
+Os arquivos, que implementam as demais funcionalidades, estão na pasta código-fonte, quais sejam:
+- telausuario.html,
+- telausuario.css,
+- telausuario.js,
+- listaAssistidos.html,
+- listaAssistidos.css,
+- listaAssistidos.js,
+- listaAssistir.html,
+- listaAssistir.css,
+- listaAssistir.js,
+- recuperar.html,
+- recuperar.css,
+- recuperar.js.
+
+  
 #### Estrutura de Dados
 
 Os dados que estão sendo salvos no localStorage que possibilitam o cadastro e login, apresentando a seguinte estrutura de dados:
@@ -63,9 +78,15 @@ Para o usuário utilizar o aplicativo CCD, deve, basicamente, seguir os seguinte
 
 As telas de acesso, referenciadas, estão ilustradas acima, no início dessa Sessão.
 
+Para o usuário cadastrar seus filmes deve realizar as seguintes operações:
+- Realizar o login na Tela de login do CCD.
+- Após login, o usuário já tem a diponibilidade de realizar buscas de filmes de sua preferência, digitando palavras-chaves na área de busca, clicar em Pesquisar.
+- Após a lista de filmes/séries disponibilizadas, que aparecerá abaixo da caixa de busca, o usuário poderá escolher se irá incluir na lista de filmes/séries Assistidos ou A Assisitr, através de pop up que aparecerá com o sumário descritivo do filme/série.
+- O usuário também pode acessar as listas de filmes Assistidos ou A Assistir para remover algum elemento adicionado. 
+
 #### Responsáveis
 
-Fábio Barros, Enzo Wilker, Márcia Miranda, Caio Costa.
+Enzo Wilker, Márcia Miranda, Caio Costa.
 
 
 
