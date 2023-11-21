@@ -78,6 +78,29 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir. 
 | Responsável pela elaborar do caso de Teste | Márcia e Enzo |
 
  
+|Caso de Teste    | CT-07 - Escolher Filmes/Séries Assistidos e A Assistir |
+|:---|:---|
+| Requisitos Associados | RF-05 |
+| Objetivo do Teste | Verificar se a ação de inserção de filmes/séries pesquisados na lista de Assistidos e A Assistir está funcionando corretamente. |
+| Passos | 1. Após resultado da Busca, o usuário clica no filme de sua preferência. |
+| |2. Abrirá uma janela pop-up com a sinopse do filme, data de lançamento, duração, etc.  |
+| |3. O usuário pode escolher clicar no botão “Lista para Assistir” ou “Lista Assistidos”. |
+| |4. Após clicar em um dos botões, aparecerá uma janela Pop-up, confirmando a operação realizada com sucesso.  |
+| Critérios de êxito | 	O filme/série escolhido será armazenado no Local Storage na Lista de Assistidos ou A Assistir. |
+| Responsável pela elaborar do caso de Teste | Márcia e Enzo |
+
+
+|Caso de Teste    | CT-08 - Listar Filmes/Séries Assistidos e A Assistir |
+|:---|:---|
+| Requisitos Associados | RF-05 |
+| Objetivo do Teste | Verificar se a lista de Filmes Assistidos e Para Assistir, do Local Storage, está correta. |
+| Passos | 1. Após Login, o usuário poderá clicar no botão “Assistidos” ou “Para Assistir”. |
+| |2. Se clicar no botão “Assistidos”, aparecerão as imagens dos filmes escolhidos como Assistidos, na busca realizada anteriormente.  |
+| |3. Se clicar no botão “Para Assistir”, aparecerão as imagens dos filmes escolhidos como Para Assistir, na busca realizada anteriormente. |
+| Critérios de êxito | 	A lista de filmes “Assistidos” ou “Para Assistir” exibem, corretamente, os filmes escolhidos. |
+| Responsável pela elaborar do caso de Teste | Márcia e Enzo |
+
+  
 > **Links Úteis**:
 > - [IBM - Criação e Geração de Planos de Teste](https://www.ibm.com/developerworks/br/local/rational/criacao_geracao_planos_testes_software/index.html)
 > -  [Teste de Software: Conceitos e tipos de testes](https://blog.onedaytesting.com.br/teste-de-software/)
