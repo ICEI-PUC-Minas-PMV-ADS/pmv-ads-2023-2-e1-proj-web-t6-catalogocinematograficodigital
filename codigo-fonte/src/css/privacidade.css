@@ -9,6 +9,11 @@
 	box-sizing: border-box;
 }
 
+a {
+	color:#fff;
+	text-decoration: none;
+}
+
 body {
 	/* Exibição flexível. */
 	/* Torna o elemento um flex container */
@@ -153,8 +158,8 @@ main {
     margin: 0 auto; /* Define margens automáticas entre cabeçalho e rodapé */
     text-align: center; /* Centraliza o texto dentro da <main> */
   	background-color: rgb(199, 165, 238, 0.2);      /*plano de fundo*/
-  	padding: 20px;                                    
-    border-radius: 10px;                              
+	padding: 20px;
+	border-radius: 10px;
     box-shadow: 0 0 10px #0000001a;                 /*sombra ao plano de fundo*/
 }
 
@@ -165,12 +170,12 @@ h2.centered {
 }
 
 h1 {
-	font-size: 40px;
+	font-size: 30px;
 	margin-bottom: 25px;
 }
 
 h2 {
-	font-size: 30px;
+	font-size: 20px;
 }
 
 /* Estilos para alinhar os parágrafos à esquerda */
@@ -178,7 +183,7 @@ p.left-aligned {
   	text-align: left;
 	margin-bottom: 20px;
   	max-width: 1000px;
-  	font-size: 25px;
+  	font-size: 18px;
 }
 
 footer {

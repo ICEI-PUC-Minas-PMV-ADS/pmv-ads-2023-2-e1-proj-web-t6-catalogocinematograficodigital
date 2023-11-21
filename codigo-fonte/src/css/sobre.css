@@ -131,6 +131,11 @@ header #logo img {
     background-color: #0056b3;
 }
 
+a {
+	color:#fff;
+	text-decoration: none;
+}
+
 nav {
 	/* Alinha os itens na vertical. */
 	justify-content: center;
@@ -163,7 +168,7 @@ main .conteudo {
 }
 
 h2 {
-	font-size: 40px;
+	font-size: 30px;
 	text-align: center;
 	margin: 10px 0;
 }
@@ -172,7 +177,7 @@ h2 {
     display: flex; /* Torna o elemento um contêiner flex */
     flex-direction: column; /* Alinha os elementos internos em coluna */
     align-items: center; /* Alinha verticalmente ao centro */
-	font-size: 25px;
+	font-size: 18px;
 }
 
 #txtsobre p {
@@ -184,7 +189,7 @@ h2 {
     flex-direction: column; /* Alinha os elementos em coluna */
     justify-content: center; /* Alinha verticalmente ao centro no início da página */
     padding: 0; /* Remova o preenchimento padrão da lista não ordenada */
-	font-size: 25px;
+	font-size: 18px;
 }
 
 #txtrecursos li {

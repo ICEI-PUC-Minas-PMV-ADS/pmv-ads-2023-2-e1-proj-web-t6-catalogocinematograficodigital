@@ -17,9 +17,7 @@ Como mencionado anteriormente, o Scrum é uma abordagem ágil e colaborativa que
 
 ## Gerenciamento de Projeto
 
-A metodologia ágil escolhida para o desenvolvimento deste projeto foi o SCRUM, pois como citam Amaral, Fleury e Isoni (2019, p. 68), seus benefícios são a
-
-“visão clara dos resultados a entregar; ritmo e disciplina necessários à execução; definição de papéis e responsabilidades dos integrantes do projeto (Scrum Owner, Scrum Master e Team); empoderamento dos membros da equipe de projetos para atingir o desafio; conhecimento distribuído e compartilhado de forma colaborativa; ambiência favorável para crítica às ideias e não às pessoas.”
+A metodologia ágil escolhida para o desenvolvimento deste projeto foi o SCRUM, pois como citam Amaral, Fleury e Isoni (2019, p. 68), seus benefícios são a visão clara dos resultados a entregar; ritmo e disciplina necessários à execução; definição de papéis e responsabilidades dos integrantes do projeto (Scrum Owner, Scrum Master e Team); empoderamento dos membros da equipe de projetos para atingir o desafio; conhecimento distribuído e compartilhado de forma colaborativa; ambiência favorável para crítica às ideias e não às pessoas.”
 
 
 ### Divisão de Papéis
@@ -39,9 +37,9 @@ Os papéis, na Equipe 4, foram distribuídos da seguinte maneira:
 
 ●	**Scrum Master**: Márcia Verônica Costa Miranda.
 
-●	**Equipe de Design**: _Fábio Ribeiro de Barros_, Caio Costa Miranda, Enzo Wilker Alves Félix.
+●	**Equipe de Design**: _Enzo Wilker Alves Félix_, Caio Costa Miranda, Márcia V. Costa Miranda, Fábio Ribeiro de Barros (saiu do curso).
 
-●	**Equipe de Desenvolvimento**: _Fábio Ribeiro de Barros, Enzo Wilker Alves Félix_, Márcia Verônica Costa Miranda, Caio Costa Miranda, Rodrigo e André Lucas Corrêa de Andrade e Florio.
+●	**Equipe de Desenvolvimento**: _Enzo Wilker Alves Félix_, Márcia Verônica Costa Miranda, Caio Costa Miranda, Rodrigo e André Lucas Corrêa de Andrade e Florio, Fábio Ribeiro de Barros (saiu do curso).
 
 As tarefas são organizadas nos backlog do produto, e, em todo processo de construção da aplicação, a equipe reuniu-se semanalmente para definição e planejamento das tarefas, distribuição das atividades, revisão e planejamento dos próximos passos.
 Esse processo de desenvolvimento foi sempre auxiliado pela utilização de diversas ferramentas de comunicação, documentação e construção de softwares.
@@ -89,8 +87,30 @@ Esse processo de desenvolvimento foi sempre auxiliado pela utilização de diver
 
        Referências atualizadas
 
+- **Etapa 4 (Sprint 4)**:
+  
+       Documentação de Contexto
 
-#### Etapa 1 (Sprint 1):
+       Especificação do Projeto
+
+       Metodologia
+
+       Projeto de Interface
+  
+       Template da aplicação
+  
+       Programação de Funcionalidades
+  
+       Programação das demais Funcionalidades
+  
+       Plano de Testes de Software
+
+       Registro de Testes de Software
+
+       Referências atualizadas
+
+  
+### Etapa 1 (Sprint 1):
 
 *1.1 Planejamento:*
 
@@ -137,7 +157,7 @@ Figura 4 – Construção da apresentação do projeto – Etapa 1
 Figura 5 – Kanban da Etapa 1
 
 
-#### Sprint 2:
+### Sprint 2:
 
 *2.1 Planejamento:*
 
@@ -185,12 +205,13 @@ Figura 5 - Kanban da Etapa 2
 
 Figura 6- Kanban da Etapa 2 - Atividades Executadas
 
-#### Sprint 3:
+
+### Sprint 3:
+
 
 *3.1 Planejamento:*
 
 O planejamento dessa etapa consistiu dos Templates da Aplicação, baseados nos Fluxos de Usuários e Telas da interface, além dos protótipos já planejados anteriormente, a programação das funcionalidades de mais elevada prioridade, em HTML, CSS e Javascript, que são as ferramentas utilizadas e necessárias durante essa etapa. Para essa etapa, foi planejado a implemenação do Requisito Funcional RF-01: Cadastro do Usuário.
-
 
 *3.2 Execução:*
 
@@ -226,9 +247,11 @@ i. GitHub - textos e atualizações: Márcia;
 j. Correções e Revisões gerais (Programação e GitHub): Márcia, Fábio, Enzo, Caio, André e Rodrigo.
 
 
-Foi planejado o template padrão do projeto, que irá aparecer nas páginas do projeto, com um menu de contexto, no canto superior direito, um menu de navegação geral no rodapé, e conteúdo centralizado na página. Optamos por utilizar, inicialmente, a fonte Time News Roman, cor branca, para os botões de menus, e fonte Serif, cor preta, para os textos das páginas. Os botões de menus, tanto de contexto e navegação geral, são da cor azul.
+Foi planejado o template padrão do projeto, que irá aparecer nas páginas do projeto, com um menu de contexto, no canto superior direito, um menu de navegação geral no rodapé, e conteúdo centralizado na página. Optamos por utilizar, inicialmente, a fonte Time News Roman, cor branca, para os botões de menus, e fonte Serif, cor preta, para os textos das páginas. Os botões de menus de navegação superior são da cor azul e os botões do rodapé são da cor vermelha.
 
-Ademais, a equipe se focou na construção, desde a fase de planejamento até a execução, de um padrão de responsividade, pelo programa, que fosse congruente com as necessidades dos usuários, já desenvolvendo a visualização dos elementos do programa para o desktop, o tablet e dispositivos móveis. Tais funcionalidades foram desenvolvidas, revisadas e aprimoradas do decorrer da fase de revisão do sprint. 
+Ademais, a equipe focou na construção, desde a fase de planejamento até a execução, de um padrão de responsividade, pelo programa, que fosse congruente com as necessidades dos usuários, já desenvolvendo a visualização dos elementos do programa para o desktop, o tablet e dispositivos móveis. Tais funcionalidades foram desenvolvidas, revisadas e aprimoradas do decorrer da fase de revisão do sprint. 
+
+Quanto à correções relativa à implementação da Funcionalidade do Cadastro do usuário (RF-01), foi especificada a estrutura de dados para os dados cadastrais dos usuários. Conforme observa-se na Figura 6, ilustra-se a implementação dessa funcionalidade, exibindo-se a estrutura de dados utilizada no projeto, além dos dados armazenados no Local Storage.
 
 *3.3 Evidências:*
 
@@ -246,15 +269,102 @@ Figura 2 - Encontro da equipe para compartilhar tarefas já executadas, dúvidas
 
 Figura 3 - Imagem de tela do Visual Studio - programação da tela SOBRE do aplicativo do projeto.
 
-![15-Telas Home e Cadastro-Etapa 3](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t6-catalogocinematograficodigital/assets/145228139/1ce7a8e3-98cf-4c95-adec-0dd261fe1e57)
+
+![9-Tela Home e Cadastro](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t6-catalogocinematograficodigital/assets/145228139/feb62278-defb-45e7-ae57-493eca41f433)
 
 Figura 4 - Tela Home e Tela de Cadastro do Aplicativo CCD
 
 ![8-Kanban-desenvolvimento Etapa 3](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t6-catalogocinematograficodigital/assets/145228139/22c1f6cd-ddbb-4537-bfcc-3897d92e00fa)
 
 Figura 5- Kanban da Etapa 3 - tarefas em desenvolvimento e executadas
-  
 
+![Estrutura de Dados - Local Storage](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t6-catalogocinematograficodigital/assets/145228888/c1020d29-3c10-4fba-961e-357460f181ba)
+
+Figura 6 - Estrutura de Dados do Cadastro de Usuários no Local Storage
+
+
+### Sprint 4:
+
+*4.1 Planejamento:*
+
+O planejamento dessa etapa consistiu na especificação e codificação das demais funcionalidades da Aplicação, consistindo na programação das demais telas, que podem ser visualizadas nos Fluxos de Usuários e Telas da interface - já apresentadas na Sessão 04. Foram programadas os Requisitos Funcionais restantes, com suas funcionalidades básicas, em HTML, CSS e Javascript, que são as ferramentas utilizadas em todo o projeto. 
+
+Para essa etapa, foram planejadas as implemenaões dos seguintes Requisitos Funcionais:
+RF-02: Cadastro de Filmes e Séries
+RF-03: Manutenção, Edição e Exclusão de Filmes / séries cadastrados.
+RF-04: Pesquisa de filmes por palavras-chaves.
+RF-05: Listagem de filmes/séries A Assistir e Assistidos
+RF-06: Avaliações e Comentários
+
+
+*4.2 Execução:*
+
+No início dessa etapa, o componente da equipe, Fábio Ribeiro de Barros, por motivos pessoais, solicitou cancelamento de sua matrícula no curso.
+
+A equipe continuou com a metodologia de realização de reuniões semanais, para planejamento e distribuição das atividades relativas à etapa, bem como apresentar ao grupo a atualização do que já foi implementado e atualizado, em cada Requisito Funcional implementado.
+
+Faz-se necessário relatar as dificuldades encontradas, no processo de programação, notadamente na utilização do recurso API, para busca de informações sobre filmes e séries. Esse recurso foi novidade para os membros do grupo, necessitando esforço de aprendizado e utilização.
+Em todo processo, foram compartilhados aprendizados das linguagens utilizadas (HTML, CSS e JavaScript), entre os membros da equipe que participaram da implemetação efetiva do aplicativo. 
+
+Houve intensa colaboração da equipe, durante todas as dificuldades de programação.
+Os integrantes Enzo especificou a Tela do Usuário, que permite a busca de filmes/séries, utilizado pelas demais Telas. Os integrantes Márcia e Caio atualizaram esse código, na medida que programavam as demais telas.
+
+Foram implementadas as Telas de Usuário / Pesquisa e Cadastro de Filmes, Tela de Filmes Assistidos, Tela de Filmes a Assistir e Tela de Avaliação de Filmes com comentários, do aplicativo CCD. 
+Todas essas telas são relativas ao Requisito Funcional RF-02, RF-03, RF-04, RF-05 e RF-06, constituindo na conclusão dos Requisitos Funcionais propostos.
+
+Nesse processo e baseado nos protótipos já planejados na etapa anterior, as atividades foram distribuídas entre os membros da equipe, que facilitou a obtenção do produto final.
+
+As tarefas, nessa etapa, foram assim distribuídas:
+
+a. Tela do Usuário e Busca: Enzo e Márcia;
+
+b. Tela de Cadastro de Filmes/Séries: Enzo;
+
+c. Tela de Filmes A Assistir: Márcia;
+
+d. Tela de Filmes Assistidos: : Caio;
+
+e. Comentários e Avaliação dos Filmes Assistidos: Caio e Márcia; 
+
+f. GitHub - textos e atualizações: Márcia, Caio e Enzo;
+
+g. Correções e Revisões gerais (Programação e GitHub): Márcia, Enzo e Caio.
+
+
+Foram utilizadas janelas Pop-up (modais) para implementação de algumas ações de telas, como opções de inserção na lista de Assistidos ou A Assistir, Remover filmes da lista, mensagens de ação realizada com sucesso, etc.
+O padrao de template, fontes e cores, especificados na etapa anterior, continuou a ser utilizado nesssa etapa, para complementação da programação do Aplicativo CCD.
+
+A equipe procurou manter o padrão de responsividade, já utilizada na etapa anterior, congruente com as necessidades dos usuários. Tais funcionalidades foram desenvolvidas, revisadas e aprimoradas do decorrer da fase de revisão do sprint. 
+
+A estrutura de dados utilizada, para os dados obtidos dos filmes/séries, está ilustrada na Figura 6. Essas informações foram obtidas a partir da utilização da API do TMDb, estão armazenadas no Local Storage.
+
+
+*4.3 Evidências:*
+
+Algumas demonstrações das atividades realizadas nessa etapa, estão nas imagens abaixo:
+
+
+![10-Reunião e Resumo-16-11-2023](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t6-catalogocinematograficodigital/assets/145228139/5801927a-93fc-4234-912c-dd0b3b49a642)
+
+Figura 1 - Ata da Reunião da equipe para distribuição de tarefas e Encontro de parte da equipe para planejamento, atualização de ações e avaliação de atividades.
+
+
+![2-1-Tela Busa e resultado Busca-2](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t6-catalogocinematograficodigital/assets/145228139/91f048eb-df0a-49fa-b381-02ff5b48d530)
+
+Figura 2 - Tela do Usuário: Busca de Filmes e Resultado da Busca.
+
+
+![4-Tela Filmes Assistidos e Modal comentários-2](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t6-catalogocinematograficodigital/assets/145228139/94afae87-f5aa-4c49-b68d-6b707406bf66)
+
+Figura 3 - Telas de Lista de Filmes/séries Assistidos e Tela para Avaliação e Comentários de Filmes/série assistido
+
+![8-Estrutura de dados do filme-informações da API-2](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t6-catalogocinematograficodigital/assets/145228139/548ebd0a-e0b5-4e03-bb84-6f6208d2f3cb)
+
+Figura 4 - Estrutura de Dados com informações dos filmes pesquisados pela API TMDb.
+
+![13-Kanban - Etapa 4](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t6-catalogocinematograficodigital/assets/145228139/f531dd6a-afe7-45bd-be98-f7bbc84cab0b)
+
+Figura 5 - Kanban da Etapa 4 - tarefas em desenvolvimento e executadas.
 
 ### Ferramentas
 

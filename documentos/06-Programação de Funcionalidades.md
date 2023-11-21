@@ -5,17 +5,28 @@ Implementação da aplicação descritas por meio dos requisitos codificados.
 *Etapa 3* (_Sprint 3_):
 
 ## Título da Funcionalidade: Cadastro de usuário
+
+
 Tela inicial: 
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t6-catalogocinematograficodigital/assets/95872126/5a147d27-b3b9-4e6f-bdf7-db80d5b277ee)
+
+![1-1-Tela CCD](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t6-catalogocinematograficodigital/assets/145228139/e287c6d1-cd7f-43fb-9671-1bf006fbf8ec)
 
 Tela de cadastro:
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t6-catalogocinematograficodigital/assets/95872126/294b326d-3eee-457a-8a21-87560b63f027)
+
+![1-3-Tela Cadastro](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t6-catalogocinematograficodigital/assets/145228139/7f928744-4549-4a99-b12e-b4c5ab403532)
+
 
 Tela de login:
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t6-catalogocinematograficodigital/assets/95872126/28740151-2989-4260-8315-cb70919fd97c)
 
-Tela usuário:
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t6-catalogocinematograficodigital/assets/95872126/76c283c7-a0dc-49aa-b686-a35a24c76c30)
+![1-0-Tela Login](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t6-catalogocinematograficodigital/assets/145228139/8f9fda42-ba2b-43d8-a232-4e9f3bf68a75)
+
+
+Tela Contato:
+
+![1-2-Tela Contato](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t6-catalogocinematograficodigital/assets/145228139/b05824e5-2a26-42d0-8f37-5c9637b2d297)
+
+
+
 
 #### Requisito atendido
 
@@ -33,6 +44,21 @@ Os arquivos que correspondem à funcionalidade de cadastro estão presentes na p
 - telausuario.css e
 - telausuario.js.
 
+Os arquivos, que implementam as demais funcionalidades, estão na pasta código-fonte, quais sejam:
+- telausuario.html,
+- telausuario.css,
+- telausuario.js,
+- listaAssistidos.html,
+- listaAssistidos.css,
+- listaAssistidos.js,
+- listaAssistir.html,
+- listaAssistir.css,
+- listaAssistir.js,
+- recuperar.html,
+- recuperar.css,
+- recuperar.js.
+
+  
 #### Estrutura de Dados
 
 Os dados que estão sendo salvos no localStorage que possibilitam o cadastro e login, apresentando a seguinte estrutura de dados:
@@ -52,9 +78,15 @@ Para o usuário utilizar o aplicativo CCD, deve, basicamente, seguir os seguinte
 
 As telas de acesso, referenciadas, estão ilustradas acima, no início dessa Sessão.
 
+Para o usuário cadastrar seus filmes deve realizar as seguintes operações:
+- Realizar o login na Tela de login do CCD.
+- Após login, o usuário já tem a diponibilidade de realizar buscas de filmes de sua preferência, digitando palavras-chaves na área de busca, clicar em Pesquisar.
+- Após a lista de filmes/séries disponibilizadas, que aparecerá abaixo da caixa de busca, o usuário poderá escolher se irá incluir na lista de filmes/séries Assistidos ou A Assisitr, através de pop up que aparecerá com o sumário descritivo do filme/série.
+- O usuário também pode acessar as listas de filmes Assistidos ou A Assistir para remover algum elemento adicionado. 
+
 #### Responsáveis
 
-Fábio Barros, Enzo Wilker, Márcia Miranda, Caio Costa.
+Enzo Wilker, Márcia Miranda, Caio Costa.
 
 
 
