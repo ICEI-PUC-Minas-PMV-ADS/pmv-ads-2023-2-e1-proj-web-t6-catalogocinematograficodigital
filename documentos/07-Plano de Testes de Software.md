@@ -50,9 +50,9 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir. 
 | Responsável pela elaborar do caso de Teste | Márcia  |
 
 
-|Caso de Teste    | CT-05 - Funcionalidade Cadastro de Filmes / Séries |
+|Caso de Teste    | CT-05 - Funcionalidade Pesquisa de Filmes / Séries |
 |:---|:---|
-| Requisitos Associados | RF-02 |
+| Requisitos Associados | RF-04 |
 | Objetivo do Teste | Verificar se o sistema de busca e entrega o resultado esperado, a partir das palavras chaves informadas pelo usuário. |
 | Passos | 1. Fazer Login no sistema. |
 | |2. Após o Login, o usuário já está na Tela do Usuário, digitar palavras chaves do filme/série que deseja ser encontrada.  |
@@ -61,6 +61,16 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir. 
 | Responsável pela elaborar do caso de Teste | Márcia e Enzo |
 
 
+
+|Caso de Teste    | CT-06 - Funcionalidade Cadastro de Filmes / Séries |
+|:---|:---|
+| Requisitos Associados | RF-02 |
+| Objetivo do Teste | Verificar se o sistema de busca e entrega o resultado esperado, a partir das palavras chaves informadas pelo usuário. |
+| Passos | 1. Fazer Login no sistema. |
+| |2. Após o Login, o usuário já está na Tela do Usuário, digitar palavras chaves do filme/série que deseja ser encontrada.  |
+| |3. Após busca no banco de Dados da API utilizada (TMDb), mostra os resultados, em forma de imagens representativas dos filmes, na área de Busca. |
+| Critérios de êxito | 	A(s) palavra(s) chave(s) pesquisadas foram entregues em forma de opções de filmes/séries no resultado da busca. |
+| Responsável pela elaborar do caso de Teste | Márcia e Enzo |
 
  
 > **Links Úteis**:
