@@ -358,7 +358,8 @@ Figura 2 - Tela do Usuário: Busca de Filmes e Resultado da Busca.
 
 Figura 3 - Telas de Lista de Filmes/séries Assistidos e Tela para Avaliação e Comentários de Filmes/série assistido
 
-![8-Estrutura de dados do filme-informações da API](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t6-catalogocinematograficodigital/assets/145228139/3a556810-ef9a-497e-8b14-2cc57470490a)
+
+![4-Tela Filmes Assistidos e Modal comentários-2](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t6-catalogocinematograficodigital/assets/145228139/8469dec3-7383-4245-b681-36967530f2a7)
 
 Figura 4 - Estrutura de Dados com informações dos filmes pesquisados pela API TMDb.
 
