@@ -8,21 +8,60 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir. 
 |Caso de Teste    | CT-01 - Funcionalidade do Cadastro do Usuário |
 |:---|:---|
 | Requisitos Associados | RF-01 |
-| Objetivo do Teste | Verificar se o cadastro do usuário está correto |
-| Passos | 1. Na página inicial, usuário clica em "Cadastre-se" ou "Crie sua conta". 2. Na Tela de Cadastro,  preencher todos os campos disponíveis na página. 3. Após realizar o Cadastro, será dirigido, automaticamente, para a Tela de Login. 4. Preencher os dados, podendo utilizar o apelido ou o email cadastrado, seguido da senha. 5. Caso necessite, o usuário poderá acessar a informações de FAQ (Perguntas frequentes do aplicativo), Termos e Condições de Uso, Política de Privacidade e requisitar Contato com suporte da página, disponibilizados em botões no Menu do Rodapé, constante nas páginas do aplicativo. |
-| Critérios de êxito | Cadastro concluído, com possibilidade do usuário acessar à página  |
+| Objetivo do Teste | Verificar se, a partir dos dados preenchidos pelo usuário, a funcionalidade do cadastro é concluída corretamente. |
+| Passos | 1. Na página inicial, usuário clica no botão  "Cadastre-se". |
+| |2. Na Tela de Cadastro, preencher todos os campos do formulário, por exemplo: Nome, Apelido, Email, Senha. |
+| |3. Clicar no botão “Cadastrar”. Após realizar o Cadastro, será redirecionado, automaticamente, para a Tela de Login.|
+| Critérios de êxito | Cadastro concluído, aparecerá a mensagem “Cadastro concluído”, com perfil criado do usuário e possibilidade do usuário acessar à página. |
+| Responsável pela elaborar do caso de Teste | Márcia  |
+
+
+|Caso de Teste    | CT-02 - Funcionalidade do Login do Usuário |
+|:---|:---|
+| Requisitos Associados | RF-01 |
+| Objetivo do Teste | Verificar se, a partir dos dados preenchidos pelo usuário na Tela de Login, a funcionalidade do Login/acesso à página é realizado com sucesso. |
+| Passos | 1. Na página inicial, usuário clica no botão  "Login". |
+| |2. Preencher todos os campos Apelido/E-Mail e Senha. |
+| |3. Clicar no botão “Entrar”. Após realizar o Login, caso os dados estejam corretos, será redirecionado, automaticamente, para a Tela do Usuário. Caso contrário, aparecerá mensagem de Erro, para digitar os dados corretamente ou Recuperar senha.|
+| Critérios de êxito | Login concluído, caso os dados estejam corretos, será redirecionado, automaticamente, para a Tela do Usuário. |
 | Responsável pela elaborar do caso de Teste | Márcia  |
 
 
 
-
-|Caso de Teste    | CT-X - Título Caso de Teste |
+|Caso de Teste    | CT-03 - Funcionalidade Recuperar Senha do Usuário |
 |:---|:---|
-| Requisitos Associados | RF-X |
-| Objetivo do Teste | Descrição do objetivo do teste |
-| Passos | Indicar passos para a execução do teste |
-| Critérios de êxito | Indicar os critérios de êxito  |
-| Responsável pela elaborar do caso de Teste | responsáveis |
+| Requisitos Associados | RF-01 |
+| Objetivo do Teste | Verificar se, a partir do Email digitado na Tela Recuperar Senha, o usuário recebe mensagem no Email cadastrado com sucesso. |
+| Passos | 1. Na página Login, usuário clica no botão "Recuperar Senha". |
+| |2. Inserir informação do E-Mail Cadastrado.  |
+| |3. Clicar no botão “Entrar E-mail Recuperação”. Caso e-mail informado esteja correto, o usuário receberá mensagem para recuperação da senha.|
+| Critérios de êxito | Mensagem de recuperação de senha enviada para o Email informado pelo Usuário. |
+| Responsável pela elaborar do caso de Teste | Márcia  |
+
+
+	
+|Caso de Teste    | CT-04 - Funcionalidade Sair da Página |
+|:---|:---|
+| Requisitos Associados | RF-01 |
+| Objetivo do Teste | Verificar se o Botão "Sair" efetua o Logout do sistema com sucesso. |
+| Passos | 1. Na página inicial, usuário clica no botão "Sair". |
+| |2. Após Sair da página, será direcionado à Tela de Login.  |
+| Critérios de êxito | Saída concluída, será redirecionado, automaticamente, para a Tela de Login. |
+| Responsável pela elaborar do caso de Teste | Márcia  |
+
+
+|Caso de Teste    | CT-05 - Funcionalidade Cadastro de Filmes / Séries |
+|:---|:---|
+| Requisitos Associados | RF-02 |
+| Objetivo do Teste | Verificar se o sistema de busca e entrega o resultado esperado, a partir das palavras chaves informadas pelo usuário. |
+| Passos | 1. Fazer Login no sistema. |
+| |2. Após o Login, o usuário já está na Tela do Usuário, digitar palavras chaves do filme/série que deseja ser encontrada.  |
+| |3. Após busca no banco de Dados da API utilizada (TMDb), mostra os resultados, em forma de imagens representativas dos filmes, na área de Busca. |
+| Critérios de êxito | 	A(s) palavra(s) chave(s) pesquisadas foram entregues em forma de opções de filmes/séries no resultado da busca. |
+| Responsável pela elaborar do caso de Teste | Márcia e Enzo |
+
+
+
  
 > **Links Úteis**:
 > - [IBM - Criação e Geração de Planos de Teste](https://www.ibm.com/developerworks/br/local/rational/criacao_geracao_planos_testes_software/index.html)
