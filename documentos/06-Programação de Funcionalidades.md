@@ -6,9 +6,10 @@ Implementação da aplicação descritas por meio dos requisitos codificados.
 
 ## Título da Funcionalidade: Cadastro de usuário
 
+
 Tela inicial: 
 
-![1-Tela Home](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t6-catalogocinematograficodigital/assets/145228139/011d8184-37f5-4855-8e62-ad6eb46b1484)
+![1-1-Tela CCD](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t6-catalogocinematograficodigital/assets/145228139/e287c6d1-cd7f-43fb-9671-1bf006fbf8ec)
 
 Tela de cadastro:
 
