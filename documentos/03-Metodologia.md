@@ -349,11 +349,12 @@ Algumas demonstrações das atividades realizadas nessa etapa, estão nas imagen
 Figura 1 - Ata da Reunião da equipe para distribuição de tarefas e Encontro de parte da equipe para planejamento, atualização de ações e avaliação de atividades.
 
 
-![11-Telas e Busca e Resultado da busca](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t6-catalogocinematograficodigital/assets/145228139/9de92984-6ebb-47c9-968d-7e837125af57)
+![2-1-Tela Busa e resultado Busca-2](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t6-catalogocinematograficodigital/assets/145228139/91f048eb-df0a-49fa-b381-02ff5b48d530)
 
 Figura 2 - Tela do Usuário: Busca de Filmes e Resultado da Busca.
 
-![12-Telas de Filmes assistidos-Modal avaliação e comentários](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t6-catalogocinematograficodigital/assets/145228139/76878521-d9e0-4c5c-9e49-0f144e5b5bc5)
+
+![4-Tela Filmes Assistidos e Modal comentários-2](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t6-catalogocinematograficodigital/assets/145228139/94afae87-f5aa-4c49-b68d-6b707406bf66)
 
 Figura 3 - Telas de Lista de Filmes/séries Assistidos e Tela para Avaliação e Comentários de Filmes/série assistido
 
