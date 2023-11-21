@@ -11,7 +11,7 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir. 
 | Objetivo do Teste | Verificar se o cadastro do usuário está correto |
 | Passos | 1. Na página inicial, usuário clica em "Cadastre-se" ou "Crie sua conta". 2. Na Tela de Cadastro,  preencher todos os campos disponíveis na página. 3. Após realizar o Cadastro, será dirigido, automaticamente, para a Tela de Login. 4. Preencher os dados, podendo utilizar o apelido ou o email cadastrado, seguido da senha. 5. Caso necessite, o usuário poderá acessar a informações de FAQ (Perguntas frequentes do aplicativo), Termos e Condições de Uso, Política de Privacidade e requisitar Contato com suporte da página, disponibilizados em botões no Menu do Rodapé, constante nas páginas do aplicativo. |
 | Critérios de êxito | Cadastro concluído, com possibilidade do usuário acessar à página  |
-| Responsável pela elaborar do caso de Teste | Enzo, Márcia (Fábio- deixou o curso) |
+| Responsável pela elaborar do caso de Teste | Márcia  |
 
 
 
