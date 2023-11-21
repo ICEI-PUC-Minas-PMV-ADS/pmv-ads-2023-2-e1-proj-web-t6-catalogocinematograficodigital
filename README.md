@@ -1,4 +1,7 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/sy1vqBms)
+
+![logo-OK](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t6-catalogocinematograficodigital/assets/145228139/e204410a-1b7c-421f-9758-7fc7f472912d)
+
 # CCD - Catálogo Cinematográfico Digital
 
 `CURSO`: Tecnologia em Análise e Desenvolvimento de Sistemas
