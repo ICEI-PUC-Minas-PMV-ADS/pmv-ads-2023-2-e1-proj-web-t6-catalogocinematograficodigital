@@ -13,7 +13,8 @@ Tela inicial:
 
 Tela de cadastro:
 
-![2-Tela Cadastro](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t6-catalogocinematograficodigital/assets/145228139/7a214cba-968e-401a-8ee1-eeb384936d11)
+![1-3-Tela Cadastro](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t6-catalogocinematograficodigital/assets/145228139/7f928744-4549-4a99-b12e-b4c5ab403532)
+
 
 Tela de login:
 
@@ -21,7 +22,8 @@ Tela de login:
 
 Tela Contato:
 
-![8-Tela Contato](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t6-catalogocinematograficodigital/assets/145228139/ffb5e286-b3e7-4d17-a2e5-66d9b757f895)
+![1-2-Tela Contato](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t6-catalogocinematograficodigital/assets/145228139/b05824e5-2a26-42d0-8f37-5c9637b2d297)
+
 
 
 
