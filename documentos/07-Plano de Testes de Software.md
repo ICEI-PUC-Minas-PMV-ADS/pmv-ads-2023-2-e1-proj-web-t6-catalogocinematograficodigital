@@ -8,21 +8,22 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir. 
 |Caso de Teste    | CT-01 - Funcionalidade do Cadastro do Usuário |
 |:---|:---|
 | Requisitos Associados | RF-01 |
-| Objetivo do Teste | Verificar se, a partir dos dados preenchidos pelo usuário, a funcionalidade do cadastro é concluída corretamente. |
+| Objetivo do Teste | Verificar se, a partir dos dados preenchidos pelo usuário, a funcionalidade do cadastro está operando corretamente. |
 | Passos | 1. Na página inicial, usuário clica no botão  "Cadastre-se". |
-| |2. Na Tela de Cadastro, preencher todos os campos do formulário, por exemplo: Nome, Apelido, Email, Senha. |
-| |3. Clicar no botão “Cadastrar”. Após realizar o Cadastro, será redirecionado, automaticamente, para a Tela de Login.|
-| Critérios de êxito | Cadastro concluído, aparecerá a mensagem “Cadastro concluído”, com perfil criado do usuário e possibilidade do usuário acessar à página. |
+| |2. Na Tela de Cadastro, preencher todos os campos do formulário: Nome, Apelido, Email, Senha. |
+| |3. Clicar no botão “Cadastrar”.|
+| Critérios de êxito | Cadastro concluído: aparecerá a mensagem “Cadastro concluído”, com perfil criado do usuário e permissão do usuário acessar à página. |
 | Responsável pela elaborar do caso de Teste | Márcia  |
+
 
 
 |Caso de Teste    | CT-02 - Funcionalidade do Login do Usuário |
 |:---|:---|
 | Requisitos Associados | RF-01 |
-| Objetivo do Teste | Verificar se, a partir dos dados preenchidos pelo usuário na Tela de Login, a funcionalidade do Login/acesso à página é realizado com sucesso. |
+| Objetivo do Teste | Verificar se, a partir dos dados preenchidos pelo usuário na Tela de Login, a funcionalidade do Login/acesso à página está operando corretamente. |
 | Passos | 1. Na página inicial, usuário clica no botão  "Login". |
 | |2. Preencher todos os campos Apelido/E-Mail e Senha. |
-| |3. Clicar no botão “Entrar”. Após realizar o Login, caso os dados estejam corretos, será redirecionado, automaticamente, para a Tela do Usuário. Caso contrário, aparecerá mensagem de Erro, para digitar os dados corretamente ou Recuperar senha.|
+| |3. Clicar no botão “Entrar”. |
 | Critérios de êxito | Login concluído, caso os dados estejam corretos, será redirecionado, automaticamente, para a Tela do Usuário. |
 | Responsável pela elaborar do caso de Teste | Márcia  |
 
@@ -31,7 +32,7 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir. 
 |Caso de Teste    | CT-03 - Funcionalidade Recuperar Senha do Usuário |
 |:---|:---|
 | Requisitos Associados | RF-01 |
-| Objetivo do Teste | Verificar se, a partir do Email digitado na Tela Recuperar Senha, o usuário recebe mensagem no Email cadastrado com sucesso. |
+| Objetivo do Teste | Verificar se a Recuperação de Senha do Usuário está funcionando corretamente. |
 | Passos | 1. Na página Login, usuário clica no botão "Recuperar Senha". |
 | |2. Inserir informação do E-Mail Cadastrado.  |
 | |3. Clicar no botão “Entrar E-mail Recuperação”. Caso e-mail informado esteja correto, o usuário receberá mensagem para recuperação da senha.|
