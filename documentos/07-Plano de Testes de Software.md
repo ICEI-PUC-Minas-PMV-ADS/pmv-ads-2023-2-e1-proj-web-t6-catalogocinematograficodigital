@@ -5,19 +5,19 @@
 Os testes funcionais a serem realizados na aplicação são descritos a seguir. [Utilize a estrutura abaixo para cada caso de teste]
 
 
-|Caso de Teste    | CT-01 - Funcionalidade do Cadastro do Usuário |
+|Caso de Teste    | CT-01 - Cadastro do Usuário |
 |:---|:---|
 | Requisitos Associados | RF-01 |
 | Objetivo do Teste | Verificar se, a partir dos dados preenchidos pelo usuário, a funcionalidade do cadastro está operando corretamente. |
 | Passos | 1. Na página inicial, usuário clica no botão  "Cadastre-se". |
-| |2. Na Tela de Cadastro, preencher todos os campos do formulário: Nome, Apelido, Email, Senha. |
+| |2. Na Tela de Cadastro, o usuário deve preencher todos os campos do formulário: Nome, Apelido, Email, Senha. |
 | |3. Clicar no botão “Cadastrar”.|
-| Critérios de êxito | Cadastro concluído: aparecerá a mensagem “Cadastro concluído”, com perfil criado do usuário e permissão do usuário acessar à página. |
+| Critérios de êxito | Cadastro concluído: aparecerá a mensagem “Cadastro concluído”, com perfil criado do usuário e permissão do usuário acessar à página. No Local Storage aparecerá o perfil do usuário armazenado. |
 | Responsável pela elaborar do caso de Teste | Márcia  |
 
 
 
-|Caso de Teste    | CT-02 - Funcionalidade do Login do Usuário |
+|Caso de Teste    | CT-02 - Login do Usuário |
 |:---|:---|
 | Requisitos Associados | RF-01 |
 | Objetivo do Teste | Verificar se, a partir dos dados preenchidos pelo usuário na Tela de Login, a funcionalidade do Login/acesso à página está operando corretamente. |
@@ -55,9 +55,8 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir. 
 |:---|:---|
 | Requisitos Associados | RF-04 |
 | Objetivo do Teste | Verificar se o sistema de busca e entrega o resultado esperado, a partir das palavras chaves informadas pelo usuário. |
-| Passos | 1. Fazer Login no sistema. |
-| |2. Após o Login, o usuário já está na Tela do Usuário, digitar palavras chaves do filme/série que deseja ser encontrada.  |
-| |3. Após busca no banco de Dados da API utilizada (TMDb), mostra os resultados, em forma de imagens representativas dos filmes, na área de Busca. |
+| Passos | 1. Na página Inicial, o usuário, já logado, deve digitar palavras chaves do filme/série que deseja ser encontrada. |
+| |2. Após busca no banco de Dados da API utilizada (TMDb), resultados são exibidos, em forma de imagens representativas dos filmes, na área de Busca.  |
 | Critérios de êxito | 	A(s) palavra(s) chave(s) pesquisadas foram entregues em forma de opções de filmes/séries no resultado da busca. |
 | Responsável pela elaborar do caso de Teste | Márcia e Enzo |
 
