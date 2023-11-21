@@ -87,7 +87,7 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir. 
 | |3. O usuário pode escolher clicar no botão “Lista para Assistir” ou “Lista Assistidos”. |
 | |4. Após clicar em um dos botões, aparecerá uma janela Pop-up, confirmando a operação realizada com sucesso.  |
 | Critérios de êxito | 	O filme/série escolhido será armazenado no Local Storage na Lista de Assistidos ou A Assistir. |
-| Responsável pela elaborar do caso de Teste | Márcia e Enzo |
+| Responsável pela elaborar do caso de Teste | Márcia e Caio |
 
 
 |Caso de Teste    | CT-08 - Listar Filmes/Séries Assistidos e A Assistir |
@@ -98,7 +98,7 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir. 
 | |2. Se clicar no botão “Assistidos”, aparecerão as imagens dos filmes escolhidos como Assistidos, na busca realizada anteriormente.  |
 | |3. Se clicar no botão “Para Assistir”, aparecerão as imagens dos filmes escolhidos como Para Assistir, na busca realizada anteriormente. |
 | Critérios de êxito | 	A lista de filmes “Assistidos” ou “Para Assistir” exibem, corretamente, os filmes escolhidos. |
-| Responsável pela elaborar do caso de Teste | Márcia e Enzo |
+| Responsável pela elaborar do caso de Teste | Márcia e Caio |
 
   
 > **Links Úteis**:
