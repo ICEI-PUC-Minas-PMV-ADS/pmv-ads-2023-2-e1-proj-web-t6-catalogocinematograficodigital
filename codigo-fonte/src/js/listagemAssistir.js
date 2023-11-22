@@ -278,6 +278,7 @@ function adicionarParaAssistidos(button) {
         if (filmeSelecionado) {
             adicionarFilmeParaAssistidos(filmeSelecionado);
 			exibirMensagemAdicaoAssistidos();
+            removerFilmeParaAssistir(filmeSelecionado);
 
         } else {
             console.log(`Filme com ID ${movieId} não encontrado.`);
