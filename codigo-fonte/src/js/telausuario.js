@@ -10,7 +10,7 @@ const options = {
 	headers: {
 	  accept: "application/json",
 	  Authorization:
-		"Bearer eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiI2MzE0YWMxY2U4MDFiYjIyNWMyOWQ0NDRhMGExNTc3MSIsInN1YiI6IjY1NDUyYTkxZmQ0ZjgwMDBjN2ZiNzEwMiIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.ZlqAD021RQDPCc8mEVmMj3JqC_XeF9ixFOVxKaJnklQ",
+		"Bearer eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIxYTBkNzNmYWI0YTNlNDIxYzRhNjMwODQ4MDYwZjhkMiIsInN1YiI6IjY0ZTZjMWFlZTg5NGE2MDBjNzI3YWE4YyIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.K_ji1absdehuuNaRRhOx8KzMr5mM-Hgx1slkGyBWHlo",
 	},
 };
 
@@ -29,7 +29,6 @@ if (localStorage.getItem("token") === null) {
 	alert("Você precisa estar logado para acessar esta página");
 	saia();
 };
-// Facebook29@03ri
 
 /* Ação de eventos sobre o botão menu da tag nav (mobile). */
 /* Parâmetros: Nome do evento, função. */
@@ -59,7 +58,6 @@ openMenu.addEventListener('click', () => {
 	}, 10);
 })
 
-// FACEBOOK29@03ri
 
 /* Ação de eventos sobre o botão X da tag nav (mobile). */
 /* Parâmetros: Nome do evento, função. */
@@ -99,7 +97,6 @@ function saia() {
   Então na hora do fetch ele adiciona o item pesquisado e passa a chave de acesso da API.
   Então quando recebe o retorno da chamada chama uma função específica para exibir os filmes em tela.
 */
-
 function getFilmesPesquisa(termo_pesquisado) {
 	fetch(
 	  `https://api.themoviedb.org/3/search/multi?query=${termo_pesquisado}&include_adult=false&language=pt-BR&page=1`,
