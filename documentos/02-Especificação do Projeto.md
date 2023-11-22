@@ -120,7 +120,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 | RF-04 | Pesquisa e Filtragem:| Média | 
 |       |  •	Oferecer uma função para encontrar filmes e séries por título, gênero, diretor, etc.|       |
 |       |  •	Permitir que os usuários filtrem o conteúdo com base em critérios como gênero, ano, etc.|       |
-| RF-05 |  Listas de Favoritos e Assistidos:| Média  | 
+| RF-05 |  Listas de Fimles/Séries A Assistir e Assistidos:| Média  | 
 |       |  •	Permitir que os usuários adicionem filmes e séries a listas de favoritos e assistidos.|       |
 |       |  •	Possibilitar a visualização e gerenciamento dessas listas.|       |
 | RF-06 |  Avaliações e Comentários:| Média  | 

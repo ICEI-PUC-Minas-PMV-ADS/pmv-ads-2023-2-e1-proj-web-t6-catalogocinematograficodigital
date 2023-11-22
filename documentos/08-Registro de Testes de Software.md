@@ -2,7 +2,13 @@
 
 Relatório com as evidências dos testes de software realizados na aplicação pela equipe, baseado no plano de testes pré-definido.
 
-Os resultados dos testes funcionais realizados na aplicação são descritos a seguir. [Utilize a estrutura abaixo para cada caso de teste executado]
+Os resultados dos testes funcionais realizados na aplicação são descritos a seguir.
+
+|Caso de Teste    | CT-01 - Cadastro do Usuário |
+|:---|:---|
+| Resultados obtidos | Perfil do usuário armazenado no Local Storage  |
+| Responsável pela execução do caso de Teste | Márcia Miranda |
+
 
 |Caso de Teste    | CT-X - Título Caso de Teste |
 |:---|:---|

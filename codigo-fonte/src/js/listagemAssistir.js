@@ -42,7 +42,6 @@ openMenu.addEventListener('click', () => {
 	}, 10);
 })
 
-// FACEBOOK29@03ri
 
 /* Ação de eventos sobre o botão X da tag nav (mobile). */
 /* Parâmetros: Nome do evento, função. */
