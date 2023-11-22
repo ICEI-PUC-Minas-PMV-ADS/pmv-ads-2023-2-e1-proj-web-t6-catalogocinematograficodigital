@@ -10,7 +10,7 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir. 
 | Requisitos Associados | RF-01 |
 | Objetivo do Teste | Verificar se, a partir dos dados preenchidos pelo usuário, a funcionalidade do cadastro está operando corretamente. |
 | Passos | 1. Na página inicial, usuário clica no botão  "Cadastre-se". <br> 2. Na Tela de Cadastro, o usuário deve preencher todos os campos do formulário: Nome, Apelido, Email, Senha. <br> 3. Clicar no botão “Cadastrar”.|
-| Critérios de êxito | Cadastro concluído: aparecerá a mensagem “Cadastro concluído”, com perfil criado do usuário e permissão do usuário acessar à página. No Local Storage aparecerá o perfil do usuário armazenado. |
+| Critérios de êxito | Cadastro concluído: aparecerá a mensagem “Cadastro concluído”, com perfil criado do usuário e permissão do usuário acessar à página. No Local Storage, aparecerá o perfil do usuário armazenado. |
 | Responsável pela elaborar do caso de Teste | Márcia  |
 
 
@@ -25,7 +25,7 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir. 
 
 
 
-|Caso de Teste    | CT-03 - Funcionalidade Recuperar Senha do Usuário |
+|Caso de Teste    | CT-03 - Recuperar Senha do Usuário |
 |:---|:---|
 | Requisitos Associados | RF-01 |
 | Objetivo do Teste | Verificar se a Recuperação de Senha do Usuário está funcionando corretamente. |
@@ -35,30 +35,30 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir. 
 
 
 	
-|Caso de Teste    | CT-04 - Funcionalidade Sair da Página |
+|Caso de Teste    | CT-04 - Sair da Página |
 |:---|:---|
 | Requisitos Associados | RF-01 |
 | Objetivo do Teste | Verificar se o Botão "Sair" efetua o Logout do sistema com sucesso. |
-| Passos | 1. Na página inicial, usuário clica no botão "Sair". <br> 2. Após Sair da página, será direcionado à Tela de Login.  |
-| Critérios de êxito | Saída concluída, será redirecionado, automaticamente, para a Tela de Login. |
+| Passos | 1. Na página inicial, usuário clica no botão "Sair". <br> 2. Após Sair da página, o usuário será direcionado à Tela de Login.  |
+| Critérios de êxito | Saída concluída, o usuário será redirecionado, automaticamente, para a Tela de Login. |
 | Responsável pela elaborar do caso de Teste | Márcia  |
 
 
-|Caso de Teste    | CT-05 - Funcionalidade Pesquisa de Filmes / Séries |
+|Caso de Teste    | CT-05 - Pesquisa de Filmes / Séries |
 |:---|:---|
 | Requisitos Associados | RF-04 |
-| Objetivo do Teste | Verificar se o sistema de busca e entrega o resultado esperado, a partir das palavras chaves informadas pelo usuário. |
-| Passos | 1. Na página Inicial, o usuário, já logado, deve digitar palavras chaves do filme/série que deseja ser encontrada. <br> 2. Após busca no banco de Dados da API utilizada (TMDb), resultados são exibidos, em forma de imagens representativas dos filmes, na área de Busca.  |
+| Objetivo do Teste | Verificar se o sistema de Busca entrega o resultado esperado, a partir das palavras chaves informadas pelo usuário. |
+| Passos | 1. Na página Inicial, o usuário, já logado, deve digitar palavras chaves do filme/série que deseja ser encontrada. <br> 2. Após busca no banco de Dados da API utilizada (TMDb), os resultados da busca são exibidos, em forma de imagens representativas dos filmes, na área de Busca.  |
 | Critérios de êxito | 	A(s) palavra(s) chave(s) pesquisadas foram entregues em forma de opções de filmes/séries no resultado da busca. |
 | Responsável pela elaborar do caso de Teste | Márcia e Enzo |
 
 
 
-|Caso de Teste    | CT-06 - Funcionalidade Cadastro de Filmes / Séries |
+|Caso de Teste    | CT-06 - Cadastro de Filmes / Séries |
 |:---|:---|
 | Requisitos Associados | RF-02 |
-| Objetivo do Teste | Verificar se o sistema de busca e entrega o resultado esperado, a partir das palavras chaves informadas pelo usuário. |
-| Passos | 1. Fazer Login no sistema.<br> 2. Após o Login, o usuário realiza a busca do filmes/série, através da digitação de palavras-chaves, na linha de pesquisa.  <br> 3. Aparece, na tela de busca, o resultado da pesquisa. <br> 4. O usuário, clica no filme/série desejado.  <br> 5. Aparece um pop-up com as informações da escolha, como: sinopse, data, etc.  <br> 6. O usuário pode clicar em um dos botões para Opção Assistidos ou Para Assistir.  <br> 7. Aparece a mensagem de cadastro com Sucesso.  |
+| Objetivo do Teste | Verificar se o sistema armazena no Local Storage o filme/série selecionado pelo usuário, a partir do resultado da busca. |
+| Passos | 1. Após o Login, o usuário realiza a busca do filmes/série, através da digitação de palavras-chaves, na linha de pesquisa.  <br> 2. Aparece, na tela de busca, o resultado da pesquisa. <br> 3. O usuário clica no filme/série desejado.  <br> 4. Aparece uma janela pop-up com as informações do filme escolhido, como: sinopse, data, etc.  <br> 5. O usuário pode clicar em um dos botões: Opção Assistidos ou Para Assistir.  <br> 6. Aparece a mensagem de cadastro com Sucesso.  |
 | Critérios de êxito | 	A(s) palavra(s) chave(s) pesquisadas foram entregues em forma de opções de filmes/séries no resultado da busca. |
 | Responsável pela elaborar do caso de Teste | Márcia e Enzo |
 
@@ -67,7 +67,7 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir. 
 |:---|:---|
 | Requisitos Associados | RF-05 |
 | Objetivo do Teste | Verificar se a ação de inserção de filmes/séries pesquisados na lista de Assistidos e A Assistir está funcionando corretamente. |
-| Passos | 1. Após resultado da Busca, o usuário clica no filme de sua preferência. <br> 2. Abrirá uma janela pop-up com a sinopse do filme, data de lançamento, duração, etc.  <br> 3. O usuário pode escolher clicar no botão “Lista para Assistir” ou “Lista Assistidos”. <br> 4. Após clicar em um dos botões, aparecerá uma janela Pop-up, confirmando a operação realizada com sucesso.  |
+| Passos | 1. Após resultado da Busca, o usuário clica no filme de sua preferência. <br> 2. Uma janela pop-up aparecerá, com a sinopse do filme, data de lançamento, duração, etc.  <br> 3. O usuário pode escolher clicar no botão “Lista para Assistir” ou “Lista Assistidos”. <br> 4. Após clicar em um dos botões, aparecerá uma janela Pop-up, confirmando a operação realizada com sucesso.  |
 | Critérios de êxito | 	O filme/série escolhido será armazenado no Local Storage na Lista de Assistidos ou A Assistir. |
 | Responsável pela elaborar do caso de Teste | Márcia e Caio |
 
