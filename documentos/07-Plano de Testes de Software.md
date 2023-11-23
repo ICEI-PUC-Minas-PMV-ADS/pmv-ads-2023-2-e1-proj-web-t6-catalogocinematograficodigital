@@ -62,7 +62,7 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir.
 | Responsável pela elaborar do caso de Teste | Márcia e Enzo |
 
  
-|Caso de Teste    | CT-07 - Escolher Filmes/Séries Assistidos e Para Assistir |
+|Caso de Teste    | CT-07 - Inserir Filmes/Séries na Lista de Assistidos e Para Assistir |
 |:---|:---|
 | Requisitos Associados | RF-05 |
 | Objetivo do Teste | Verificar se a ação de inserção de filmes/séries pesquisados na lista de Assistidos e A Assistir está funcionando corretamente. |
