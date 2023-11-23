@@ -88,17 +88,40 @@ Para o usuário cadastrar seus filmes deve realizar as seguintes operações:
 
 Enzo Wilker, Márcia Miranda, Caio Costa.
 
-*Etapa 4* (_Sprint 4_):
+##*Etapa 4* (_Sprint 4_):
 
-## Título da funcionalidade: Cadastro de filmes e séries, Manutenção, Edição e Exclusão de Conteúdo, Pesquisa e Filtragem, Listas de Fimles/Séries A Assistir e Assistidos, Avaliações e Comentários
+### Título da funcionalidade: Cadastro de filmes e séries, Manutenção, Edição e Exclusão de Conteúdo, Pesquisa e Filtragem, Listas de Fimles/Séries A Assistir e Assistidos, Avaliações e Comentários
 
-Tela de usuário (onde está situada a barra de busca):
+Busca de obras audiovisuais:
 
-....... print da tela
+https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t6-catalogocinematograficodigital/assets/95872126/671f0023-5325-420d-b203-ba83809636ed
 
-Console do navegador (chamada à API)
+Inserção de obra na lista Para Assistir:
 
-..... print mostrando arrays da API
+https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t6-catalogocinematograficodigital/assets/95872126/3df5725c-ff90-4034-aac2-feb1bb7fe593
+
+Inserção  de obra na lista Assistidos:
+
+https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t6-catalogocinematograficodigital/assets/95872126/9210ed99-432f-4321-9881-a3c2d635bb46
+
+Troca de obra da lista 'Para assistir' a lista 'Assistidos':
+
+https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t6-catalogocinematograficodigital/assets/95872126/be49deb3-24a2-4f69-8f2f-746bb9e665b8
+
+Remoção de filme/série/desenho/novela da lista 'Assistidos':
+
+https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t6-catalogocinematograficodigital/assets/95872126/56ed6666-c878-4aa5-9de1-5f4a4bf412dd
+
+Remoção de filme/série/desenho/novela da lista 'Para Assistir':
+
+https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t6-catalogocinematograficodigital/assets/95872126/2abdfc03-d951-448e-af2d-8f28880bcc0e
+
+Comentar e avaliar uma obra que se encontra na lista 'Assistidos':
+
+https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t6-catalogocinematograficodigital/assets/95872126/e9f8212c-52fe-4c45-b8ea-a20996f935d1
+
+
+
 
 #### Requisito atendidos:
 
