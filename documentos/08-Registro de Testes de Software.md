@@ -7,7 +7,28 @@ Os resultados dos testes funcionais realizados na aplicação são descritos a s
 |Caso de Teste    | CT-01 - Cadastro do Usuário |
 |:---|:---|
 | Resultados obtidos | Perfil do usuário armazenado no Local Storage  |
-| Responsável pela execução do caso de Teste | Márcia Miranda |
+| Responsável pela execução do caso de Teste | Enzo |
+
+<br>
+
+|Caso de Teste    | CT-02 - Login do Usuário |
+|:---|:---|
+| Resultados obtidos | Login concluído, caso os dados estejam corretos, será redirecionado, automaticamente, para a Tela do Usuário.  |
+| Responsável pela execução do caso de Teste | Enzo |
+
+<br>
+
+|Caso de Teste    | CT-05 - Pesquisa de Filmes / Séries |
+|:---|:---|
+| Resultados obtidos | A(s) palavra(s) chave(s) pesquisadas foram entregues em forma de opções de filmes/séries no resultado da busca.  |
+| Responsável pela execução do caso de Teste | Enzo |
+
+<br>
+
+|Caso de Teste    | CT-06 - Cadastro de Filmes / Séries |
+|:---|:---|
+| Resultados obtidos | No local Storage, aparecem os filmes cadastrados, conforme escolha do usuário na forma de filmes/séries Para Assistir e Assistidos.  |
+| Responsável pela execução do caso de Teste | Enzo |
 
 <br>
 
@@ -17,6 +38,7 @@ Os resultados dos testes funcionais realizados na aplicação são descritos a s
 | Responsável pela execução do caso de Teste | Márcia Miranda |
 
 <br>
+
 Sequência de teste:
 
 A.	Após resultado da Busca, na Tela do Usuário, clicar na imagem do filme de preferência.<br>
@@ -100,9 +122,4 @@ Figura: Local Storage do filme com os comentários inseridos.
 
 <br>
 
-|Caso de Teste    | CT-X - Título Caso de Teste |
-|:---|:---|
-| Resultados obtidos | Descrever resultados do teste  |
-| Responsável pela execução do caso de Teste | Nome do integrante da equipe |
 
-[Inserir aqui as evidências de teste que podem ser apresentadas por print de telas ou por .gif de execução de teste]
