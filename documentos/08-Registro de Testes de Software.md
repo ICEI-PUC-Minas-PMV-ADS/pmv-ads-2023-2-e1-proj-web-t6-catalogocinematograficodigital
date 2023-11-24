@@ -51,7 +51,7 @@ Figura: (A): Tela do Usuário; (B) Lista de Filmes da Lista Para Assistir; (C) L
 
 |Caso de Teste    | CT-09 - Manutenção e Exclusão de Filmes/Séries na Lista Assistidos e Para Assistir |
 |:---|:---|
-| Resultados obtidos | Verificar se as funções de Manutenção, Inserção e Exclusão de filmes/séries na lista de Filmes Assistidos e Para Assistir está funcionando corretamente.  |
+| Resultados obtidos | A lista de filmes “Assistidos” ou “Para Assistir” exibem, corretamente, os filmes inseridos ou excluídos.  |
 | Responsável pela execução do caso de Teste | Márcia Miranda |
 
 Sequência de teste: <br>
@@ -59,8 +59,8 @@ Sequência de teste: <br>
 A. Após Login, o usuário escolhe qual lista visualizar, clicando no botão “Assistidos” ou “Para Assistir”.<br>
 B. Após exibição da lista de filmes selecionado, o usuário escolhe o filme desejado, clicando na sua imagem.<br>
 C. Uma janela pop-up aparecerá, contendo os dados do filme.<br>
-    1-Caso o usuário tenha clicado na lista “Para Assistir”, pode adicionar à lista de “Assistidos” ou “Remover”.<br>
-    2-Caso o usuário tenha clicado na lista “Assistidos” poderá escolher “Remover” o filme da lista.<br>
+    - Caso o usuário tenha clicado na lista “Para Assistir”, pode adicionar à lista de “Assistidos” ou “Remover”.<br>
+    - Caso o usuário tenha clicado na lista “Assistidos” poderá escolher “Remover” o filme da lista.<br>
 D.	Aparecerá uma janela Pop-up, confirmando a execução da operação com sucesso.
 
 ![CT-09-1](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t6-catalogocinematograficodigital/assets/145228139/3d768664-8ea4-453b-9d9e-087ee9a45630)
@@ -68,6 +68,35 @@ D.	Aparecerá uma janela Pop-up, confirmando a execução da operação com suce
 ![CT-09-3](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t6-catalogocinematograficodigital/assets/145228139/77e4da1e-2fef-472a-8394-c1a7dbf614a4)
 
 Figura: (A) e (B): Após login, Tela com lista de filmes “Assistidos” e seu armazenamento no Local Storage; (C) Janela Pop-up com informações do filme selecionado e botão para Remover filme da lista.
+
+<br>
+
+|Caso de Teste    | CT-10 - Inserção de Avaliações e Comentários em Filmes Assistidos |
+|:---|:---|
+| Resultados obtidos | No Local Storage da Lista de Assistidos, estarão armazenados os comentários e classificação do filme. |
+| Responsável pela execução do caso de Teste | Márcia Miranda |
+
+Sequência de teste: <br>
+
+1.	O usuário clica no botão “Assistidos” e aparece a lista de filmes assistidos e escolhe o filme de sua preferência.<br>
+2.	Abrirá uma janela pop-up com a sinopse do filme, data de lançamento, duração, etc., além de um espaço para inserir comentários a respeito do filme e de uma área para classificar o filme entre 1 a 5 estrelas.<br>
+3.	Após realizar o comentário e classificar o filmes, o usuário pode fechar a janela, clicando no “X”, no canto superior direito.
+
+![CT-10-1-OK](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t6-catalogocinematograficodigital/assets/145228139/4d0ae571-59ce-4301-8e3e-c6ee261a12bf)
+
+Figura: Após login, Tela com lista de filmes “Assistidos”.
+
+![CT-10-2 e 3](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t6-catalogocinematograficodigital/assets/145228139/3990438c-525d-4734-aeb4-7abfc195b738)
+
+Figura: Janela Pop-up do filme escolhido antes de efetuar a classificação e depois da classificação em 5 estrelas.
+
+![CT-10-4 e 5](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t6-catalogocinematograficodigital/assets/145228139/4723ac33-9429-44d3-9557-7179d8b5b415)
+
+Figura: Janela Pop-up do filme escolhido antes do comentário e depois de digitar comentários.
+
+![CT-10-6](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t6-catalogocinematograficodigital/assets/145228139/e3244aa2-0714-4d4b-9ec2-12c5f14aa45e)
+
+Figura: Local Storage do filme com os comentários inseridos.
 
 <br>
 
