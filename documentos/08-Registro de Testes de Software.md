@@ -74,7 +74,7 @@ Figura: (A): Tela do Usuário; (B) Lista de Filmes da Lista Para Assistir; (C) L
 |Caso de Teste    | CT-09 - Manutenção e Exclusão de Filmes/Séries na Lista Assistidos e Para Assistir |
 |:---|:---|
 | Resultados obtidos | A lista de filmes “Assistidos” ou “Para Assistir” exibem, corretamente, os filmes inseridos ou excluídos.  |
-| Responsável pela execução do caso de Teste | Márcia Miranda |
+| Responsável pela execução do caso de Teste | Caio Costa |
 
 Sequência de teste: <br>
 
@@ -96,7 +96,7 @@ Figura: (A) e (B): Após login, Tela com lista de filmes “Assistidos” e seu 
 |Caso de Teste    | CT-10 - Inserção de Avaliações e Comentários em Filmes Assistidos |
 |:---|:---|
 | Resultados obtidos | No Local Storage da Lista de Assistidos, estarão armazenados os comentários e classificação do filme. |
-| Responsável pela execução do caso de Teste | Márcia Miranda |
+| Responsável pela execução do caso de Teste | Caio Costa |
 
 Sequência de teste: <br>
 
