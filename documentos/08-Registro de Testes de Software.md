@@ -11,6 +11,16 @@ Os resultados dos testes funcionais realizados na aplicação são descritos a s
 
 <br>
 
+A. Dentro da tela Cadastro.html, o campo nome poderá receber letras maiúsculas e minúsculas, porém nenhum caractere especial ou numérico. 
+B. O campo email deve ter na estrutura os caracteres "@" e o "." após.
+C. O campo senha deve conter no mínimo 1 algarismo numérico, 1 caractere especial, 1 letra maiúscula e 1 letra minúscula.
+D. Se o campo confirmar senha estiver diferente do campo, não possibilita cadastro. 
+E. Cadastro só é realizado se todas os requisitos foram cumpridos e não houver nenhum campo vazio.
+F. Cadastro realizado, aparecerá mensagem "usuário cadastrado" e após 1 segundo será direcionado a página login.html automaticamente. Cadastro sendo salvo dentro do local storage.
+
+<br>
+
+
 |Caso de Teste    | CT-02 - Login do Usuário |
 |:---|:---|
 | Resultados obtidos | Login concluído, caso os dados estejam corretos, será redirecionado, automaticamente, para a Tela do Usuário.  |
@@ -40,6 +50,8 @@ Os resultados dos testes funcionais realizados na aplicação são descritos a s
 <br>
 
 Sequência de teste:
+
+
 
 A.	Após resultado da Busca, na Tela do Usuário, clicar na imagem do filme de preferência.<br>
 B.	Uma janela pop-up aparecerá, com informações relevantes sobre o filme.<br>
