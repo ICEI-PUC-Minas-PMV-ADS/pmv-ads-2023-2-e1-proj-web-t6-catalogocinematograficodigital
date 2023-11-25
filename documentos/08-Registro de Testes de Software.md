@@ -50,7 +50,7 @@ Figura B: Login com sucesso. Token salvo no local storage. <br>
 Figura C: Ao clicar no botão "sair" na tela de usuário, token é apagado do local storage, impossibilitando acesso a 'Tela usuário'. <br>
 
 <br>
-Lorem ipsus
+Porque o GIT não está funcionando?
 
 |Caso de Teste    | CT-05 - Pesquisa de Filmes / Séries |
 |:---|:---|
