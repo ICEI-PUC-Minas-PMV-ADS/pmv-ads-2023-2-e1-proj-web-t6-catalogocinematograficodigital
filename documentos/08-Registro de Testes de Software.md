@@ -18,12 +18,12 @@ D. Se o campo confirmar senha estiver diferente do campo, não possibilita cadas
 E. Cadastro só é realizado se todas os requisitos foram cumpridos e não houver nenhum campo vazio. <br>
 F. Cadastro realizado, aparecerá mensagem "usuário cadastrado" e após 1 segundo será direcionado a página login.html automaticamente. Cadastro sendo salvo dentro do local storage. <br>
 
-![erro no cadastro](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t6-catalogocinematograficodigital/assets/95872126/0aca787b-ffcf-45fb-abc7-66046e34a296)
+![erro no cadastro](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t6-catalogocinematograficodigital/assets/95872126/0aca787b-ffcf-45fb-abc7-66046e34a296) <br>
 Figura A: campos preenchidos incorretamente, não autorização do cadastro. <br>
 
-![CCD cadastro sucesso](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t6-catalogocinematograficodigital/assets/95872126/4a79804e-15a6-4db9-ad2f-c10b8aad736f)
+![CCD cadastro sucesso](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t6-catalogocinematograficodigital/assets/95872126/4a79804e-15a6-4db9-ad2f-c10b8aad736f)<br>
 Figura B: Cadastro realizado com sucesso. <br>
-![cadastro local storage](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t6-catalogocinematograficodigital/assets/95872126/ea88bda9-3e3b-4dc1-a620-9221dc354445)
+![cadastro local storage](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t6-catalogocinematograficodigital/assets/95872126/ea88bda9-3e3b-4dc1-a620-9221dc354445) <br>
 Figura C: Cadastro salvo no localStorage.
 <br>
 
