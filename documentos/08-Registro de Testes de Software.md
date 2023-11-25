@@ -11,13 +11,20 @@ Os resultados dos testes funcionais realizados na aplicação são descritos a s
 
 <br>
 
-A. Dentro da tela Cadastro.html, o campo nome poderá receber letras maiúsculas e minúsculas, porém nenhum caractere especial ou numérico. 
-B. O campo email deve ter na estrutura os caracteres "@" e o "." após.
-C. O campo senha deve conter no mínimo 1 algarismo numérico, 1 caractere especial, 1 letra maiúscula e 1 letra minúscula.
-D. Se o campo confirmar senha estiver diferente do campo, não possibilita cadastro. 
-E. Cadastro só é realizado se todas os requisitos foram cumpridos e não houver nenhum campo vazio.
-F. Cadastro realizado, aparecerá mensagem "usuário cadastrado" e após 1 segundo será direcionado a página login.html automaticamente. Cadastro sendo salvo dentro do local storage.
+A. Dentro da tela Cadastro.html, o campo nome poderá receber letras maiúsculas e minúsculas, porém nenhum caractere especial ou numérico. <br>
+B. O campo email deve ter na estrutura os caracteres "@" e o "." após. <br>
+C. O campo senha deve conter no mínimo 1 algarismo numérico, 1 caractere especial, 1 letra maiúscula e 1 letra minúscula. <br>
+D. Se o campo confirmar senha estiver diferente do campo, não possibilita cadastro. <br>
+E. Cadastro só é realizado se todas os requisitos foram cumpridos e não houver nenhum campo vazio. <br>
+F. Cadastro realizado, aparecerá mensagem "usuário cadastrado" e após 1 segundo será direcionado a página login.html automaticamente. Cadastro sendo salvo dentro do local storage. <br>
 
+![erro no cadastro](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t6-catalogocinematograficodigital/assets/95872126/0aca787b-ffcf-45fb-abc7-66046e34a296) <br>
+Figura A: campos preenchidos incorretamente, não autorização do cadastro. <br>
+
+![CCD cadastro sucesso](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t6-catalogocinematograficodigital/assets/95872126/4a79804e-15a6-4db9-ad2f-c10b8aad736f)<br>
+Figura B: Cadastro realizado com sucesso. <br>
+![cadastro local storage](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t6-catalogocinematograficodigital/assets/95872126/ea88bda9-3e3b-4dc1-a620-9221dc354445) <br>
+Figura C: Cadastro salvo no localStorage.
 <br>
 
 
