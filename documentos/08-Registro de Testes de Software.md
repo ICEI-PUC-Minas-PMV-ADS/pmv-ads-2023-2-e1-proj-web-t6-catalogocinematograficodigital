@@ -50,20 +50,29 @@ Figura B: Login com sucesso. Token salvo no local storage. <br>
 Figura C: Ao clicar no botão "sair" na tela de usuário, token é apagado do local storage, impossibilitando acesso a 'Tela usuário'. <br>
 
 <br>
-Porque o GIT não está funcionando?
 
 |Caso de Teste    | CT-05 - Pesquisa de Filmes / Séries |
 |:---|:---|
 | Resultados obtidos | A(s) palavra(s) chave(s) pesquisadas foram entregues em forma de opções de filmes/séries no resultado da busca.  |
 | Responsável pela execução do caso de Teste | Enzo |
-
 <br>
+
+A. Estando logado e na página 'Tela usuário', pesquise por qualquer filme, série, novela ou desenho animado. Existindo, será buscado ou algum resultado aproximado. <br>
+B. Clicando em algum resultado, as informações sinopse, gênero, status (se lançado, em produção), Data de lançamento (para filmes), data exibição primeiro e último episódio (séries), quantidade de temporadas e de episódios (séries), duração (filmes), serão mostradas
+
+![Resultado barra de busca para filme](./img/resultado_filme.png) <br>
+Figura A. Resultado da busca de filmes. <br>
+
+![Pop-up do filme selecionado](./img/Pop_up_filme_selecionado.png)<br>
+Figura B. Pop-up do filme selecionado. <br>
+
+![Pop-up da série selecionada](./img/pop_up_serie_selecionada.png) <br>
+Figura C. Pop-up  da série selecionada.<br>
 
 |Caso de Teste    | CT-06 - Cadastro de Filmes / Séries |
 |:---|:---|
 | Resultados obtidos | No local Storage, aparecem os filmes cadastrados, conforme escolha do usuário na forma de filmes/séries Para Assistir e Assistidos.  |
 | Responsável pela execução do caso de Teste | Enzo |
-
 <br>
 
 |Caso de Teste    | CT-07 - Inserir Filmes/Séries na Lista de Assistidos e Para Assistir |
