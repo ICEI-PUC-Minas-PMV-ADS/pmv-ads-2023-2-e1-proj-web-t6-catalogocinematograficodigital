@@ -25,6 +25,22 @@ F. Cadastro realizado, aparecerá mensagem "usuário cadastrado" e após 1 segun
 |:---|:---|
 | Resultados obtidos | Login concluído, caso os dados estejam corretos, será redirecionado, automaticamente, para a Tela do Usuário.  |
 | Responsável pela execução do caso de Teste | Enzo |
+<br>
+
+A. Login só será realizado se o apelido ou email e senha estiverem cadastrados para um usuário. Senhas e apelidos ou emails divergindo não será realizado o login. <br>
+B. Se login for bem sucedido, será redirecionado automaticamente para a 'Tela usuário'. Apelido irá  aparecer como saudação na 'Tela usuário'. Um token randômico será salvo no local storage indicando que determinado usuário está logado.<br>
+C. Caso usuário queira se deslogar, o token será  retirado do local storage. Caso não haja token salvo no local Storage não é possível acessar 'Tela usuário'.<br>
+
+![Login sem sucesso](./img/login%20sem%20sucesso.png) <br>
+
+Figura A: Login sem sucesso. <br>
+
+![Login com sucesso](./img/login_com_sucesso.png) <br>
+
+Figura B: Login com sucesso. Token salvo no local storage. <br>
+
+![Acesso negado a Tela Usuário](./img/acesso_negado_tela_usuario.png) <br>
+Figura C: Ao clicar no botão "sair" na tela de usuário, token é apagado do local storage, impossibilitando acesso a 'Tela usuário'. <br>
 
 <br>
 
