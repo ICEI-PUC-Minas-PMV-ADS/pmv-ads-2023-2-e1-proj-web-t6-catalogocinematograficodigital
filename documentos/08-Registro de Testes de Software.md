@@ -75,6 +75,12 @@ Figura C. Pop-up  da série selecionada.<br>
 | Responsável pela execução do caso de Teste | Enzo |
 <br>
 
+![Console.log do resultado da pesquisa](./img/Console.log_resultado_pesquisa.png)<br>
+Figura A. Console do navegador contendo as informações dos filmes buscados.<br>
+
+![Aviso filme cadastrado](./img/aviso_filme_cadastrado.png)<br>
+Figura B. Aviso na tela ao obra ser salva em alguma lista.<br>
+
 |Caso de Teste    | CT-07 - Inserir Filmes/Séries na Lista de Assistidos e Para Assistir |
 |:---|:---|
 | Resultados obtidos | O filme/série pesquisado será armazenado no Local Storage da Lista de Assistidos ou A Assistir.  |
