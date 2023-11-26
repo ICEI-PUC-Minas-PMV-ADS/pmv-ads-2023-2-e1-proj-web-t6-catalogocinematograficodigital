@@ -11,12 +11,12 @@ Os resultados dos testes funcionais realizados na aplicação são descritos a s
 
 <br>
 
-A. Dentro da tela Cadastro.html, o campo nome poderá receber letras maiúsculas e minúsculas, porém nenhum caractere especial ou numérico. <br>
-B. O campo email deve ter na estrutura os caracteres "@" e o "." após. <br>
-C. O campo senha deve conter no mínimo 1 algarismo numérico, 1 caractere especial, 1 letra maiúscula e 1 letra minúscula. <br>
-D. Se o campo confirmar senha estiver diferente do campo, não possibilita cadastro. <br>
-E. Cadastro só é realizado se todas os requisitos foram cumpridos e não houver nenhum campo vazio. <br>
-F. Cadastro realizado, aparecerá mensagem "usuário cadastrado" e após 1 segundo será direcionado a página login.html automaticamente. Cadastro sendo salvo dentro do local storage. <br>
+A. Dentro da tela Cadastro.html, o campo Nome poderá receber letras maiúsculas e minúsculas, porém, não pode receber nenhum caractere especial ou numérico. <br>
+B. O campo Email deve ter na estrutura os caracteres "@" e o "." após. <br>
+C. O campo Senha deve, ao ser preenchido, conter, no mínimo, 1 algarismo numérico, 1 caractere especial, 1 letra maiúscula e 1 letra minúscula. <br>
+D. Se, no campo Confirmar Senha, houver conteúdo diferente do campo Senha, não é possibilitado cadastro. <br>
+E. Cadastro só é realizado se todos os requisitos foram cumpridos e não houver nenhum campo vazio. <br>
+F. Com o Cadastro realizado, aparecerá mensagem "usuário cadastrado" e, após 1 segundo, será direcionado à página login.html automaticamente. O Cadastro é salvo dentro do local storage. <br>
 
 ![erro no cadastro](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t6-catalogocinematograficodigital/assets/95872126/0aca787b-ffcf-45fb-abc7-66046e34a296) <br>
 Figura A: campos preenchidos incorretamente, não autorização do cadastro. <br>
@@ -30,13 +30,13 @@ Figura C: Cadastro salvo no localStorage.
 
 |Caso de Teste    | CT-02 - Login do Usuário |
 |:---|:---|
-| Resultados obtidos | Login concluído, caso os dados estejam corretos, será redirecionado, automaticamente, para a Tela do Usuário.  |
+| Resultados obtidos | Login concluído. Caso os dados estejam corretos, será redirecionado, automaticamente, para a Tela do Usuário.  |
 | Responsável pela execução do caso de Teste | Enzo |
 <br>
 
-A. Login só será realizado se o apelido ou email e senha estiverem cadastrados para um usuário. Senhas e apelidos ou emails divergindo não será realizado o login. <br>
-B. Se login for bem sucedido, será redirecionado automaticamente para a 'Tela usuário'. Apelido irá  aparecer como saudação na 'Tela usuário'. Um token randômico será salvo no local storage indicando que determinado usuário está logado.<br>
-C. Caso usuário queira se deslogar, o token será  retirado do local storage. Caso não haja token salvo no local Storage não é possível acessar 'Tela usuário'.<br>
+A. Login só será realizado se o apelido, ou email, e a senha estiverem cadastrados para um usuário. Senhas e apelidos, ou emails, que estiverem divergindo não permitirão realização do login. <br>
+B. Se login for bem sucedido, será redirecionado automaticamente para a 'Tela usuário'. Apelido irá  aparecer como saudação na 'Tela usuário'. Um token randômico será salvo no local storage, indicando que determinado usuário está logado.<br>
+C. Caso usuário queira se deslogar, o token será  retirado do local storage. Caso não haja token salvo no local Storage, não será possível acessar 'Tela usuário'.<br>
 
 ![Login sem sucesso](./img/login%20sem%20sucesso.png) <br>
 
@@ -53,12 +53,12 @@ Figura C: Ao clicar no botão "sair" na tela de usuário, token é apagado do lo
 
 |Caso de Teste    | CT-05 - Pesquisa de Filmes / Séries |
 |:---|:---|
-| Resultados obtidos | A(s) palavra(s) chave(s) pesquisadas foram entregues em forma de opções de filmes/séries no resultado da busca.  |
+| Resultados obtidos | A(s) palavra(s) chave(s) pesquisada(s) foram entregues em forma de opções de filmes/séries no resultado da busca.  |
 | Responsável pela execução do caso de Teste | Enzo |
 <br>
 
-A. Estando logado e na página 'Tela usuário', pesquise por qualquer filme, série, novela ou desenho animado. Existindo, será buscado ou algum resultado aproximado. <br>
-B. Clicando em algum resultado, as informações sinopse, gênero, status (se lançado, em produção), Data de lançamento (para filmes), data exibição primeiro e último episódio (séries), quantidade de temporadas e de episódios (séries), duração (filmes), serão mostradas
+A. Estando logado e na página 'Tela usuário', pesquise por qualquer filme, série, novela ou desenho animado. Existindo, será buscado o título ou algum resultado aproximado. <br>
+B. Clicando em algum resultado, as informações sinópse, gênero, status (se lançado, em produção), Data de lançamento (para filmes), data exibição primeiro e último episódio (para séries), quantidade de temporadas e de episódios (para séries), duração (para filmes), serão mostrados.
 
 ![Resultado barra de busca para filme](./img/resultado_filme.png) <br>
 Figura A. Resultado da busca de filmes. <br>
@@ -71,7 +71,7 @@ Figura C. Pop-up  da série selecionada.<br>
 
 |Caso de Teste    | CT-06 - Cadastro de Filmes / Séries |
 |:---|:---|
-| Resultados obtidos | No local Storage, aparecem os filmes cadastrados, conforme escolha do usuário na forma de filmes/séries Para Assistir e Assistidos.  |
+| Resultados obtidos | No local Storage, aparecem os filmes cadastrados, conforme escolha do usuário, na forma de filmes/séries Para Assistir e Assistidos.  |
 | Responsável pela execução do caso de Teste | Enzo |
 <br>
 
@@ -132,7 +132,7 @@ Sequência de teste: <br>
 A. Após Login, o usuário escolhe qual lista visualizar, clicando no botão “Assistidos” ou “Para Assistir”.<br>
 B. Após exibição da lista de filmes selecionado, o usuário escolhe o filme desejado, clicando na sua imagem.<br>
 C. Uma janela pop-up aparecerá, contendo os dados do filme.<br>
-    - Caso o usuário tenha clicado na lista “Para Assistir”, pode adicionar à lista de “Assistidos” ou “Remover”.<br>
+    - Caso o usuário tenha clicado na lista “Para Assistir”, poderá adicionar à lista de “Assistidos” ou “Remover”.<br>
     - Caso o usuário tenha clicado na lista “Assistidos” poderá escolher “Remover” o filme da lista.<br>
 D.	Aparecerá uma janela Pop-up, confirmando a execução da operação com sucesso.
 
@@ -151,9 +151,9 @@ Figura: (A) e (B): Após login, Tela com lista de filmes “Assistidos” e seu 
 
 Sequência de teste: <br>
 
-1.	O usuário clica no botão “Assistidos” e aparece a lista de filmes assistidos e escolhe o filme de sua preferência.<br>
-2.	Abrirá uma janela pop-up com a sinopse do filme, data de lançamento, duração, etc., além de um espaço para inserir comentários a respeito do filme e de uma área para classificar o filme entre 1 a 5 estrelas.<br>
-3.	Após realizar o comentário e classificar o filmes, o usuário pode fechar a janela, clicando no “X”, no canto superior direito.
+1.	O usuário clica no botão “Assistidos”, com o qual aparece a lista de filmes assistidos, e escolhe o filme de sua preferência.<br>
+2.	Abrirá uma janela pop-up com a sinópse do filme, data de lançamento, duração, etc., além de um espaço para inserir comentários a respeito do filme e de uma área para classificar o filme entre 1 a 5 estrelas.<br>
+3.	Após realizar o comentário e classificar o filme, o usuário pode fechar a janela, clicando no “X”, no canto superior direito.
 
 ![CT-10-1-OK](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t6-catalogocinematograficodigital/assets/145228139/4d0ae571-59ce-4301-8e3e-c6ee261a12bf)
 
