@@ -30,10 +30,10 @@ Tela Contato:
 
 #### Requisito atendido
 
-RF-01: Permitir que os usuários criem e mantenham contas individuais; Coletar dados de usuário, como nome, senha, endereço de e-mail, etc.
+RF-01: Permitir que os usuários criem e mantenham contas individuais; Coletar dados de usuário, como: nome, senha, endereço de e-mail, etc.
 
 #### Artefatos da funcionalidade
-Os arquivos que correspondem à funcionalidade de cadastro estão presentes na pasta código-fonte, são eles: 
+Os arquivos que correspondem à funcionalidade de cadastro estão presentes na pasta código-fonte. São eles: 
 - cadastro.html,
 - cadastro.css,
 - cadastro.js,
@@ -61,7 +61,7 @@ Os arquivos, que implementam as demais funcionalidades, estão na pasta código-
   
 #### Estrutura de Dados
 
-Os dados que estão sendo salvos no localStorage que possibilitam o cadastro e login, apresentando a seguinte estrutura de dados:
+Os dados que estão sendo salvos no localStorage e possibilitam o cadastro e login, apresentando a seguinte estrutura de dados:
 - nomeCadastrado, 
 - apelidoCadastrado, 
 - emailCadastrado, 
@@ -72,16 +72,16 @@ Os dados que estão sendo salvos no localStorage que possibilitam o cadastro e l
 
 Para o usuário utilizar o aplicativo CCD, deve, basicamente, seguir os seguintes passos:
 - A partir da página inicial, usuário clica em "Cadastre-se" ou "Crie sua conta".
-- Na Tela de Cadastro, irá preencher todos os campos disponíveis na página. São realizadas as devidas validações, logo que o usuário preencher cada campo.
+- Na Tela de Cadastro, irá preencher todos os campos disponíveis na página. São realizadas as devidas validações, tão logo o usuário preencha cada campo.
 - Após realizar o Cadastro, será dirigido, automaticamente, para a Tela de Login. Nessa tela, deverá preencher os dados, podendo utilizar o apelido ou o email cadastrado, seguido da senha.
 - Caso necessite, o usuário poderá acessar a informações de FAQ (Perguntas frequentes do aplicativo), Termos e Condições de Uso, Política de Privacidade e requisitar Contato com suporte da página, disponibilizados em botões no Menu do Rodapé, constante nas páginas do aplicativo.
 
 As telas de acesso, referenciadas, estão ilustradas acima, no início dessa Sessão.
 
-Para o usuário cadastrar seus filmes deve realizar as seguintes operações:
+Para o usuário cadastrar seus filmes, deve realizar as seguintes operações:
 - Realizar o login na Tela de login do CCD.
-- Após login, o usuário já tem a diponibilidade de realizar buscas de filmes de sua preferência, digitando palavras-chaves na área de busca, clicar em Pesquisar.
-- Após a lista de filmes/séries disponibilizadas, que aparecerá abaixo da caixa de busca, o usuário poderá escolher se irá incluir na lista de filmes/séries Assistidos ou A Assisitr, através de pop up que aparecerá com o sumário descritivo do filme/série.
+- Após login, o usuário já tem a disponibilidade para realizar buscas de filmes de sua preferência, digitando palavras-chave na área de busca, e clicando em Pesquisar.
+- Após a lista de filmes/séries serem disponibilizadas, logo abaixo da caixa de busca, o usuário poderá escolher se irá incluir tais ítens na lista de filmes/séries Assistidos ou A Assistir, através de pop up que aparecerá com o sumário descritivo do filme/série.
 - O usuário também pode acessar as listas de filmes Assistidos ou A Assistir para remover algum elemento adicionado. 
 
 #### Responsáveis
@@ -181,7 +181,7 @@ As telas de acesso, referenciadas, estão ilustradas acima, no início dessa Ses
 
 Para o usuário cadastrar seus filmes deve realizar as seguintes operações:
 - Realizar o login na Tela de login do CCD.
-- Após login, o usuário já tem a diponibilidade de realizar buscas de filmes de sua preferência, digitando palavras-chaves na área de busca, clicar em Pesquisar.
+- Após login, o usuário já tem a disponibilidade de realizar buscas de filmes de sua preferência, digitando palavras-chave na área de busca, clicar em Pesquisar.
 - Após a lista de filmes/séries disponibilizadas, que aparecerá abaixo da caixa de busca, o usuário poderá escolher se irá incluir na lista de filmes/séries Assistidos ou A Assisitr, através de pop up que aparecerá com o sumário descritivo do filme/série.
 - O usuário também pode acessar as listas de filmes Assistidos ou A Assistir para remover algum elemento adicionado. 
 - Para o usuário remover alguma obra de qualquer lista, deve ir primeiro à lista pretendida, escolher a obra desejada e optar por removê-la.
