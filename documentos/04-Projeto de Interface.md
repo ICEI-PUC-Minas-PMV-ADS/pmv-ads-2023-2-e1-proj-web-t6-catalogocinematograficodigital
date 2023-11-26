@@ -3,8 +3,8 @@
 
 ## User Flow
 
-O Fluxo de usuário (User Flow), que mapeia o fluxo de navegação do usuário da aplicação CCD, está descrita na imagem abaixo. 
-Nela, pode-se visualizar os caminhos e as possíveis ações que o usuário pode fazer, ao utilizar o aplicativo.
+O Fluxo de usuário (User Flow), que mapeia o fluxo de navegação do usuário da aplicação CCD, está descrito na imagem abaixo. 
+Nele, pode-se visualizar os caminhos e as possíveis ações que o usuário pode fazer, ao utilizar o aplicativo.
 
 ![1-User Flow Geral](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t6-catalogocinematograficodigital/assets/145228139/a8d991b1-61b9-4b77-9756-6db3905a65a4)
 
@@ -38,7 +38,7 @@ Figura 7 - Página do Usuário - visualização de suas Listas Públicas
 
 ## Protótipo
 
-Foram construídos as telas de navegação do projeto, que espelham as expectativas de páginas da aplicação. A imagem abaixo representa uma ideia geral do fluxo de telas do projeto.
+Foram construídas as telas de navegação do projeto, que espelham as expectativas de páginas da aplicação. A imagem abaixo representa uma ideia geral do fluxo de telas do projeto.
 
 ![Wireframe-projeto Filmes e Séries](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t6-catalogocinematograficodigital/assets/145228139/22bb9c9a-4783-4b35-8159-571d625ec3ba)
 Figura 1- Fluxo Geral de telas do projeto.
