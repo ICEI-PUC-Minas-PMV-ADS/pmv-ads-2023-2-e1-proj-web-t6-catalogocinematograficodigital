@@ -58,7 +58,7 @@ Figura C: Ao clicar no botão "sair" na tela de usuário, token é apagado do lo
 <br>
 
 A. Estando logado e na página 'Tela usuário', pesquise por qualquer filme, série, novela ou desenho animado. Existindo, será buscado o título ou algum resultado aproximado. <br>
-B. Clicando em algum resultado, as informações sinópse, gênero, status (se lançado, em produção), Data de lançamento (para filmes), data exibição primeiro e último episódio (para séries), quantidade de temporadas e de episódios (para séries), duração (para filmes), serão mostrados.
+B. Clicando em algum resultado, as informações sinopse, gênero, status (se lançado, em produção), Data de lançamento (para filmes), data exibição primeiro e último episódio (para séries), quantidade de temporadas e de episódios (para séries), duração (para filmes), serão mostrados.
 
 ![Resultado barra de busca para filme](./img/resultado_filme.png) <br>
 Figura A. Resultado da busca de filmes. <br>
@@ -152,7 +152,7 @@ Figura: (A) e (B): Após login, Tela com lista de filmes “Assistidos” e seu 
 Sequência de teste: <br>
 
 1.	O usuário clica no botão “Assistidos”, com o qual aparece a lista de filmes assistidos, e escolhe o filme de sua preferência.<br>
-2.	Abrirá uma janela pop-up com a sinópse do filme, data de lançamento, duração, etc., além de um espaço para inserir comentários a respeito do filme e de uma área para classificar o filme entre 1 a 5 estrelas.<br>
+2.	Abrirá uma janela pop-up com a sinopse do filme, data de lançamento, duração, etc., além de um espaço para inserir comentários a respeito do filme e de uma área para classificar o filme entre 1 a 5 estrelas.<br>
 3.	Após realizar o comentário e classificar o filme, o usuário pode fechar a janela, clicando no “X”, no canto superior direito.
 
 ![CT-10-1-OK](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t6-catalogocinematograficodigital/assets/145228139/4d0ae571-59ce-4301-8e3e-c6ee261a12bf)
