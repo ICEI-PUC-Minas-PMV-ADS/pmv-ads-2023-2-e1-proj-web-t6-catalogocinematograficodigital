@@ -2,10 +2,10 @@
 # Metodologia
 
 
-A metodologia utilizada neste projeto é baseada no SCRUM, que é uma abordagem ágil de desenvolvimento e tem como objetivo otimizar a especificação e execução de projetos. Através dessa metodologia, procura-se organizar melhor as equipes de trabalho e fragmentar as tarefas, distribuindo-as, procurando prover mais eficiência no desenvolvimento.
+A metodologia utilizada neste projeto é baseada no SCRUM, que é uma abordagem ágil de desenvolvimento e tem como objetivo otimizar a especificação e execução de projetos. Através dessa metodologia, procura-se organizar melhor as equipes de trabalho e fragmentar suas tarefas, distribuindo-as e buscando prover mais eficiência no desenvolvimento.
 
 
-O Scrum é baseado em uma metodologia de entrega do produto de forma parcial, ou seja, em etapas curtas e regulares, chamadas de sprints. Nesse sentido, com o Scrum, procuramos fazer com que todos trabalhem de forma colaborativa e contribuam com suas ideias e habilidades. Além disso, por meio dessa metodologia, procura-se fazer com que o problema em foco possa ser resolvido com mais facilidade, otimizando cada etapa de desenvolvimento e execução.
+O Scrum é  uma metodologia que se baseia na entrega do produto de forma parcial e construtiva, ou seja, em etapas curtas e regulares, chamadas de sprints. Nesse sentido, com o Scrum, procuramos fazer com que todos trabalhem de forma colaborativa e contribuam com suas ideias e habilidades. Além disso, por meio dessa metodologia, procura-se fazer com que o problema em foco possa ser resolvido com mais facilidade, otimizando cada etapa de desenvolvimento e execução.
 
 
 Como mencionado anteriormente, o Scrum é uma abordagem ágil e colaborativa que se concentra no trabalho em equipe, com responsabilidades e atividades bem definidas. Basicamente, sua estrutura está dividida nos seguintes componentes:
@@ -17,7 +17,7 @@ Como mencionado anteriormente, o Scrum é uma abordagem ágil e colaborativa que
 
 ## Gerenciamento de Projeto
 
-A metodologia ágil escolhida para o desenvolvimento deste projeto foi o SCRUM, pois como citam Amaral, Fleury e Isoni (2019, p. 68), seus benefícios são a visão clara dos resultados a entregar; ritmo e disciplina necessários à execução; definição de papéis e responsabilidades dos integrantes do projeto (Scrum Owner, Scrum Master e Team); empoderamento dos membros da equipe de projetos para atingir o desafio; conhecimento distribuído e compartilhado de forma colaborativa; ambiência favorável para crítica às ideias e não às pessoas.”
+A metodologia ágil escolhida para o desenvolvimento deste projeto foi o SCRUM, pois, como citam Amaral, Fleury e Isoni (2019, p. 68), seus benefícios são a visão clara dos resultados a entregar; ritmo e disciplina necessários à execução; definição de papéis e responsabilidades dos integrantes do projeto (Scrum Owner, Scrum Master e Team); empoderamento dos membros da equipe de projetos para atingir o desafio; conhecimento distribuído e compartilhado de forma colaborativa; ambiência favorável para crítica às ideias e não às pessoas.”
 
 
 ### Divisão de Papéis
@@ -41,7 +41,7 @@ Os papéis, na Equipe 4, foram distribuídos da seguinte maneira:
 
 ●	**Equipe de Desenvolvimento**: _Enzo Wilker Alves Félix_, Márcia Verônica Costa Miranda, Caio Costa Miranda, Rodrigo e André Lucas Corrêa de Andrade e Florio, Fábio Ribeiro de Barros (saiu do curso).
 
-As tarefas são organizadas nos backlog do produto, e, em todo processo de construção da aplicação, a equipe reuniu-se semanalmente para definição e planejamento das tarefas, distribuição das atividades, revisão e planejamento dos próximos passos.
+As tarefas são organizadas no backlog do produto, e, em todo processo de construção da aplicação, a equipe reuniu-se semanalmente para definição e planejamento das tarefas, distribuição das atividades, revisão e planejamento dos próximos passos.
 Esse processo de desenvolvimento foi sempre auxiliado pela utilização de diversas ferramentas de comunicação, documentação e construção de softwares.
 
 
