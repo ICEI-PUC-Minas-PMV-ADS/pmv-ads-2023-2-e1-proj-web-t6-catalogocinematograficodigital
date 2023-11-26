@@ -5,11 +5,11 @@ A construção e implementação da aplicação, como um todo, partiu do process
 
 **Tela Inicial**
 
-Para construção e implementação das páginas do aplicativo, foram planejadas o layout e telas bases de acesso ao aplicativo. 
+Para construção e implementação das páginas do aplicativo, foram planejados o layout e as telas bases de acesso ao aplicativo. 
 
-- O Layout do aplicativo foi pensado de forma minimalista, mas ao mesmo tempo moderno e que representasse profissionalismo. Foi escolhido um background já construído para a apresentação do projeto, desde a Etapa 1 de sua construção, que servirá de base para o design de todas as telas da aplicação.
-- O template padrão do projeto, que irá aparecer nas páginas do projeto, foi planejado por ter um menu de contexto, no canto superior direito, e um menu de navegação geral no rodapé, com conteúdo centralizado na página.
-- Em relação às fontes, optamos, inicialmente, utilizar a fonte Time News Roman, cor branca, para os botões de menus, e fonte Serif, cor preta, para os textos das páginas. Os botões de menus de navegação no canto superior são da cor azul, e os botões do menu de rodapé são da cor vermelha.
+- O Layout do aplicativo foi pensado de forma minimalista, porém, ao mesmo tempo, moderno e que representasse profissionalismo. Foi escolhido um background já construído para a apresentação do projeto, desde a Etapa 1 de sua construção, o qual servirá de base para o design de todas as telas da aplicação.
+- O template padrão do projeto, que irá aparecer em suas páginas, foi planejado para ter um menu de contexto, no canto superior direito, e um menu de navegação geral no rodapé, com conteúdo centralizado na página.
+- Em relação às fontes, optamos, inicialmente, por utilizar a fonte Time News Roman, cor branca, para os botões de menus, e fonte Serif, cor preta, para os textos das páginas. Os botões de menus de navegação no canto superior são da cor azul, e os botões do menu de rodapé são da cor vermelha.
   
 As Figuras abaixo ilustram um layout modelo, mostrando como foi essa organização.
 
