@@ -435,15 +435,15 @@ Os artefatos do projeto são desenvolvidos a partir de diversas plataformas e a 
 
 Figura 1 - Pauta de reunião de equipe e Distribuição de tarefas entre seus componentes.
 
-![2-print reunião equipe](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t6-catalogocinematograficodigital/assets/145228139/638fe207-1abd-43d4-b60a-1797bfbe5aa7)
+![2-print reunião equipe-ok](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t6-catalogocinematograficodigital/assets/145228139/661efdcb-bd9b-4d65-935a-3e5a0a91ab05)
 
 Figura 2 - Print de uma das reuniões realizadas com a equipe do projeto.
 
-![3-vídeo CCD](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t6-catalogocinematograficodigital/assets/145228139/81790c2c-a0fc-48a0-b85d-b2f81a937276)
+![3-vídeo CCD-OK](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t6-catalogocinematograficodigital/assets/145228139/3296e7a3-4c8b-41af-80dc-af328658e366)
 
 Figura 3 - Print de uma parte do vídeo Tutorial da plataforma CCD.
 
-![4-PP do CCD](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t6-catalogocinematograficodigital/assets/145228139/5401fcae-89c7-4b1d-9606-56eed448a091)
+![4-PP do CCD-OK](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t6-catalogocinematograficodigital/assets/145228139/053b0447-ba7b-4337-ab3d-e118161399eb)
 
 figura 4 - Slide inicial da apresentação do projeto.
 
