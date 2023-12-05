@@ -12,6 +12,10 @@
 
 Vídeo com pequeno e resumido Tutorial de como utilizar a plataforma desenvolvida, do Catálogo Cinematográfico Digital, no Eixo 1 do curso Análise de Desenvolvimento de Sistemas, 2023.2.
 
+Você pode acessar ao vídeo através do link:
+
+https://youtu.be/9Yfs5LYHQ20
+
 
 
 ## Hospedagem
