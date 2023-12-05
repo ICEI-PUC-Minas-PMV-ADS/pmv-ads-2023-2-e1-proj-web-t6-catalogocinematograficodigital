@@ -421,7 +421,7 @@ c. GitHub e KanBan- textos e atualizações: Márcia, Enzo e Caio;
 
 
 
-*4.3 Evidências:*
+*5.3 Evidências:*
 
 Algumas demonstrações das atividades realizadas nessa etapa, estão nas imagens abaixo:
 
@@ -431,7 +431,21 @@ Algumas demonstrações das atividades realizadas nessa etapa, estão nas imagen
 
 Os artefatos do projeto são desenvolvidos a partir de diversas plataformas e a relação dos ambientes com seu respectivo propósito. Abaixo estão as ferramentas empregadas no projeto, bem como os ambientes de trabalho utilizados pela equipe no seu processo de desenvolvimento:
 
+![1-Pauta de reunião de Equipe](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t6-catalogocinematograficodigital/assets/145228139/77b3ea91-93f0-4fec-aefe-5346a08fcd6d)
 
+Figura 1 - Pauta de reunião de equipe e Distribuição de tarefas entre seus componentes.
+
+![2-print reunião equipe](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t6-catalogocinematograficodigital/assets/145228139/638fe207-1abd-43d4-b60a-1797bfbe5aa7)
+
+Figura 2 - Print de uma das reuniões realizadas com a equipe do projeto.
+
+![3-vídeo CCD](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t6-catalogocinematograficodigital/assets/145228139/81790c2c-a0fc-48a0-b85d-b2f81a937276)
+
+Figura 3 - Print de uma parte do vídeo Tutorial da plataforma CCD.
+
+![4-PP do CCD](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t6-catalogocinematograficodigital/assets/145228139/5401fcae-89c7-4b1d-9606-56eed448a091)
+
+figura 4 - Slide inicial da apresentação do projeto.
 
 | AMBIENTE                            | PLATAFORMA                         | LINK DE ACESSO                         |
 |-------------------------------------|------------------------------------|----------------------------------------|
