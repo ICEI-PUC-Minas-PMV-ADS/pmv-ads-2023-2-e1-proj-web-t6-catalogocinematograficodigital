@@ -441,6 +441,7 @@ Figura 3 - Print de uma parte do vídeo Tutorial da plataforma CCD.
 
 figura 4 - Slide inicial da apresentação do projeto.
 
+![5-Kanban Etapa 5](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t6-catalogocinematograficodigital/assets/145228139/64c66011-bde5-4964-90b3-6d06217e2364)
 
 Figura 5 - Kanban da Etapa 5
 
