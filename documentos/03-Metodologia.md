@@ -425,12 +425,6 @@ c. GitHub e KanBan- textos e atualizações: Márcia, Enzo e Caio;
 
 Algumas demonstrações das atividades realizadas nessa etapa, estão nas imagens abaixo:
 
-
-
-### Ferramentas
-
-Os artefatos do projeto são desenvolvidos a partir de diversas plataformas e a relação dos ambientes com seu respectivo propósito. Abaixo estão as ferramentas empregadas no projeto, bem como os ambientes de trabalho utilizados pela equipe no seu processo de desenvolvimento:
-
 ![1-Pauta de reunião de Equipe](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t6-catalogocinematograficodigital/assets/145228139/77b3ea91-93f0-4fec-aefe-5346a08fcd6d)
 
 Figura 1 - Pauta de reunião de equipe e Distribuição de tarefas entre seus componentes.
@@ -446,6 +440,15 @@ Figura 3 - Print de uma parte do vídeo Tutorial da plataforma CCD.
 ![4-PP do CCD-OK](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t6-catalogocinematograficodigital/assets/145228139/053b0447-ba7b-4337-ab3d-e118161399eb)
 
 figura 4 - Slide inicial da apresentação do projeto.
+
+
+Figura 5 - Kanban da Etapa 5
+
+
+### Ferramentas
+
+Os artefatos do projeto são desenvolvidos a partir de diversas plataformas e a relação dos ambientes com seu respectivo propósito. Abaixo estão as ferramentas empregadas no projeto, bem como os ambientes de trabalho utilizados pela equipe no seu processo de desenvolvimento:
+
 
 | AMBIENTE                            | PLATAFORMA                         | LINK DE ACESSO                         |
 |-------------------------------------|------------------------------------|----------------------------------------|
