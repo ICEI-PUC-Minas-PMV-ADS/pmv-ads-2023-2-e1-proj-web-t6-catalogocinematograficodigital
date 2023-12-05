@@ -7,7 +7,6 @@
    [Apresentação-Grupo4-Turma 6-2023-2- ParaGitHub-Final.pdf](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t6-catalogocinematograficodigital/files/13560861/Apresentacao-Grupo4-Turma.6-2023-2-.ParaGitHub-Final.pdf)
 
 
-[Apresentação-Equipe 4-Turma 6-2023-2-versão FINAL.pdf](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t6-catalogocinematograficodigital/files/12695695/Apresentacao-Equipe.4-Turma.6-2023-2-versao.FINAL.pdf)
 
 ## Vídeo de apresentação
 
