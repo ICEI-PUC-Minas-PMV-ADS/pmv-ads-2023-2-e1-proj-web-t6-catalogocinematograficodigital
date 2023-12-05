@@ -109,7 +109,36 @@ Esse processo de desenvolvimento foi sempre auxiliado pela utilização de diver
 
        Referências atualizadas
 
+
+**Etapa 5 (Sprint 5)**:
   
+       Documentação de Contexto
+
+       Especificação do Projeto
+
+       Metodologia
+
+       Projeto de Interface
+  
+       Template da aplicação
+  
+       Programação de Funcionalidades
+  
+       Programação das demais Funcionalidades
+  
+       Plano de Testes de Software
+
+       Registro de Testes de Software
+
+       Referências atualizadas
+       
+       Hospedagem da Solução
+       
+       Apresentação do Projeto
+       
+       Vídeo de demonstração da solução
+    
+
 ### Etapa 1 (Sprint 1):
 
 *1.1 Planejamento:*
@@ -365,6 +394,38 @@ Figura 4 - Estrutura de Dados com informações dos filmes pesquisados pela API 
 ![13-Kanban - Etapa 4](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t6-catalogocinematograficodigital/assets/145228139/f531dd6a-afe7-45bd-be98-f7bbc84cab0b)
 
 Figura 5 - Kanban da Etapa 4 - tarefas em desenvolvimento e executadas.
+
+
+### Sprint 5:
+
+*5.1 Planejamento:*
+
+O planejamento dessa etapa consistiu na revisão do código implementado, na elaboração do roteiro para construção do vídeo e da apresentação do projeto. Foram distribuídas as atividades finais do projeto com a equipe, para revisão final, após finalização das tarefas. 
+
+
+*5.2 Execução:*
+
+A equipe continuou a realização de reuniões semanais, para planejamento e distribuição das atividades da etapa 5.
+
+Foi construído um pequeno roteiro para elaboração da apresentação do projeto, utilizando a ferramenta Power Point, bem como para a construção do vídeo, que é um Tutorial resumido da plataforma construída.
+
+Houve bastante troca de ideias e informações, entre os componentes do grupo que se envolveram com esse trabalho, para deixar os produtos da etapa de forma enxuta e objetiva.
+
+Nessa etapa, as atividades foram distribuídas entre os membros da equipe, da seguinte forma:
+
+a. Vídeo: Enzo e Caio;
+
+b. Apresentação em Power Point e PDF: Caio e Márcia;
+
+c. GitHub e KanBan- textos e atualizações: Márcia, Enzo e Caio;
+
+
+
+*4.3 Evidências:*
+
+Algumas demonstrações das atividades realizadas nessa etapa, estão nas imagens abaixo:
+
+
 
 ### Ferramentas
 
