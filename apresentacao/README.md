@@ -17,7 +17,7 @@ Você pode acessar ao vídeo através do link:
 https://youtu.be/9Yfs5LYHQ20
 
 
-ou abrir ou arquivo de vídeo:
+ou abrir o arquivo de vídeo:
 
 https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t6-catalogocinematograficodigital/assets/145228139/a4bec02b-2baf-465f-99fc-e7ad94aedc86
 
