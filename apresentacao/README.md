@@ -21,8 +21,6 @@ ou abrir o arquivo de vídeo:
 
 https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t6-catalogocinematograficodigital/assets/145228139/a4bec02b-2baf-465f-99fc-e7ad94aedc86
 
-Este é um comentário teste, para fins de utilização do GIT. segunda tentativa
-
 ## Hospedagem
 
 [[Catalogo Cinematográfico Digital.]](https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2023-2-e1-proj-web-t6-catalogocinematograficodigital/codigo-fonte/src/pages/index.html)
