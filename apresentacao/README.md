@@ -4,8 +4,7 @@
 
 1. Apresentação do projeto CCD em slides - formato PDF
 
-[Apresentação-Grupo4-Turma 6-2023-2- ParaGitHub-Final.pdf](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t6-catalogocinematograficodigital/files/13573924/Apresentacao-Grupo4-Turma.6-2023-2-.ParaGitHub-Final.pdf)
-
+[Apresentação-Grupo4-Turma 6-2023-2-OK.pdf](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t6-catalogocinematograficodigital/files/13642150/Apresentacao-Grupo4-Turma.6-2023-2-OK.pdf)
 
 
 ## Vídeo de apresentação
