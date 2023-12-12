@@ -10,9 +10,8 @@ const movies_assis = document.querySelector(".movies-assis");
 const modalContent = document.querySelector('.modal-content');
 console.log(movies_assis);
 
-var jsonString = localStorage.getItem("paraAssistidos");
-
-var listaFilmesAssistidos = JSON.parse(jsonString);
+const userId = usuarioLogado.apelidoCadastrado;
+var listaFilmesAssistidos = JSON.parse(localStorage.getItem(`paraAssistidos_${userId}`)) || [];
 
 console.log(listaFilmesAssistidos);
 
@@ -322,13 +321,14 @@ function removerDaAssistidos(button) {
 // Função para remover o filme da lista "para assistir"
 function removerFilmeParaAssistidos(filme) {
     // Verifica se já existe a chave "paraAssistir" no localStorage
-    let paraAssistirList = JSON.parse(localStorage.getItem("paraAssistidos")) || [];
+    const userId = usuarioLogado.apelidoCadastrado;
+    let paraAssistirList = JSON.parse(localStorage.getItem(`paraAssistidos_${userId}`)) || [];
 
     // Filtra a lista para remover o filme com base no ID
     paraAssistirList = paraAssistirList.filter(item => item.id.toString() !== filme.id.toString());
 
     // Atualiza o localStorage com a nova lista
-    localStorage.setItem("paraAssistidos", JSON.stringify(paraAssistirList));
+    localStorage.setItem(`paraAssistidos_${userId}`, JSON.stringify(paraAssistirList));
 
     // Atualiza a variável local
     listaFilmesAssistidos = paraAssistirList;
