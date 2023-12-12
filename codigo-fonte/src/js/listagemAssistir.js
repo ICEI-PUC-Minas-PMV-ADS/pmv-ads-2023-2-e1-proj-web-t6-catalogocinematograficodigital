@@ -10,9 +10,10 @@ const movies_assis = document.querySelector(".movies-assis");
 const modalContent = document.querySelector('.modal-content');
 console.log(movies_assis);
 
-var jsonString = localStorage.getItem("paraAssistir");
+const userId = usuarioLogado.apelidoCadastrado;
+var listaFilmesAssistir = JSON.parse(localStorage.getItem(`paraAssistir_${userId}`)) || [];
 
-var listaFilmesAssistir = JSON.parse(jsonString);
+console.log(listaFilmesAssistir);
 
 /* Ação de eventos sobre o botão menu da tag nav (mobile). */
 /* Parâmetros: Nome do evento, função. */
@@ -238,13 +239,14 @@ function removerDaAssistir(button) {
 // Função para remover o filme da lista "para assistir"
 function removerFilmeParaAssistir(filme) {
     // Verifica se já existe a chave "paraAssistir" no localStorage
-    let paraAssistirList = JSON.parse(localStorage.getItem("paraAssistir")) || [];
+    const userId = usuarioLogado.apelidoCadastrado;
+    let paraAssistirList = JSON.parse(localStorage.getItem(`paraAssistir_${userId}`)) || [];
 
     // Filtra a lista para remover o filme com base no ID
     paraAssistirList = paraAssistirList.filter(item => item.id.toString() !== filme.id.toString());
 
     // Atualiza o localStorage com a nova lista
-    localStorage.setItem("paraAssistir", JSON.stringify(paraAssistirList));
+    localStorage.setItem(`paraAssistir_${userId}`, JSON.stringify(paraAssistirList));
 
     // Atualiza a variável local
     listaFilmesAssistir = paraAssistirList;
@@ -290,7 +292,8 @@ function adicionarParaAssistidos(button) {
 
 function adicionarFilmeParaAssistidos(filme) {
     // Verifica se já existe a chave "paraAssistir" no localStorage
-    paraAssistidosList = JSON.parse(localStorage.getItem("paraAssistidos")) || [];
+    const userId = usuarioLogado.apelidoCadastrado;
+    paraAssistidosList = JSON.parse(localStorage.getItem(`paraAssistidos_${userId}`)) || [];
 
     // Verifica se o filme já está na lista
     if (!filmeEstaNaLista(paraAssistidosList, filme)) {
@@ -298,7 +301,7 @@ function adicionarFilmeParaAssistidos(filme) {
         paraAssistidosList.push(filme);
 
         // Atualiza o localStorage com a nova lista
-        localStorage.setItem("paraAssistidos", JSON.stringify(paraAssistidosList));
+        localStorage.setItem(`paraAssistidos_${userId}`, JSON.stringify(paraAssistidosList));
 
         console.log(`Adicionado à lista para assistidos: ${filme.title}`);
     } else {
