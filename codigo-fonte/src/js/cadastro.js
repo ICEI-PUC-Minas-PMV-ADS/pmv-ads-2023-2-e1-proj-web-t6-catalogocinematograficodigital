@@ -132,15 +132,25 @@ submitButton.addEventListener("click", function cadastrar(e) {
     if (validNome && validApelido && validEmail && validSenha && validConfirmarSenha) {
         //cria lista de usuarios utilizando um array
         let listaUsuario = JSON.parse(localStorage.getItem("listaUsuario") || "[]");
-       //atualiza lista de usuarios, com um array de objetos
-        listaUsuario.push(
-            {
-                nomeCadastrado: nome.value,
-                apelidoCadastrado: apelido.value,
-                emailCadastrado: email.value,
-                senhaCadastrado: senha.value,
-            }
-        );
+       // Obtém os valores do formulário
+       const nomeValue = nome.value;
+       const apelidoValue = apelido.value;
+       const emailValue = email.value;
+       const senhaValue = senha.value;
+
+       // Inicializa as listas específicas do usuário como vazias
+       const paraAssistirList = [];
+       const paraAssistidosList = [];
+
+       //atualiza lista de usuários, com um array de objetos
+       listaUsuario.push({
+           nomeCadastrado: nomeValue,
+           apelidoCadastrado: apelidoValue,
+           emailCadastrado: emailValue,
+           senhaCadastrado: senhaValue,
+           paraAssistirList: paraAssistirList,
+           paraAssistidosList: paraAssistidosList
+       });
         //adiciona o usuario ao localStorage
         localStorage.setItem("listaUsuario", JSON.stringify(listaUsuario));
         //Aviso de "usuário cadastrado"
