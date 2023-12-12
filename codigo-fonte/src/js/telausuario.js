@@ -429,30 +429,30 @@ function adicionarParaAssistidos(button) {
 var paraAssistirList;
 var paraAssistidosList
 
-// Função para adicionar o filme à lista "para assistir"
 function adicionarFilmeParaAssistir(filme) {
-    // Verifica se já existe a chave "paraAssistir" no localStorage
-    paraAssistirList = JSON.parse(localStorage.getItem("paraAssistir")) || [];
+    const userId = usuarioLogado.apelidoCadastrado;
+    let paraAssistirList = JSON.parse(localStorage.getItem(`paraAssistir_${userId}`)) || [];
 
     // Verifica se o filme já está na lista
     if (!filmeEstaNaLista(paraAssistirList, filme)) {
         // Adiciona o filme à lista
         paraAssistirList.push(filme);
 
-        // Atualiza o localStorage com a nova lista
-        localStorage.setItem("paraAssistir", JSON.stringify(paraAssistirList));
+        // Atualiza o localStorage com a nova lista específica do usuário
+        localStorage.setItem(`paraAssistir_${userId}`, JSON.stringify(paraAssistirList));
 
         console.log(`Adicionado à lista para assistir: ${filme.title}`);
     } else {
         console.log(`O filme ${filme.title} já está na lista para assistir.`);
     }
 
-    console.log(paraAssistidosList);
+    console.log(paraAssistirList);
 }
 
 function adicionarFilmeParaAssistidos(filme) {
     // Verifica se já existe a chave "paraAssistir" no localStorage
-    paraAssistidosList = JSON.parse(localStorage.getItem("paraAssistidos")) || [];
+    const userId = usuarioLogado.apelidoCadastrado;
+    paraAssistidosList = JSON.parse(localStorage.getItem(`paraAssistidos_${userId}`)) || [];
 
     // Verifica se o filme já está na lista
     if (!filmeEstaNaLista(paraAssistidosList, filme)) {
@@ -460,7 +460,7 @@ function adicionarFilmeParaAssistidos(filme) {
         paraAssistidosList.push(filme);
 
         // Atualiza o localStorage com a nova lista
-        localStorage.setItem("paraAssistidos", JSON.stringify(paraAssistidosList));
+        localStorage.setItem(`paraAssistidos_${userId}`, JSON.stringify(paraAssistidosList));
 
         console.log(`Adicionado à lista para assistidos: ${filme.title}`);
     } else {
